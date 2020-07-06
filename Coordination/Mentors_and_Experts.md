@@ -6,12 +6,12 @@ Mentors and experts help the students to learn the skills they lack or to find t
 
 | Name        | contact         | domain of experience |
 | :-------------- | :-------------------------- | :----------------------------------- |
-| Willem de Bruin | w.j.a.debruijn@students.uu.nl | student in cohort 2019 |
+| Rinske Alkemade | r.m.alkemade@uu.nl  | *student in cohort 2019* |
+| Willem de Bruin | w.j.a.debruijn@students.uu.nl | *student in cohort 2019* |
 | Gerhard Blab | g.a.blab@uu.nl | biophysics, microscopy |
-| Marjolein Dijkstra (tbc) | m.dijkstra@uu.nl | numerical modelling, soft matter |
-| Syafuddin Jaelani (tbc) | s.jaelani@uu.nl | data analysis, statistical methods, instrumentation |
-| Kira Maathuis | h.a.w.maathuis@students.uu.nl  | student in cohort 2019 |
-| Auro Mohanty (tbc) | aurogreenindia@gmail.com  | data analysis, statistical methods |
+| Marjolein Dijkstra | m.dijkstra@uu.nl | numerical modelling, soft matter |
+| Kira Maathuis | h.a.w.maathuis@students.uu.nl  | *student in cohort 2019* |
+| Auro Mohanty | aurogreenindia@gmail.com  | data analysis, statistical methods |
 | Allard Mosk | a.p.mosk@uu.nl | optics, nanophotonics | 
 | Dries van Oosten | d.vanoosten@uu.nl | optics, nanophotonics |
 | Christiaan Post | l.c.post@uu.nl | scanning probe microscopy, nanofabrication |

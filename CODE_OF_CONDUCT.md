@@ -3,7 +3,7 @@
 This document will be created collectively by the cohort participants.
 The procedure is based on [this exercise by Aurelia Moser](http://aureliamoser.com/aaas-guides/conduct/index.html)  
 
-Everyone taking part in Experiment Design course and discussions—mentors, helpers, coordinators, and learners—isrequired to conform to the following Code of Conduct. Coordinators will enforce this code throughout the course.
+Everyone taking part in Experiment Design course and discussions (mentors, helpers, coordinators, and learners) is required to conform to the following Code of Conduct. Coordinators will oversee adherence to this code throughout the course.
  
 #### What core words would you like to see associated with this group?  
 _These could be values, ideals, or characteristics. Try to keep these to one word, if possible._
@@ -39,7 +39,13 @@ To create a collaborative and inviting learning environment, we also emphasise c
 + Be open to learning from others.  
 + Lead by example and match your actions with your words.  
 
-The following will not be tolerated during the activities related to this course: violence and threats of violence; personal attacks; derogatory language; unwelcome sexual attention or physical contact; disruptive behaviour; influencing unacceptable behaviour.
+The following will not be tolerated during the activities related to this course: 
+
++ violence and threats of violence
++ personal attacks; derogatory language
++ unwelcome sexual attention or physical contact
++ disruptive behaviour
++ influencing unacceptable behaviour.
 
 ### Inclusion and Diversity
 
