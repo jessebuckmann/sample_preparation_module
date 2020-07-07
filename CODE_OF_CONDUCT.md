@@ -20,7 +20,8 @@ _These could be values, ideals, or characteristics. Try to keep these to one wor
 1. Contact Jasper or Sanli by private message, or in person (e.g. before each course day, or find them on the second floor of the Ornstein laboratory). All communication will be treated as confidential. 
 2. if for any reason you don’t want to do 1, you can contact Dante Killian who has agreed to function as external contact person for this purpose.
 
-===============================================================
+---
+
 ## Community Participation Guidelines
 Apart from the code of conduct, all participants in UED will follow these general guidelines.
 
