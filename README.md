@@ -23,7 +23,7 @@ I hope that this guide can help you navigate through the logistics and instructi
 + Email: s.faez@uu.nl 
 + Preferred mode of communciaiton: messaging on team
 + Office: Ornstein laboratory 266
-+ Twitter: @sanli
++ Twitter: [@sanli](https://twitter.com/sanli/)
 
 The files in coordination directory contain most of the information about the course. To start, you can check the [syllabus of the course](Syllabus_2020.md) or check [how to contribute](CONTRIBUTING.md). The files in that directory will be updated during the course (fetch them into your local repo) and the imporant messages will be listed [in updates](UPDATES.md). To make our classes a welcoming and pleasant experience for all participants, please read the [ code of concuct](CODE_OF_CONDUCT.md) very carefully, and stick to it.
 
