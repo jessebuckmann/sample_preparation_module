@@ -1,4 +1,5 @@
-/* adjust and put the following line as the issue title, then can clear this comment (version 07072020) */
+/* adjust and put the following line as the issue title, then clear this comment (version 07072020) */
+
 Reporting checklist for {your name}
 
 ### Part 1: Building up
