@@ -1,11 +1,11 @@
-/* adjust and put the following line as the issue title, then clear this comment (version 07072020) */
+/* adjust {..} and put the following line as the issue title, then clear this comment (version 07072020) */
 
 Reporting checklist for {your name}
 
 ### Part 1: Building up
 + [ ] read through the UED2020 repo contributing guidelines
 + [ ] practiced basic git commands and markdown syntax
-+ [ ] chosen project {PROJET NAME} and created a folder in my forked repo
++ [ ] chosen project {PROJECT NAME} and created a folder in my forked repo
 + [ ] sent my personal goals to coordinator
 + [ ] made our first appointment with our project mentor
 + [ ] created our project canvas 
@@ -19,7 +19,7 @@ Reporting checklist for {your name}
 
 ### Part 3: Presenting
 + [ ] commited instructions and pull request to the UED2020 **!hard deadline!**
-+ [ ] submitted peer feedback on project {PROJET NAME}
++ [ ] submitted peer feedback on project {PROJECT NAME}
 + [ ] responded to peer feedback and updated instruction
 + [ ] created poster draft, presentation goals, and project advertisement **!hard deadline!**
 + [ ] installed our contribution in the grand project
