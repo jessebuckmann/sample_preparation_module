@@ -10,7 +10,7 @@ Reporting checklist for {your name}
 + [ ] made our first appointment with our project mentor
 + [ ] created our project canvas 
 + [ ] shared notes from our first mentor meeting 
-+ [ ] made project convas, goals, and self-evaluation criteria ready for discussion **!hard deadline!**
++ [ ] made project canvas, goals, and self-evaluation criteria ready for discussion **!hard deadline!**
 
 ### Part 2: Testing
 + [ ] shared our first signal and milestone celebration art-piece
