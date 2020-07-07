@@ -1,6 +1,6 @@
 # CODE OF CONDUCT 2020
 
-This document will be created collectively by the cohort participants.
+This document will be completed collectively by the cohort participants.
 The procedure is based on [this exercise by Aurelia Moser](http://aureliamoser.com/aaas-guides/conduct/index.html)  
 
 Everyone taking part in Experiment Design course and discussions (mentors, helpers, coordinators, and learners) is required to conform to the following Code of Conduct. Coordinators will oversee adherence to this code throughout the course.
