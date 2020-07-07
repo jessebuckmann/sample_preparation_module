@@ -87,7 +87,7 @@ This week you will meet your mentor for the first time. These 30-minute meetings
 + We will hear about the advent of scanning probe methods from **Ingmar Swart** (Monday 13:00 - 15:00).
 	+ it will be useful to take a look at the [Nobel lecture of Gerd Binnig](https://www.nobelprize.org/prizes/physics/1986/binnig/lecture/).
 + **Aron Opheij** will teach us how to interface electronic devices using Python 
-    - [lecture slides]()
+    + [lecture slides]()
 
 ### Mentor meeting
 In the first meeting with your mentor, introduce yourselves and then:
@@ -133,8 +133,6 @@ During this week, you will put together the elements of your experiment and try 
 (https://www.nobelprize.org/prizes/physics/1997/phillips/lecture/)
 + we will hear about setting up a reproducible project structure by **Barbara Vreede**
     - [lecture slides](https://solisservices-my.sharepoint.com/:b:/r/personal/s_faez_uu_nl/Documents/ExperimentDesignCourse/students/Slides/projectmanagement_20190923.pdf?csf=1&e=x8OvBQ)
-+ we will learn some basics on signal processing by **Alessandro Grelli**. 
-    - [lecture slides]
 + we will understand the development of electron microscopy by **Gerhard Blab**.
     - based on [TEM chapter](./Lectures/Reading_material/Williams_Carter_TEM_Chapter1.pdf)
 
@@ -161,10 +159,15 @@ During the cohort meeting, your peers will play devil's advocates about the expe
 _
 During this week, you work towards getting the first signal related to your project goals. 
 
-tbc: We will have a tour of the mechanical workshop on Monday afternoon.
+### In this week lectures 
+
++ **Allard Mosk** will tell us how to best extract signal from noise 
+    - [lecture slides]()
++ we will learn hear about the role photovoltaics in the energy transition from **Wilfried van Sark**. 
+    - [lecture slides]
++ tbc: We will have a tour of the mechanical workshop
 
 ### Cohort meeting
-
 
 #### Before the cohort meeting:
 
