@@ -11,7 +11,7 @@ As in most open projects, there is no best way of contributing to the Experiment
 
 We try to make this repository and its documentation self-contained and instructive. You are therefore highly encouraged to use UED2020 repo from the start for you documentation. Here is a list of recommendations:
 
-+ Fork this repository into your gitlab account, and make the coordinators and other participants a member of your project.
++ Fork this repository into your gitlab account, and make the coordinators and other contributors a member of your project.
 + Create a personal progress checklist from [this template](./Coordination/_Templates/progress_checklist.md) on the [UED2020 issues](https://git.science.uu.nl/ued2020/experiment-design-2020/-/issues). **Timestamps on this issue will be used as the basis for grading.**
 + After choosing a project, create a subfolder (convention: ProjectName_TeamMembers) in your repo. Keep all you notes and project documentation in this subfolder. 
 + Deliver your assignments by sending pull-requests to the UED2020 repo.

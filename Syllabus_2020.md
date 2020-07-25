@@ -27,46 +27,36 @@ To get closer to achieving this central goal in, next to technical discussions, 
 
 
 ## Schedule
-Due to pandemic restrictions, in-person gatherings for UED2020 are only held on Mondays. The online cohort meetings will be on Thursday. Meetings with experts and mentors can be arranged on other days. The study/work-load is expected to be about 20 hours per week.
+Due to pandemic restrictions, in-person gatherings for UED2020 are only held on Mondays. The online cohort meetings will be on Thursdays. Meetings with experts and mentors can be arranged also on other days. The study/work-load is expected to be about 20 hours per week.
 
 This schedule is set based on the coordinators' experience with execution of an experimental project and the feedback from the students of last year. There is no unique path to achieving the course goals and we will adjust the schedule as necessary during our cohort meetings. 
 
 ---
 
-## Week 1 (31-08-2020) - Introduction
+## Week 1 (Thursday 03-09-2020) - Introduction
 
-During this week, the coordinators will discuss the goals of the course with you, and explain the suggested path to successfully achieve the learning outcomes. The structure of the working hours and cohort meetings will be presented.   
+During this week, we will have only one online meeting on Thursday at 9:30 - 12:00. All participants will introduce themselves and the coordinators will discuss the goals of the course with you, and explain the suggested path to successfully achieve the learning outcomes. The structure of the working hours and cohort meetings will be presented. Also the required means of communication will be presented and tested.
 
-You will also form teams, choose a project, and express your preference for a mentor that will give you feedback on your progress with the project and connect you to experts when needed. There are no mentor meetings planned this week. When a mentor has accepted this role for your project, you will be informed by the coordinator. You should then reach out to your mentor to confirm when and where you'll be meeting.
+We will also have one online lecture in the second hour.  
 
 ### This week lectures
-+ **Dries van Ossten**: Laser interferometry and its applications
-+ **Sanli Faez**: Who created the Science factory?
++ **Dries van Oosten**: Laser interferometry and its applications
 
 ### Cohort meetings 
 
-During the Monday meeting we will discuss:
+During the Thursday [online meeting](https://teams.microsoft.com/l/channel/19%3ad74a6c647c0b4d658d39f312add69d02%40thread.tacv2/Cohort%2520meetings?groupId=b36d7aae-63c5-44c9-a860-073e4ffd37ae&tenantId=d72758a0-a446-4e0f-a0aa-4bf95a4a10e7) we will discuss:
 
 + The course goals and the schedule. 
 + 2-min introduction of all students and their interests (think of this before the meeting)
-+ Value exchanges, community interactions in project groups
-+ Decide collectively on our [code of conduct](./CODE_OF_CONDUCT.md)
- 
-On the Thursday meeting we will discuss:
-
-+ principles for choosing a research topic and discuss the [speech of George Whitesides](https://vimeo.com/96076471)
-+ history and current state of the [Safecast](https://blog.safecast.org/about/)
-+ formation of the teams for the experiments
-+ the cohort grand project
-
++ Communication tools necessary for this course and self-study material
++ Deciding on a name for this cohort
 
 #### Before the cohort meeting:
 + Think of a name to suggest for this cohort.
 + Activate your account on the Science Faculty Gitlab server.
 
 #### After the cohort meeting:
-
-+ Make sure you have access to the [UED2020 repository](https://git.science.uu.nl/ued2020). clone it.
++ Make sure you have access to the [UED2020 repository](https://git.science.uu.nl/ued2020). Fork it to your account and clone it on your PC.
 + Set up your project folder structure.
 + Fill in your [personal goals form](./Coordination/_Templates/personal_goals.md) and send it to Sanli and Jasper (use the chat function on MS Teams) 
 + Share your chosen [mentor](./Coordination/Mentors_and_Experts.md) with the course coordinator 
@@ -75,19 +65,57 @@ On the Thursday meeting we will discuss:
 + [Getting your project online](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/), although this guide is geared towards GitHub users, much of it can be applied to the way we organise the UED repository, together.
 + [Nobel prize lecture of Hansch](https://www.nobelprize.org/prizes/physics/2005/hansch/lecture/)
 + [Dries' lecture slides]()
-+ [about George Whitesides](https://en.wikipedia.org/wiki/George_M._Whitesides) 
- 
+
 ---
 
-## Week 2 (07-09-2020) - Project goals
+## Week 2 (07-09-2020) - Course and Project goals
 
-This week you will meet your mentor for the first time. These 30-minute meetings will happen every week during the UED course at the moments that you and your mentor agree. 
+You will also form teams, choose a project, and express your preference for a mentor that will give you feedback on your progress with the project and connect you to experts when needed. There are no mentor meetings planned this week. When a mentor has accepted this role for your project, you will be informed by the coordinator. You should then reach out to your mentor to confirm when and where you'll be meeting.
 
 ### This week lectures 
 + We will hear about the advent of scanning probe methods from **Ingmar Swart** (Monday 13:00 - 15:00).
 	+ it will be useful to take a look at the [Nobel lecture of Gerd Binnig](https://www.nobelprize.org/prizes/physics/1986/binnig/lecture/).
-+ **Aron Opheij** will teach us how to interface electronic devices using Python 
++ **Sanli Faez**: On the discovery of superconductivity and Who created the Science factory?
++ On Thursday, September 10th, **Aron Opheij** will teach us how to interface electronic devices using Python 
     + [lecture slides]()
+	
+### Cohort meeting
+
+During the Monday meeting we will discuss:
++ principles for choosing a research topic and discuss the [speech of George Whitesides](https://vimeo.com/96076471)
++ history and current state of the [Safecast](https://blog.safecast.org/about/)
++ formation of the teams for the experiments
++ the cohort grand project
+
+During the Thursday online meeting we will discuss:
++ How each project contributes to the cohort grand project
++ Decide collectively on our [code of conduct](./CODE_OF_CONDUCT.md)
++ Value exchanges, community interactions in project groups
++ Listen to a lecture on interfacing devices using Python
+
+### Resources:
++ [Gerd Binnig Nobel lecture](https://www.nobelprize.org/prizes/physics/1986/binnig/lecture/)
++ [Ingmar's lecture slides]()
++ [Python interfacing slides]()
++ [about George Whitesides](https://en.wikipedia.org/wiki/George_M._Whitesides) 
++ [labphew](https://labphew.readthedocs.io/en/latest/)
++ [Value exchange taxonomy](./Lectures/Reading_material/Taxonomy_of_open_value_exchanges.rtf)
+
+---
+
+## Week 3 (14-09-2020) - Daring to Try
+
+This week you will meet your mentor for the first time. These 30-minute meetings will happen every week at the moments that you and your mentor agree. 
+During this week, you will put together the elements of your experiment and try to make some (any) measurements
+
+### In this week lectures 
++ we will hear about the Bose-Einstein condensation experiment in the International Space Station, from **Peter van der Straten**  
+    + Peter's lecture will be based on selected parts from the [Nobel prize lecture of Phillips]
+(https://www.nobelprize.org/prizes/physics/1997/phillips/lecture/)
++ we will hear about setting up a reproducible project structure by **Barbara Vreede**
+    - [lecture slides]()
++ we will understand the development of electron microscopy by **Gerhard Blab**.
+    - based on [TEM chapter](./Lectures/Reading_material/Williams_Carter_TEM_Chapter1.pdf)
 
 ### Mentor meeting
 In the first meeting with your mentor, introduce yourselves and then:
@@ -101,50 +129,26 @@ Document your project goals in a copy of [project goals template](./Coordination
 
 Use a copy of the [mentor meetings template](./Coordination/_Templates/mentor_meeting_notes.md) or similar format and save your notes in your project directory.
 
-### Cohort meeting
+#### Before the mentor meeting:
++ Make a list of necessary equipment for your project and discuss the list with the course coordinator.
++ Assess the load of your project on the grand project available resources.
++ Complete your [project canvas](./Coordination/_Templates/project_canvas.pptx).
 
-During the Thursday meeting we will discuss:
-+ How each project contributes to the cohort grand project
-
-#### Before the cohort meeting:
-+ Make a list of necessary equipment for your project and discuss the list with the course coordinator
-+ Assess the load of your project on the grand project available resources
-+ Complete your [project canvas](./Coordination/_Templates/project_canvas.pptx)  
-
-#### After the cohort meeting:
+#### After the mentor meeting:
 + Update your flow chart based on feedback you received from your mentor and classmates, along with a time plan.
-+ Update your project canvas and ask the course coordinators to comment on it
-+ Update the criteria for evaluating your project outcome
-
-### Resources:
-+ [Gerd Binnig Nobel lecture](https://www.nobelprize.org/prizes/physics/1986/binnig/lecture/)
-+ [Ingmar's lecture slides]()
-+ [Python interfacing slides]()
-
----
-
-## Week 3 (14-09-2020) - Daring to Try
-
-During this week, you will put together the elements of your experiment and try to make some (any) measurements
-
-### In this week lectures 
-+ we will hear about the Bose-Einstein condensation experiment in the International Space Station, from **Peter van der Straten**  
-    + Peter's lecture will be based on selected parts from the [Nobel prize lecture of Phillips]
-(https://www.nobelprize.org/prizes/physics/1997/phillips/lecture/)
-+ we will hear about setting up a reproducible project structure by **Barbara Vreede**
-    - [lecture slides](https://solisservices-my.sharepoint.com/:b:/r/personal/s_faez_uu_nl/Documents/ExperimentDesignCourse/students/Slides/projectmanagement_20190923.pdf?csf=1&e=x8OvBQ)
-+ we will understand the development of electron microscopy by **Gerhard Blab**.
-    - based on [TEM chapter](./Lectures/Reading_material/Williams_Carter_TEM_Chapter1.pdf)
++ Update your project canvas and ask the course coordinators to comment on it.
++ Update the criteria for evaluating your project outcome.
 
 ### Cohort meeting
 
-During the cohort meeting, your peers will play devil's advocates about the experiment you have chosen and you have to defend why it will work.
+During the online cohort meeting, your peers will play devil's advocates about the experiment you have chosen and you have to defend why it will work.
 
 #### Before the cohort meeting:
 + Think of convincing reasons why your experiment is worth doing and what are possible pitfalls.
 
 #### After the cohort meeting:
 + When you are convinced about your experiment, take the first few steps to take measurements.
+
 
 ### Resources:
 
