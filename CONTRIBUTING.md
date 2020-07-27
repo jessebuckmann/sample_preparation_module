@@ -1,8 +1,8 @@
 # Experiment Design 2020
 
-Thank you for your participation in the Utrecht Experiment Design course. If you have come this far, you are either a student, a mentor, or and expert willing to help. This document guides you through the UED2020 repositoy. In theory, this repositoy must include all the information you need to contributed effectively to the course. 
+Thank you for your participation in the Utrecht Experiment Design course. If you have come this far, you are either a student, a mentor, or and expert willing to help. This document guides you through the UED2020 repositoy. In theory, this repository must include all the information you need to contributed effectively to the course. 
 
-Everyone taking part in Experiment Design course and discussions (mentors, helpers, coordinators, and learners) is required to conform to out [Code of Conduct](CODE_OF_CONDUCT.md). Please read the code carefully. Coordinators will oversee adherence to this code throughout the course.
+Everyone taking part in Experiment Design course and discussions (mentors, helpers, coordinators, and learners) is required to conform to our [Code of Conduct](CODE_OF_CONDUCT.md). Please read the code carefully. Coordinators will oversee adherence to this code throughout the course.
 
 
 ## As students 
