@@ -14,7 +14,7 @@ Mentors and experts help the students to learn the skills they lack or to find t
 | Auro Mohanty | aurogreenindia@gmail.com  | data analysis, statistical methods |
 | Allard Mosk | a.p.mosk@uu.nl | optics, nanophotonics | 
 | Dries van Oosten | d.vanoosten@uu.nl | optics, nanophotonics |
-| Christiaan Post | l.c.post@uu.nl | scanning probe microscopy, nanofabrication |
+| Jesper Moes | j.r.moes@uu.nl | scanning probe microscopy, nanofabrication |
 | Jacob Seifert | j.seifert@uu.nl | machine learning, computational imaging |
 
 ## Experts

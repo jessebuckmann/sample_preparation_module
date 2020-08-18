@@ -176,7 +176,7 @@ During this week, you work towards getting the first signal related to your proj
 #### Before the cohort meeting:
 
 + Make yourself familiar with the [taxonomy of open value exchanges](./Lectures/Reading_material/Taxonomy_of_open_value_exchanges.rtf)
-+ Prepare some quiz questions based on the scientific lectures (Ingmar, Dries, Peter, Alessandro, Gerhard) of the past 3 weeks. We will make teams and you will quiz each other.
++ Prepare some quiz questions based on the scientific lectures (Ingmar, Dries, Peter, Allard, Gerhard) of the past 3 weeks. We will make teams and you will quiz each other.
 
 #### After the cohort meeting:
 
