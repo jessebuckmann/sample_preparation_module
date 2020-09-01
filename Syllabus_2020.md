@@ -29,7 +29,7 @@ To get closer to achieving this central goal in, next to technical discussions, 
 ## Schedule
 Due to pandemic restrictions, in-person gatherings for UED2020 are only held on Mondays. The online cohort meetings will be on Thursdays. Meetings with experts and mentors can be arranged also on other days. The study/work-load is expected to be about 20 hours per week.
 
-This schedule is set based on the coordinators' experience with execution of an experimental project and the feedback from the students of last year. There is no unique path to achieving the course goals and we will adjust the schedule as necessary during our cohort meetings. 
+This schedule is set based on the coordinators' experience with execution of an experimental project and the feedback from the students of last year. There is no unique path to achieving the course goals and __we will adjust the schedule as necessary during our cohort meetings__.
 
 ---
 
@@ -46,8 +46,8 @@ We will also have one online lecture in the second hour.
 
 During the Thursday [online meeting](https://teams.microsoft.com/l/channel/19%3ad74a6c647c0b4d658d39f312add69d02%40thread.tacv2/Cohort%2520meetings?groupId=b36d7aae-63c5-44c9-a860-073e4ffd37ae&tenantId=d72758a0-a446-4e0f-a0aa-4bf95a4a10e7) we will discuss:
 
-+ The course goals and the schedule. 
-+ 2-min introduction of all students and their interests (think of this before the meeting)
++ The course goals and the schedule
++ 2-min introduction of all students and their interests (if possible think of this before the meeting.)
 + Communication tools necessary for this course and self-study material
 + Deciding on a name for this cohort
 
@@ -58,11 +58,11 @@ During the Thursday [online meeting](https://teams.microsoft.com/l/channel/19%3a
 #### After the cohort meeting:
 + Make sure you have access to the [UED2020 repository](https://git.science.uu.nl/ued2020). Fork it to your account and clone it on your PC.
 + Set up your project folder structure.
-+ Fill in your [personal goals form](./Coordination/_Templates/personal_goals.md) and send it to Sanli and Jasper (use the chat function on MS Teams) 
-+ Share your chosen [mentor](./Coordination/Mentors_and_Experts.md) with the course coordinator 
++ Fill in your [personal goals form](./Coordination/_Templates/personal_goals.md) and send it to Sanli and Jasper (use the chat function on MS Teams).
++ Share your chosen [mentor](./Coordination/Mentors_and_Experts.md) priorities with the course coordinators.
 
 ### Resources:
-+ [Getting your project online](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/), although this guide is geared towards GitHub users, much of it can be applied to the way we organise the UED repository, together.
++ [Getting your project online](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/), although this guide is geared towards GitHub users, much of it can be applied to the way we organise the UED2020 repository, together.
 + [Nobel prize lecture of Hansch](https://www.nobelprize.org/prizes/physics/2005/hansch/lecture/)
 + [Dries' lecture slides]()
 
@@ -94,7 +94,6 @@ During the Thursday online meeting we will discuss:
 + Listen to a lecture on interfacing devices using Python
 
 ### Resources:
-+ [Gerd Binnig Nobel lecture](https://www.nobelprize.org/prizes/physics/1986/binnig/lecture/)
 + [Ingmar's lecture slides]()
 + [Python interfacing slides]()
 + [about George Whitesides](https://en.wikipedia.org/wiki/George_M._Whitesides) 
@@ -152,6 +151,7 @@ During the online cohort meeting, your peers will play devil's advocates about t
 
 ### Resources:
 
++ [Gerd Binnig Nobel lecture](https://www.nobelprize.org/prizes/physics/1986/binnig/lecture/)
 + [Nobel prize lecture of Phillips](https://www.nobelprize.org/prizes/physics/1997/phillips/lecture/)
 + [Peter's lecture slides](tbs)
 + [Good coding practices](./Lectures/Reading_material/Good_Enough_Practices_PLOS.pdf)
@@ -234,7 +234,7 @@ During this week, you will share your setup, work instructions, and results with
 
 #### Before the cohort meeting:
 
-Fill in the [reproducibility feedback]() for the project assigned to you and discuss it with the group owner.
+Fill in the [reproducibility feedback](./Coordination/_Templates/reproducibility_review) for the project assigned to you and discuss it with the group owner.
 
 #### After the cohort meeting:
 
@@ -277,7 +277,7 @@ During this week we will put all the necessary parts for the grand project toget
 
 ---
 
-## Week 10 (2-11-19) - Tell Your Story
+## Week 10 (2-11-2020) - Tell Your Story
 
 During this week you will present your project results in a public event on **Thursday 5th of November**. 
 
