@@ -41,6 +41,7 @@ We will also have one online lecture in the second hour.
 
 ### This week lectures
 + **Dries van Oosten**: Laser interferometry and its applications
+   - [slides]()
 
 ### Cohort meetings 
 
@@ -63,8 +64,9 @@ During the Thursday [online meeting](https://teams.microsoft.com/l/channel/19%3a
 
 ### Resources:
 + [Getting your project online](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/), although this guide is geared towards GitHub users, much of it can be applied to the way we organise the UED2020 repository, together.
-+ [Nobel prize lecture of Hansch](./Lecutres/Reading_material/Weiss-Nobel-lecture.pdf)
-+ [Technical details of VIRGO](./Lecutres/Reading_material/Accadia2012_virgo.pdf)
++ [Nobel prize lecture of Hansch](./Lectures/Reading_material/Weiss-Nobel-lecture.pdf)
++ [Technical details of VIRGO](./Lectures/Reading_material/Accadia2012_virgo.pdf)
++ [Lecture slides on laser interferometry]()
 
 ---
 
@@ -119,7 +121,7 @@ During this week, you will put together the elements of your experiment and try 
 ### Mentor meeting
 In the first meeting with your mentor, introduce yourselves and then:
 
-+ Review your peronal goals
++ Review your personal goals
 + Review your project description
 + Set 1-2 personal goals in your team for your project.  
 + Create your [project canvas](./Coordination/_Templates/project_canvas.pptx)  
@@ -160,7 +162,7 @@ During the online cohort meeting, your peers will play devil's advocates about t
 ---
 
 ## Week 4 (21-09-2020) - The First Signal
-_
+
 During this week, you work towards getting the first signal related to your project goals. 
 
 ### In this week lectures 
@@ -168,7 +170,7 @@ During this week, you work towards getting the first signal related to your proj
 + **Allard Mosk** will tell us how to best extract signal from noise 
     - [lecture slides]()
 + we will learn hear about the role photovoltaics in the energy transition from **Wilfried van Sark**. 
-    - [lecture slides]
+    - [lecture slides]()
 + tbc: We will have a tour of the mechanical workshop
 
 ### Cohort meeting
