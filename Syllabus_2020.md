@@ -27,7 +27,7 @@ To get closer to achieving this central goal in, next to technical discussions, 
 
 ## This Syllabus
 
-This syllabus is a "living" document. The course coordinators are open to suggestions regarding changes to this document or the workflow. Bring this up in a cohort meeting or 
+This syllabus is a "living" document. The course coordinators are open to suggestions regarding changes to this document or the workflow. Bring this up in a cohort meeting, bring it up on Teams, or contact a course coordinator
 
 ## Schedule
 Due to pandemic restrictions, in-person gatherings for UED2020 are only held on Mondays. The online cohort meetings will be on Thursdays. Meetings with experts and mentors can be arranged also on other days. The study/work-load is expected to be about 20 hours per week.
