@@ -25,6 +25,9 @@ To get closer to achieving this central goal in, next to technical discussions, 
 + Learn how to apply those principles to open leadership and working open in your groups.  
 + Learn how to collect, invite, and tell stories that demonstrate how solving the chosen problems benefits the communities you belong to.  
 
+## This Syllabus
+
+This syllabus is a "living" document. The course coordinators are open to suggestions regarding changes to this document or the workflow. Bring this up in a cohort meeting or 
 
 ## Schedule
 Due to pandemic restrictions, in-person gatherings for UED2020 are only held on Mondays. The online cohort meetings will be on Thursdays. Meetings with experts and mentors can be arranged also on other days. The study/work-load is expected to be about 20 hours per week.
