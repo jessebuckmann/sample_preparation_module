@@ -165,6 +165,9 @@ During the online cohort meeting, your peers will play devil's advocates about t
 
 During this week, you work towards getting the first signal related to your project goals. 
 
+### Deadlines
+Before the start of this Monday's meeting, you have to met your deadlines up to the point "made project canvas, goals, and self-evaluation criteria ready for discussion". (Please update your issues!)
+
 ### In this week lectures 
 
 + **Allard Mosk** will tell us how to best extract signal from noise 
@@ -221,6 +224,9 @@ During this week, you will beta-test and your project and make it safe to use, a
 
 You will explain your project to another group before the cohort meeting. During the meeting, that group will then have to explain your project to the rest of the cohort.
 
+### Deadlines
+Before the start of this Monday's meeting, you have to met your deadlines up to the point "committed report on context and theory". (Please update your issues!)
+
 #### Before the cohort meeting:
 
 + Explain your project to another group.
@@ -233,6 +239,9 @@ You will explain your project to another group before the cohort meeting. During
 ## Week 7 (12-10-2020)- Reproducibility
 
 During this week, you will share your setup, work instructions, and results with your peers and ask them to reproduce your results. You will do the same for some other project and report on the reproducibility of those results and the qualities of the work instructions.
+
+### Deadlines
+Before the start of this Monday's meeting, you have to met your deadlines up to the point "committed instructions and pull request to the UED2020". (Please update your issues!)
 
 #### Before the cohort meeting:
 
@@ -285,6 +294,8 @@ During this week you will present your project results in a public event on **Th
 
 In the cohort meeting of this week, we will together discuss the learning track of the whole course and how to proceed with maintaining your projects.   
 
+### Deadlines
+Before the start of this Monday's meeting, you have to met your deadlines up to the point "created poster draft, presentation goals, and project advertisement". (Please update your issues!)
 
 ### Before the cohort meeting:
 + Fill in the [self-evaluation](tbc) for the outcome of your project.
