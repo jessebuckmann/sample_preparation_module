@@ -67,7 +67,7 @@ During the Thursday [online meeting](https://teams.microsoft.com/l/channel/19%3a
 
 ### Resources:
 + [Getting your project online](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/), although this guide is geared towards GitHub users, much of it can be applied to the way we organise the UED2020 repository, together.
-+ [Nobel prize lecture of Hansch](./Lectures/Reading_material/Weiss-Nobel-lecture.pdf)
++ [Nobel prize lecture of Weiss](./Lectures/Reading_material/Weiss-Nobel-lecture.pdf)
 + [Technical details of VIRGO](./Lectures/Reading_material/Accadia2012_virgo.pdf)
 + [Lecture slides on laser interferometry]()
 
