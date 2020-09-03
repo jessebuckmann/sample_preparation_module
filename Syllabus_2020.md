@@ -44,7 +44,7 @@ We will also have one online lecture in the second hour.
 
 ### This week lectures
 + **Dries van Oosten**: Laser interferometry and its applications
-   - [slides]()
+   - [slides](./Lectures/Slides/20200903_oosten.pdf)
 
 ### Cohort meetings 
 
@@ -69,7 +69,7 @@ During the Thursday [online meeting](https://teams.microsoft.com/l/channel/19%3a
 + [Getting your project online](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/), although this guide is geared towards GitHub users, much of it can be applied to the way we organise the UED2020 repository, together.
 + [Nobel prize lecture of Hansch](./Lectures/Reading_material/Weiss-Nobel-lecture.pdf)
 + [Technical details of VIRGO](./Lectures/Reading_material/Accadia2012_virgo.pdf)
-+ [Lecture slides on laser interferometry]()
++ [Lecture slides on laser interferometry bij Dries van Oosten](./Lectures/Slides/20200903_oosten.pdf)
 
 ---
 
