@@ -11,7 +11,9 @@
 STUDENT NAME:
 
 ## Personal goals (fill this at the start of the course)
-*Fill here what you expect to learn in this course personally and define your personal goals*
+I am still not quite sure what to expect from this course. I hope that we can find a nice project that everyone will enjoy.
+Hopefully we manage to build something that works. In this project we will see the importance of properly denoting what you do, so the results are reproducable. 
+I have never had to do an experiment written by someone else in the group or recieved feedback on my own experiment notes from other students, so I think that this will be an interesting opportunity.
 
 
 ## Mid-course review of goals (fill this mid-course)
