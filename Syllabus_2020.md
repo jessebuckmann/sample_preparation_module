@@ -98,6 +98,19 @@ During the Thursday online meeting we will discuss:
 + Value exchanges, community interactions in project groups
 + Listen to a lecture on interfacing devices using Python
 
+Before the Thursday online meeting:
++ Make sure you have a working python installation:
+  I understand most of you are familiar with Anaconda + Spyder, which would be fine:
+  https://www.anaconda.com/products/individual#download-section
++ Create a github account:
+  https://github.com/
++ Install Git:
+  https://git-scm.com/downloads
++ To test if your pc is prepared, open an anaconda prompt and install the labphew package:
+  'pip install labphew'
+  After that type 'labphew start blink -d'
+  If a window shows everything is good. If you run into issues you could contact me on Teams
+
 ### Resources:
 + [Ingmar's lecture slides]()
 + [Python interfacing slides]()
