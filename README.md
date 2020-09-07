@@ -14,7 +14,7 @@ Last year, UED was run for the first time. I had to make a good deal of planning
 
 ## Schedule
 From Thursday 3/9/2020 to Monday 2/11/2020
-+ Mondays: 11h-18h, Minneart 104
++ Mondays: 11h-18h, Minneart 002 and 004
 + Thursdys: 9:30-12h, MS Teams
 
 + Thursday, 5/11/2020: __Public Presentation__
