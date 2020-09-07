@@ -12,6 +12,13 @@ Part of the course syllabus is similar to other practical courses you have seen 
 
 Last year, UED was run for the first time. I had to make a good deal of planning only based on intuition. We had many engaging and constructive discussions and built part of the course structure together. Luckily, students, their mentors and the involved experts at the Physics department, told me they had an overall positive experience, and blessed me with well-intentioned constructive feedback. The course ended with a festive poster presentation. We even had cake and everyone seemed to be very pleased. Some of those students will be your mentors this year. 
 
+## Schedule
+From Thursday 3/9/2020 to Monday 2/11/2020
++ Mondays: 11h-18h, Minneart 104
++ Thursdys: 9:30-12h, MS Teams
+
++ Thursday, 5/11/2020: __Public Presentation__
+
 ![cohort 2019](./images/UED2019_pioneers.JPG)
 *Group photo with the "πoneers"*
 
