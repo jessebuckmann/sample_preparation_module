@@ -109,7 +109,7 @@ Before the Thursday online meeting:
 + To test if your pc is prepared, open an anaconda prompt and install the labphew package:
   'pip install labphew'
   After that type 'labphew start blink -d'
-  If a window shows everything is good. If you run into issues you could contact me on Teams
+  If a window shows everything is good. If you run into issues you could contact Aron Opheij on Teams
 
 ### Resources:
 + [Ingmar's lecture slides]()
