@@ -28,7 +28,7 @@ I hope that this guide can help you navigate through the logistics and instructi
 
 #### how to reach me:
 + Email: s.faez@uu.nl 
-+ Preferred mode of communciaiton: (direct) messaging on [MS-Team]()
++ Preferred mode of communciaiton: (direct) messaging on [MS-Team](https://teams.microsoft.com/l/team/19%3a4a388e116e894e4a9ec3a19e32c58294%40thread.tacv2/conversations?groupId=b36d7aae-63c5-44c9-a860-073e4ffd37ae&tenantId=d72758a0-a446-4e0f-a0aa-4bf95a4a10e7)
 + Office: Ornstein laboratory 266 (limited presence due to the Covid19 pandemic)
 + Twitter: [@sanli](https://twitter.com/sanli/)
 
