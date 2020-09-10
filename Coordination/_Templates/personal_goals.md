@@ -8,7 +8,7 @@
 + **Outcome(s)**: list of your goals and agreement on how to evaluate your progress towards them
 + **Process**: self-reflection and discussion with your mentors
 
-STUDENT NAME:
+STUDENT NAME: Jesse Buckmann
 
 ## Personal goals (fill this at the start of the course)
 I am still not quite sure what to expect from this course. I hope that we can find a nice project that everyone will enjoy.
