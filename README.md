@@ -12,6 +12,13 @@ Part of the course syllabus is similar to other practical courses you have seen 
 
 Last year, UED was run for the first time. I had to make a good deal of planning only based on intuition. We had many engaging and constructive discussions and built part of the course structure together. Luckily, students, their mentors and the involved experts at the Physics department, told me they had an overall positive experience, and blessed me with well-intentioned constructive feedback. The course ended with a festive poster presentation. We even had cake and everyone seemed to be very pleased. Some of those students will be your mentors this year. 
 
+## Schedule
+From Thursday 3/9/2020 to Monday 2/11/2020
++ Mondays: 11h-18h, Minneart 002 and 004
++ Thursdys: 9:30-12h, MS Teams
+
++ Thursday, 5/11/2020: __Public Presentation__
+
 ![cohort 2019](./images/UED2019_pioneers.JPG)
 *Group photo with the "πoneers"*
 
@@ -21,7 +28,7 @@ I hope that this guide can help you navigate through the logistics and instructi
 
 #### how to reach me:
 + Email: s.faez@uu.nl 
-+ Preferred mode of communciaiton: (direct) messaging on [MS-Team]()
++ Preferred mode of communciaiton: (direct) messaging on [MS-Team](https://teams.microsoft.com/l/team/19%3a4a388e116e894e4a9ec3a19e32c58294%40thread.tacv2/conversations?groupId=b36d7aae-63c5-44c9-a860-073e4ffd37ae&tenantId=d72758a0-a446-4e0f-a0aa-4bf95a4a10e7)
 + Office: Ornstein laboratory 266 (limited presence due to the Covid19 pandemic)
 + Twitter: [@sanli](https://twitter.com/sanli/)
 
