@@ -9,15 +9,15 @@
 - Consistentcy of result
 - Comparison with literature value
 
-#Resources required
+# Resources required
 -Heavy Balls  
 -Torsion Balance  
 -Laser  
 -Camera/optical sensor  
 -Vibration free space  
 
-#Contributor Profiles
-#User Profiles
-#Contributor Channels
-#User Channels
-#Unique Value Proposition
+# Contributor Profiles
+# User Profiles
+# Contributor Channels
+# User Channels
+# Unique Value Proposition
