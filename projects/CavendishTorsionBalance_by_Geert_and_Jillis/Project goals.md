@@ -16,8 +16,8 @@ PROJECT MEMBERS: Geert Schulpen, Jillis Schokking
 *We want to measure Newton's gravitational constant (big G)*  
 ### Subgoals
 *Understand how sensitive our setup is to vibrations such that we can give an estimate for the maximal allowable vibration amplitudes to the vibration team*  
-*Copy the setup of the experiment to make it fit in the space we will get*  
-
+*Find a way to modify an excisting experiment setup to make it work within the confines and limitations of the modular experimental system*  
+*Find a way to automate the experiment*
 
 ## Mid-course review of goals (fill this mid-course)
 *Note your progress and re-adjust your goals such that you can deliver at the end*
