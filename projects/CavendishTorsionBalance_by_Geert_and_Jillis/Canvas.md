@@ -10,11 +10,11 @@
 - Comparison with literature value
 
 # Resources required
--Heavy Balls  
--Torsion Balance  
--Laser  
--Camera/optical sensor  
--Vibration free space  
+- Heavy Balls  
+- Torsion Balance  
+- Laser  
+- Camera/optical sensor  
+- Vibration free space  
 
 # Contributor Profiles
 # User Profiles
