@@ -8,27 +8,13 @@
 + **Outcome(s)**: You know how to proceed with your project.
 + **Process**: Discuss problems → Get feedback → Review goals → Make new weekly plan
 
-Week no.: 
-PROJECT NAME:
-
-## Agenda 
-*fill the list before the meeting and send it to your mentor)*
+Week no.: 3
+PROJECT NAME: Cavendish Torsion Balance
 
 
-## Review of project goals
-
-+ Review last week’s progress with the project roadmap
-+ Review global progress and goals
-
-
-
-## Review of project roadmap
-
-+ Agree on and list the deliverables for following meeting
-+ Elaborate on adjustment to your time plan or alternative routes
 
 ## Meeting feedback (fill after meeting)
 
-+ What did you learn in your mentor meeting? 
-+ What decisions have you made based on the discussions?
-+ Any additional comments...
++ We will try to find out which vibrations will be important in the experiment
++ How long will the vibrations be important
++ Can we find the original work by Cavendish?
