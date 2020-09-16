@@ -11,7 +11,7 @@
 STUDENT NAME:
 
 ## Personal goals (fill this at the start of the course)
-
+*Fill here what you expect to learn in this course personally and define your personal goals*
 
 
 ## Mid-course review of goals (fill this mid-course)
