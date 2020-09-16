@@ -8,8 +8,8 @@
 + **Outcome(s)**: list of checks and measure for evaluation of your project
 + **Process**: self-reflection and discussion with your mentors
 
-PROJECT NAME:
-PROJECT MEMBERS:
+PROJECT NAME: Cavendish Torsion Balance
+PROJECT MEMBERS: Geert Schulpen, Jillis Schokking
 
 ## Project goals (fill this at the start of the course)
 *Fill here what you expect to achieve with the project. Try to make quantitive goals when possible.*
