@@ -8,11 +8,14 @@
 + **Outcome(s)**: list of checks and measure for evaluation of your project
 + **Process**: self-reflection and discussion with your mentors
 
-PROJECT NAME:
-PROJECT MEMBERS:
+PROJECT NAME: Power supply
+PROJECT MEMBERS: Maurice Jongerhuis, Jakob Schröder
 
 ## Project goals (fill this at the start of the course)
-*Fill here what you expect to achieve with the project. Try to make quantitive goals when possible.*
+
+- Stable power supply 
+- Quantitative goal: 200W for 6h 
+- Flexible connection for all consumers 
 
 
 ## Mid-course review of goals (fill this mid-course)
