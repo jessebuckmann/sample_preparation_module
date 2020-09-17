@@ -8,12 +8,15 @@
 + **Outcome(s)**: You know how to proceed with your project.
 + **Process**: Discuss problems → Get feedback → Review goals → Make new weekly plan
 
-Week no.: 
-PROJECT NAME:
+Week no.: 38
+PROJECT NAME: Power Supply
 
 ## Agenda 
 *fill the list before the meeting and send it to your mentor)*
-
++ Introduction
++ Discuss canvas
++ Discuss [Buck Converter](https://learn.libre.solar/development/dcdc_converter.html#buck-converter) as interface solar panel - battery
++ Brainstorming parts required
 
 ## Review of project goals
 
