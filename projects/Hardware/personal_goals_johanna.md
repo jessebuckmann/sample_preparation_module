@@ -12,9 +12,9 @@
 *Process*: self-reflection and discussion with your mentors
 ______________________________________________________________________________________________
 
-STUDENT NAME: Johanna
+**Johanna**
 
-**Personal goals **
+*Personal goals*
 
 I expect to learn more about how to start and organize a project where many people are working together.
 This includes the (hopefully) well structured communication within our sub-group, as well as the information exchange with the whole course.
@@ -23,9 +23,9 @@ For the subproject I expect to learn way more about electronics, data transfer a
 I also hope to learn some dutch - teach me guys!
 
 
-Mid-course review of goals (fill this mid-course)
+*Mid-course review of goals* (fill this mid-course)
 Note what skills you have learned so far, whether you are hitting your own targets and if you need to modify them. State if the course structure allows you to attain your goals.
 
-Final review of goals (fill at the end of the course)
+*Final review of goals* (fill at the end of the course)
 
 Review the course from your personal point of view and whether it met your expectations. State how you could have done better and suggest changes that can make the course better.*
