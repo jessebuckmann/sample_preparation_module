@@ -1,4 +1,4 @@
-\huge{**Utrecht Experiment Design 2020**}
+**Utrecht Experiment Design 2020**
 
 **Project goals**
 _______________________________________________________________________________________________________
@@ -14,7 +14,7 @@ ________________________________________________________________________________
 Project Name: **HARDWARE**
 Members: **Johanna**, **Frank** and **Floris**
 
-**Project goals**
+**Initial Project Goals**
 
 - Provide the hardware for data transfer/display​ of the measurements
 - Collecting/structure the ideas of the Cohort ​
