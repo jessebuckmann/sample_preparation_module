@@ -82,7 +82,7 @@ You will also form teams, choose a project, and express your preference for a me
 	+ it will be useful to take a look at the [Nobel lecture of Gerd Binnig](https://www.nobelprize.org/prizes/physics/1986/binnig/lecture/).
 + **Sanli Faez**: On the discovery of superconductivity and Who created the Science factory?
 + On Thursday, September 10th, **Aron Opheij** will teach us how to interface electronic devices using Python 
-    + [lecture slides]()
+    + [lecture slides](./Lectures/Slides/lecture_Aron.pptx)
 	
 ### Cohort meeting
 
@@ -174,7 +174,7 @@ During the online cohort meeting, your peers will play devil's advocates about t
 + [Nobel prize lecture of Phillips](https://www.nobelprize.org/prizes/physics/1997/phillips/lecture/)
 + [Peter's lecture slides](tbs)
 + [Good coding practices](./Lectures/Reading_material/Good_Enough_Practices_PLOS.pdf)
-+ [Electron microscopy slides](tbs)
++ [Electron microscopy slides](./Lectures/Slides/20200917_Experiment_Design_-_Electron_Microscopy.pdf)
 + [Reproducible Code Lecture Slides](https://bvreede.github.io/presentations/presentations/2020-09-17_BestPractices-lecture.html)
 
 ---
