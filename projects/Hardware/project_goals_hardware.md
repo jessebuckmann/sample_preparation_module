@@ -1,7 +1,7 @@
-**Utrecht Experiment Design 2020**
+\huge{**Utrecht Experiment Design 2020**}
 
 **Project goals**
-
+_______________________________________________________________________________________________________
 *POP*
 
 
