@@ -131,7 +131,7 @@ During this week, you will put together the elements of your experiment and try 
 + we will hear about the Bose-Einstein condensation experiment in the International Space Station, from **Peter van der Straten**  
     + Peter's lecture will be based on selected parts from the [Nobel prize lecture of Phillips](https://www.nobelprize.org/prizes/physics/1997/phillips/lecture/) Monday 
 + we will hear about setting up a reproducible project structure by **Barbara Vreede**
-    - [lecture slides]() -> Thursday 11-12
+    - [lecture slides](https://bvreede.github.io/presentations/presentations/2020-09-17_BestPractices-lecture.html) -> Thursday 11-12
 + we will understand the development of electron microscopy by **Gerhard Blab**.
     - based on [TEM chapter](./Lectures/Reading_material/Williams_Carter_TEM_Chapter1.pdf) -> Thursday 10-11
 
@@ -175,6 +175,7 @@ During the online cohort meeting, your peers will play devil's advocates about t
 + [Peter's lecture slides](tbs)
 + [Good coding practices](./Lectures/Reading_material/Good_Enough_Practices_PLOS.pdf)
 + [Electron microscopy slides](tbs)
++ [Reproducible Code Lecture Slides](https://bvreede.github.io/presentations/presentations/2020-09-17_BestPractices-lecture.html)
 
 ---
 
