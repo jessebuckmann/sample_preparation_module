@@ -1,4 +1,4 @@
-| component | info | status |
+| Component | Information | Status Component |
 | ------ | ------ | ------ |
 |  |  |  |
 |  |  |  |
