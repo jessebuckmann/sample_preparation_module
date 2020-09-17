@@ -8,20 +8,16 @@
 + **Outcome(s)**: list of checks and measure for evaluation of your project
 + **Process**: self-reflection and discussion with your mentors
 
-PROJECT NAME: Cavendish Torsion Balance   
-PROJECT MEMBERS: Geert Schulpen, Jillis Schokking  
+PROJECT NAME:   
+PROJECT MEMBERS: 
 
 ## Project goals (fill this at the start of the course)
-*We want to prove it is possible to do a reasonably complex measurement in the modular box*  
-*We want to measure Newton's gravitational constant (big G)*  
+*TBD
 ### Subgoals
-*Understand how sensitive our setup is to vibrations such that we can give an estimate for the maximal allowable vibration amplitudes to the vibration team*  
-*Find a way to modify an excisting experiment setup to make it work within the confines and limitations of the modular experimental system*  
-*Find a way to automate the experiment*
+
 
 ## Mid-course review of goals (fill this mid-course)
-*Note your progress and re-adjust your goals such that you can deliver at the end*
+
 
 
 ## Final review of goals (fill at the end of the course)
-*Evaluate the project performance according to your mid-course goals. State what changes are necessary and which goals had to be adjusted.* 
