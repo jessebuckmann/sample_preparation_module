@@ -9,12 +9,10 @@
 + **Process**: Discuss problems → Get feedback → Review goals → Make new weekly plan
 
 Week no.: 3
-PROJECT NAME: Cavendish Torsion Balance
+PROJECT NAME: 
 
 
 
 ## Meeting feedback (fill after meeting)
 
-+ We will try to find out which vibrations will be important in the experiment
-+ How long will the vibrations be important
-+ Can we find the original work by Cavendish?
++ TBD
