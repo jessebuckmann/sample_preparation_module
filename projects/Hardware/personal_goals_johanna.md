@@ -16,11 +16,9 @@ ________________________________________________________________________________
 
 *Personal goals*
 
-I expect to learn more about how to start and organize a project where many people are working together.
-This includes the (hopefully) well structured communication within our sub-group, as well as the information exchange with the whole course.
-
-For the subproject I expect to learn way more about electronics, data transfer and how to connect diffrent sub-systems with each other.
-I also hope to learn some dutch - teach me guys!
+- From the course I expect to learn more about how to start and organize a project where many people are working together. This includes the (hopefully) well structured communication within our sub-group, as well as the information exchange with the whole course.
+- For the subproject I expect to learn way more about electronics, data transfer and how to connect diffrent sub-systems with each other.
+- I also hope to learn some dutch - teach me guys!
 
 
 *Mid-course review of goals* (fill this mid-course)
