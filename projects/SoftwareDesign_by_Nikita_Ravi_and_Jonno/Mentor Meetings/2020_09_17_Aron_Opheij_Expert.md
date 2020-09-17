@@ -1,6 +1,6 @@
 *Utrecht Experiment Design 2020*
 
-# Weekly mentor meeting
+# Meeting with Aron 17/09/2020
 
 ### POP
 
