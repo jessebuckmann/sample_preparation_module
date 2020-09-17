@@ -1,6 +1,8 @@
-*Utrecht Experiment Design 2020*
+*Utrecht Experiment Design 2020*  
 
-# Project goals
+*Noor ten Veen & Olaf Massen*
+
+# Project goals for Prep The Box
 
 ### POP
 
