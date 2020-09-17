@@ -1,21 +1,26 @@
 # CODE OF CONDUCT 2020
 
-This document will be completed collectively by the cohort participants.
+This code of conduct has been decided collectively by the cohort participants.
 The procedure is based on [this exercise by Aurelia Moser](http://aureliamoser.com/aaas-guides/conduct/index.html)  
 
 Everyone taking part in Experiment Design course and discussions (mentors, helpers, coordinators, and learners) is required to conform to the following Code of Conduct. Coordinators will oversee adherence to this code throughout the course.
  
-#### What core words would you like to see associated with this group?  
-_These could be values, ideals, or characteristics. Try to keep these to one word, if possible._
+#### Characteristics we value:  
+Serious attitude towards the project, openness, teamwork, idealism, being inventive, enthusiasm, efficient whilst fun,
+Physics orientated, usefulness in solving a problem, originality, sustainable when possible, Being inquisitive, good communication, soldering (hand-on work), being ambitious
 
-#### What behaviors do you want to encourage? 
+#### Behaviors we encourage
+Active participation, solidarity, Helping others (also outside your group), Enthusiasm/motivation, Open communication, Inventiveness and curiosity,
+sharing our progress, writing comments in your code, giving feedback, being creative, listening to each other
 
-#### What behaviors do you want to discourage? 
+#### Behaviors we discourage? 
+Selfishness, lack of communication, laid-back attitude, negativity, being self-centered, trying to outscream other people, working alone, falling in rabbit holes, formin small subgroups that turn away from the rest of the group
 
-#### How can you make others feel safe and supported? 
+#### We make each others feel safe and supported by
+Respecting each others' ideas, supporting each other, constructive criticism, sharing and being open, always speaking in English (also during the breaks), making a group-app for memes and important business, supportive feedback
 
     
-#### How does someone report an issue, should someone violate the code? 
+#### How to report an issue, should someone violate the code? 
 
 1. Contact Jasper or Sanli by private message, or in person (e.g. before each course day, or find them on the second floor of the Ornstein laboratory). All communication will be treated as confidential. 
 2. if for any reason you don’t want to do 1, you can contact Dante Killian who has agreed to function as external contact person for this purpose.

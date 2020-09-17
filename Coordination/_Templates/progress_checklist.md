@@ -10,17 +10,17 @@ Reporting checklist for {your name}
 + [ ] made our first appointment with our project mentor
 + [ ] created our project canvas 
 + [ ] shared notes from our first mentor meeting 
-+ [ ] made project canvas, goals, and self-evaluation criteria ready for discussion **!hard deadline!**
++ [ ] made project canvas, goals, and self-evaluation criteria ready for discussion **!hard deadline: 21/09/2020!**
 
 ### Part 2: Testing
 + [ ] shared our first signal and milestone celebration art-piece
 + [ ] updated project goals ready for discussion
-+ [ ] commited report on context and theory **!hard deadline!**
++ [ ] committed report on context and theory **!hard deadline: 5/10/2020!**
 
 ### Part 3: Presenting
-+ [ ] commited instructions and pull request to the UED2020 **!hard deadline!**
++ [ ] committed instructions and pull request to the UED2020 **!hard deadline: 12/10/2020!**
 + [ ] submitted peer feedback on project {PROJECT NAME}
 + [ ] responded to peer feedback and updated instruction
-+ [ ] created poster draft, presentation goals, and project advertisement **!hard deadline!**
++ [ ] created poster draft, presentation goals, and project advertisement **!hard deadline: 2/11/2020!**
 + [ ] installed our contribution in the grand project
 + [ ] presented our poster and collected feedback.

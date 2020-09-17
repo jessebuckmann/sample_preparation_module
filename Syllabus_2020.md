@@ -25,11 +25,14 @@ To get closer to achieving this central goal in, next to technical discussions, 
 + Learn how to apply those principles to open leadership and working open in your groups.  
 + Learn how to collect, invite, and tell stories that demonstrate how solving the chosen problems benefits the communities you belong to.  
 
+## This Syllabus
+
+This syllabus is a "living" document. The course coordinators are open to suggestions regarding changes to this document or the workflow. Bring this up in a cohort meeting, bring it up on Teams, or contact a course coordinator
 
 ## Schedule
 Due to pandemic restrictions, in-person gatherings for UED2020 are only held on Mondays. The online cohort meetings will be on Thursdays. Meetings with experts and mentors can be arranged also on other days. The study/work-load is expected to be about 20 hours per week.
 
-This schedule is set based on the coordinators' experience with execution of an experimental project and the feedback from the students of last year. There is no unique path to achieving the course goals and we will adjust the schedule as necessary during our cohort meetings. 
+This schedule is set based on the coordinators' experience with execution of an experimental project and the feedback from the students of last year. There is no unique path to achieving the course goals and __we will adjust the schedule as necessary during our cohort meetings__.
 
 ---
 
@@ -41,13 +44,14 @@ We will also have one online lecture in the second hour.
 
 ### This week lectures
 + **Dries van Oosten**: Laser interferometry and its applications
+   - [slides](./Lectures/Slides/20200903_oosten.pdf)
 
 ### Cohort meetings 
 
 During the Thursday [online meeting](https://teams.microsoft.com/l/channel/19%3ad74a6c647c0b4d658d39f312add69d02%40thread.tacv2/Cohort%2520meetings?groupId=b36d7aae-63c5-44c9-a860-073e4ffd37ae&tenantId=d72758a0-a446-4e0f-a0aa-4bf95a4a10e7) we will discuss:
 
-+ The course goals and the schedule. 
-+ 2-min introduction of all students and their interests (think of this before the meeting)
++ The course goals and the schedule
++ 2-min introduction of all students and their interests (if possible think of this before the meeting.)
 + Communication tools necessary for this course and self-study material
 + Deciding on a name for this cohort
 
@@ -58,13 +62,14 @@ During the Thursday [online meeting](https://teams.microsoft.com/l/channel/19%3a
 #### After the cohort meeting:
 + Make sure you have access to the [UED2020 repository](https://git.science.uu.nl/ued2020). Fork it to your account and clone it on your PC.
 + Set up your project folder structure.
-+ Fill in your [personal goals form](./Coordination/_Templates/personal_goals.md) and send it to Sanli and Jasper (use the chat function on MS Teams) 
-+ Share your chosen [mentor](./Coordination/Mentors_and_Experts.md) with the course coordinator 
++ Fill in your [personal goals form](./Coordination/_Templates/personal_goals.md) and send it to Sanli and Jasper (use the chat function on MS Teams).
++ Share your chosen [mentor](./Coordination/Mentors_and_Experts.md) priorities with the course coordinators.
 
 ### Resources:
-+ [Getting your project online](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/), although this guide is geared towards GitHub users, much of it can be applied to the way we organise the UED repository, together.
-+ [Nobel prize lecture of Hansch](https://www.nobelprize.org/prizes/physics/2005/hansch/lecture/)
-+ [Dries' lecture slides]()
++ [Getting your project online](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/), although this guide is geared towards GitHub users, much of it can be applied to the way we organise the UED2020 repository, together.
++ [Nobel prize lecture of Weiss](./Lectures/Reading_material/Weiss-Nobel-lecture.pdf)
++ [Technical details of VIRGO](./Lectures/Reading_material/Accadia2012_virgo.pdf)
++ [Lecture slides on laser interferometry bij Dries van Oosten](./Lectures/Slides/20200903_oosten.pdf)
 
 ---
 
@@ -77,7 +82,7 @@ You will also form teams, choose a project, and express your preference for a me
 	+ it will be useful to take a look at the [Nobel lecture of Gerd Binnig](https://www.nobelprize.org/prizes/physics/1986/binnig/lecture/).
 + **Sanli Faez**: On the discovery of superconductivity and Who created the Science factory?
 + On Thursday, September 10th, **Aron Opheij** will teach us how to interface electronic devices using Python 
-    + [lecture slides]()
+    + [lecture slides](./Lectures/Slides/lecture_Aron.pptx)
 	
 ### Cohort meeting
 
@@ -93,13 +98,27 @@ During the Thursday online meeting we will discuss:
 + Value exchanges, community interactions in project groups
 + Listen to a lecture on interfacing devices using Python
 
+Before the Thursday online meeting:
++ Make sure you have a working python installation:
+  I understand most of you are familiar with Anaconda + Spyder, which would be fine:
+  https://www.anaconda.com/products/individual#download-section
++ Create a github account:
+  https://github.com/
++ Install Git:
+  https://git-scm.com/downloads
++ To test if your pc is prepared, open an anaconda prompt and install the labphew package:
+  'pip install labphew'
+  After that type 'labphew start blink -d'
+  If a window shows everything is good. If you run into issues you could contact Aron Opheij on Teams
+
 ### Resources:
-+ [Gerd Binnig Nobel lecture](https://www.nobelprize.org/prizes/physics/1986/binnig/lecture/)
 + [Ingmar's lecture slides]()
 + [Python interfacing slides]()
 + [about George Whitesides](https://en.wikipedia.org/wiki/George_M._Whitesides) 
 + [labphew](https://labphew.readthedocs.io/en/latest/)
 + [Value exchange taxonomy](./Lectures/Reading_material/Taxonomy_of_open_value_exchanges.rtf)
++ [Ingmar's notes on Vibration Isolation](https://teams.microsoft.com/l/file/51573090-1b09-40ce-9ec5-cc4b82080d62?tenantId=d72758a0-a446-4e0f-a0aa-4bf95a4a10e7&fileType=pdf&objectUrl=https%3A%2F%2Fsolisservices.sharepoint.com%2Fsites%2FUtrechtExperimentDesign2020%2FShared%20Documents%2FLinks%20and%20resources%2FSTM_Swart_Notes-on-vibration-isolation.pdf&baseUrl=https%3A%2F%2Fsolisservices.sharepoint.com%2Fsites%2FUtrechtExperimentDesign2020&serviceName=teams&threadId=19:642a14e328374346824fc8b1d8e4d36f@thread.tacv2&messageId=1599730327552&groupId=b36d7aae-63c5-44c9-a860-073e4ffd37ae)
++ [Ingmar's notes on Electronics](https://teams.microsoft.com/l/file/00bf5553-e699-4881-ab7d-6b89fb8733fd?tenantId=d72758a0-a446-4e0f-a0aa-4bf95a4a10e7&fileType=pdf&objectUrl=https%3A%2F%2Fsolisservices.sharepoint.com%2Fsites%2FUtrechtExperimentDesign2020%2FShared%20Documents%2FLinks%20and%20resources%2FSTM_Swart_Notes-on-electronics.pdf&baseUrl=https%3A%2F%2Fsolisservices.sharepoint.com%2Fsites%2FUtrechtExperimentDesign2020&serviceName=teams&threadId=19:642a14e328374346824fc8b1d8e4d36f@thread.tacv2&messageId=1599730327552&groupId=b36d7aae-63c5-44c9-a860-073e4ffd37ae)
 
 ---
 
@@ -110,17 +129,16 @@ During this week, you will put together the elements of your experiment and try 
 
 ### In this week lectures 
 + we will hear about the Bose-Einstein condensation experiment in the International Space Station, from **Peter van der Straten**  
-    + Peter's lecture will be based on selected parts from the [Nobel prize lecture of Phillips]
-(https://www.nobelprize.org/prizes/physics/1997/phillips/lecture/)
+    + Peter's lecture will be based on selected parts from the [Nobel prize lecture of Phillips](https://www.nobelprize.org/prizes/physics/1997/phillips/lecture/) Monday 
 + we will hear about setting up a reproducible project structure by **Barbara Vreede**
-    - [lecture slides]()
+    - [lecture slides](https://bvreede.github.io/presentations/presentations/2020-09-17_BestPractices-lecture.html) -> Thursday 11-12
 + we will understand the development of electron microscopy by **Gerhard Blab**.
-    - based on [TEM chapter](./Lectures/Reading_material/Williams_Carter_TEM_Chapter1.pdf)
+    - based on [TEM chapter](./Lectures/Reading_material/Williams_Carter_TEM_Chapter1.pdf) -> Thursday 10-11
 
 ### Mentor meeting
 In the first meeting with your mentor, introduce yourselves and then:
 
-+ Review your peronal goals
++ Review your personal goals
 + Review your project description
 + Set 1-2 personal goals in your team for your project.  
 + Create your [project canvas](./Coordination/_Templates/project_canvas.pptx)  
@@ -152,23 +170,28 @@ During the online cohort meeting, your peers will play devil's advocates about t
 
 ### Resources:
 
++ [Gerd Binnig Nobel lecture](https://www.nobelprize.org/prizes/physics/1986/binnig/lecture/)
 + [Nobel prize lecture of Phillips](https://www.nobelprize.org/prizes/physics/1997/phillips/lecture/)
 + [Peter's lecture slides](tbs)
 + [Good coding practices](./Lectures/Reading_material/Good_Enough_Practices_PLOS.pdf)
-+ [Electron microscopy slides](tbs)
++ [Electron microscopy slides](./Lectures/Slides/20200917_Experiment_Design_-_Electron_Microscopy.pdf)
++ [Reproducible Code Lecture Slides](https://bvreede.github.io/presentations/presentations/2020-09-17_BestPractices-lecture.html)
 
 ---
 
 ## Week 4 (21-09-2020) - The First Signal
-_
+
 During this week, you work towards getting the first signal related to your project goals. 
+
+### Deadlines
+Before the start of this Monday's meeting, you have to met your deadlines up to the point "made project canvas, goals, and self-evaluation criteria ready for discussion". (Please update your issues!)
 
 ### In this week lectures 
 
 + **Allard Mosk** will tell us how to best extract signal from noise 
     - [lecture slides]()
 + we will learn hear about the role photovoltaics in the energy transition from **Wilfried van Sark**. 
-    - [lecture slides]
+    - [lecture slides]()
 + tbc: We will have a tour of the mechanical workshop
 
 ### Cohort meeting
@@ -219,6 +242,9 @@ During this week, you will beta-test and your project and make it safe to use, a
 
 You will explain your project to another group before the cohort meeting. During the meeting, that group will then have to explain your project to the rest of the cohort.
 
+### Deadlines
+Before the start of this Monday's meeting, you have to met your deadlines up to the point "committed report on context and theory". (Please update your issues!)
+
 #### Before the cohort meeting:
 
 + Explain your project to another group.
@@ -232,9 +258,12 @@ You will explain your project to another group before the cohort meeting. During
 
 During this week, you will share your setup, work instructions, and results with your peers and ask them to reproduce your results. You will do the same for some other project and report on the reproducibility of those results and the qualities of the work instructions.
 
+### Deadlines
+Before the start of this Monday's meeting, you have to met your deadlines up to the point "committed instructions and pull request to the UED2020". (Please update your issues!)
+
 #### Before the cohort meeting:
 
-Fill in the [reproducibility feedback]() for the project assigned to you and discuss it with the group owner.
+Fill in the [reproducibility feedback](./Coordination/_Templates/reproducibility_review) for the project assigned to you and discuss it with the group owner.
 
 #### After the cohort meeting:
 
@@ -277,12 +306,14 @@ During this week we will put all the necessary parts for the grand project toget
 
 ---
 
-## Week 10 (2-11-19) - Tell Your Story
+## Week 10 (2-11-2020) - Tell Your Story
 
 During this week you will present your project results in a public event on **Thursday 5th of November**. 
 
 In the cohort meeting of this week, we will together discuss the learning track of the whole course and how to proceed with maintaining your projects.   
 
+### Deadlines
+Before the start of this Monday's meeting, you have to met your deadlines up to the point "created poster draft, presentation goals, and project advertisement". (Please update your issues!)
 
 ### Before the cohort meeting:
 + Fill in the [self-evaluation](tbc) for the outcome of your project.

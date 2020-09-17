@@ -25,7 +25,6 @@ Mentors and experts help the students to learn the skills they lack or to find t
 | Sanli Faez | s.faez@uu.nl | rapid prototyping, video microscopy, interferometry |
 | Paul Jurrius| P.Jurrius@uu.nl | mechanical workshop |
 | Dante Killian | D.Killian@uu.nl | electronics workshop and fablab |
-| Kira Maathuis | h.a.w.maathuis@students.uu.nl  | interfacing devices with python, rapid prototyping |
 | Aron Opheij | a.opheij@uu.nl  | interfacing devices with python |
 | Pritam Pai | p.pai@uu.nl | optics, python |
 
