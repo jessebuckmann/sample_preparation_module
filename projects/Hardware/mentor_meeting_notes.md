@@ -1,28 +1,28 @@
-Utrecht Experiment Design 2020
+**Utrecht Experiment Design 2020**
 
-Weekly mentor meeting
+**Weekly mentor meeting**
+____________________________________________________________________________________________________________
+*POP*
 
-POP
 
+*Purpose*: To review your progress and to keep your project on track.
 
-Purpose: To review your progress and to keep your project on track.
+*Outcome(s)*: You know how to proceed with your project.
 
-Outcome(s): You know how to proceed with your project.
-
-Process: Discuss problems → Get feedback → Review goals → Make new weekly plan
-
+*Process*: Discuss problems → Get feedback → Review goals → Make new weekly plan
+____________________________________________________________________________________________________________
 Week no.: 3
 PROJECT NAME: Hardware Introduction
 
-Agenda
+**Agenda**
 
-Introduce ourselves and goals
-Introduce project and main ideas on communication with the cohort (prepared notebook)
-Discuss the entries from the project canvas
-Get some informations/inspirations to add to our existing questions
-Figure out the best way to collect our notes - microsoft/gitlab - who prepares/pushes what (Readme, project folder) - ...
+- Introduce ourselves and goals
+- Introduce project and main ideas on communication with the cohort (prepared notebook)
+- Discuss the entries from the project canvas
+- Get some informations/inspirations to add to our existing questions
+- Figure out the best way to collect our notes - microsoft/gitlab - who prepares/pushes what (Readme, project folder) - ...
 
-
+_____________________________________________________________________________________________________________
 Review of project goals
 
 Review last week’s progress with the project roadmap
