@@ -21,7 +21,7 @@ PROJECT NAME: Power Supply
 ## Review of project goals
 
 + Review last week’s progress with the project roadmap
-+ Review global progress and goals
++ Review global progress and [goals](https://git.science.uu.nl/m.v.jongerhuis/experiment-design-2020/-/blob/3ab4cda1e8c1e3963f56ba094050f4df953a6d38/projects/Power_Supply_Maurice_Jakob/documentation/project_goals.md)
 
 
 
