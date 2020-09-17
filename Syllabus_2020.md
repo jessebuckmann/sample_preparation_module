@@ -117,6 +117,8 @@ Before the Thursday online meeting:
 + [about George Whitesides](https://en.wikipedia.org/wiki/George_M._Whitesides) 
 + [labphew](https://labphew.readthedocs.io/en/latest/)
 + [Value exchange taxonomy](./Lectures/Reading_material/Taxonomy_of_open_value_exchanges.rtf)
++ [Ingmar's notes on Vibration Isolation](https://teams.microsoft.com/l/file/51573090-1b09-40ce-9ec5-cc4b82080d62?tenantId=d72758a0-a446-4e0f-a0aa-4bf95a4a10e7&fileType=pdf&objectUrl=https%3A%2F%2Fsolisservices.sharepoint.com%2Fsites%2FUtrechtExperimentDesign2020%2FShared%20Documents%2FLinks%20and%20resources%2FSTM_Swart_Notes-on-vibration-isolation.pdf&baseUrl=https%3A%2F%2Fsolisservices.sharepoint.com%2Fsites%2FUtrechtExperimentDesign2020&serviceName=teams&threadId=19:642a14e328374346824fc8b1d8e4d36f@thread.tacv2&messageId=1599730327552&groupId=b36d7aae-63c5-44c9-a860-073e4ffd37ae)
++ [Ingmar's notes on Electronics](https://teams.microsoft.com/l/file/00bf5553-e699-4881-ab7d-6b89fb8733fd?tenantId=d72758a0-a446-4e0f-a0aa-4bf95a4a10e7&fileType=pdf&objectUrl=https%3A%2F%2Fsolisservices.sharepoint.com%2Fsites%2FUtrechtExperimentDesign2020%2FShared%20Documents%2FLinks%20and%20resources%2FSTM_Swart_Notes-on-electronics.pdf&baseUrl=https%3A%2F%2Fsolisservices.sharepoint.com%2Fsites%2FUtrechtExperimentDesign2020&serviceName=teams&threadId=19:642a14e328374346824fc8b1d8e4d36f@thread.tacv2&messageId=1599730327552&groupId=b36d7aae-63c5-44c9-a860-073e4ffd37ae)
 
 ---
 
