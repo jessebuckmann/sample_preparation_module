@@ -5,22 +5,27 @@ Week 3
 - [  ]
 
 Week 4
-- [  ]
+- [ Have the precise dimensions for the experiment module including suspension system ]
 
 week 5 
-- [  ]
+- [ Have the precise dimensions of the support module slots ]
 
 week 6
+- [ Finish the framework of the box ]
 - [  ]
 
 week 7
 - [ Review the project of other groups]
+- [ Finish the framework of the box ]
+
 
 week 8
 - [ Create the poster for the presentation ]
+- [ Finish the modular slot system for the support modules ]
 
 week 9
-- [  ]
+- [ Full assembly of all components and troubleshooting ]
+- [ Attach screen etc ]
 
 week 10
 - [ Presentation ]
