@@ -18,7 +18,7 @@ Regarding theory:
 + [ ] Have the knowledge and skills the build a solar power station from scratch.
 
 Regarding group projects:
-+ [ ] Learn about the dynamics of group management and interaction of a 'grand' project.
++ [ ] Learn about the dynamics and interactions of group management  of a 'grand' project.
 + [ ] Participate on a satifactory level within the group.
 
 
