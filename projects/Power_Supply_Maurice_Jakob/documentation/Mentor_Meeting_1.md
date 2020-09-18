@@ -34,4 +34,20 @@ PROJECT NAME: Power Supply
 
 + What did you learn in your mentor meeting? 
 + What decisions have you made based on the discussions?
+Look into the following components:
+small systems:
+    + lithium ion circuit boards.
+    + USB 5v to test maybe.
+Battery:
+    + battery control units.
+    + output stabilize (battery shields).
+    + charging circuit for larger batteries.
+
+DC/DC converters for voltage control
+    + Buck converter, or one of many other options.
+
+Separate loads on the output
+    + Voltage divider to set different output voltages. All loads in parallel, with fuse for each.
+
+
 + Any additional comments...
