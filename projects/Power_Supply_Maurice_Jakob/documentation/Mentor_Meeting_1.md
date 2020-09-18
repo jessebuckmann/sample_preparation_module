@@ -33,6 +33,11 @@ PROJECT NAME: Power Supply
 ## Meeting feedback (fill after meeting)
 
 + What did you learn in your mentor meeting? 
+
+Power goal is too ambitious. So we will look for smaller/lower options.
+
+Decide quickly on values for key metrics.
+
 + What decisions have you made based on the discussions?
 Look into the following components:
 
