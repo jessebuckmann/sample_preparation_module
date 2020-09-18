@@ -14,12 +14,12 @@ STUDENT NAME: Maurice Jongerhuis 6996442
 *Fill here what you expect to learn in this course personally and define your personal goals*
 
 Regarding theory:
-+ [ ]Understand each component on a basic level required to have a complete scientific station.
-+ [ ]Have the knowledge and skills the build a solar power station from scratch.
++ [ ] Understand each component on a basic level required to have a complete scientific station.
++ [ ] Have the knowledge and skills the build a solar power station from scratch.
 
 Regarding group projects:
-+ [ ]Learn about the dynamics of group management and interaction of a 'grand' project.
-+ [ ]Participate on a satifactory level within the group.
++ [ ] Learn about the dynamics of group management and interaction of a 'grand' project.
++ [ ] Participate on a satifactory level within the group.
 
 
 ## Mid-course review of goals (fill this mid-course)
