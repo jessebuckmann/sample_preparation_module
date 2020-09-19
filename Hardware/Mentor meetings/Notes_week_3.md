@@ -4,7 +4,6 @@ Weekly mentor meeting
 
 POP
 
-
 Purpose: To review your progress and to keep your project on track.
 
 Outcome(s): You know how to proceed with your project.
