@@ -16,15 +16,17 @@ Members: **Johanna**, **Frank** and **Floris**
 
 **Initial Project Goals**
 
-- Provide the hardware for data transfer/display​ of the measurements
-- Collecting/structure the ideas of the Cohort ​
+- Provide the hardware for data transfer/display​ of the measurements with an adequate number of inputs and components the software group can run their program on
+- Achieve minimal noise levels in the central wiring facility
+- Collecting/structure ideas of the Cohort ​to make them mutually compatible though the central facility
 - Install the hardware ​
 
 *How to achieve them*
 
 - Outline the parts of experiment(s)​
 - Collecting whats needed,​
-- wire the sub and central facillities ​
+- Wire the sub and central facillities ​and fit them into the 'box'
+- Measure signal to noise ratio and set-up bandwidth using a dummy signal/dataset
 
 _________________________________________________________________________________________________________
 
