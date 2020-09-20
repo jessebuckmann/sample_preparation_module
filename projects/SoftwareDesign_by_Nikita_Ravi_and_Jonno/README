@@ -1,0 +1,1 @@
+This is the folder for the Software Design group consisting of Jonna, Nikita, and Ravi.
