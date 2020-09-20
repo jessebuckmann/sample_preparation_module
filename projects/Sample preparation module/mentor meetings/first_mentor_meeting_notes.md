@@ -12,7 +12,12 @@ Week no.: 38
 PROJECT NAME: [Sample preparation module](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master/projects/Sample%20preparation%20module)
 
 ## Agenda 
-*fill the list before the meeting and send it to your mentor)*
+Before the meeting we want to send a general overview of what we are going to do in this project.
+- Discuss the project canvas
+- Discuss (availability of) resources.
+- Discuss the airtight aspect of the module.
+- Discuss ceramic paint.
+- 
 
 
 ## Review of project goals
