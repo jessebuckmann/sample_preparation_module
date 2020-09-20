@@ -8,7 +8,7 @@
 + **Outcome(s)**: list of checks and measure for evaluation of your project
 + **Process**: self-reflection and discussion with your mentors
 
-PROJECT NAME: [sample preparation module](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master)
+PROJECT NAME: [sample preparation module](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master/projects/Sample_preparation_module)
 PROJECT MEMBERS: Roos de Boer and Jesse Buckmann
 
 ## Project goals (fill this at the start of the course)
