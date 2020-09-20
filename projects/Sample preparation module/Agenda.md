@@ -10,7 +10,7 @@
 - First mentor meeting.
 - Order materials.
 - Make project sketch.
-- 
+- Start report on context and theory.
 
 
 
@@ -20,25 +20,36 @@
 - Finish project.
 - Update project goals.
 - Make celebration art-piece.
+- Finish report on context and theory.
 
 
 
 ## Week 41
-- Agenda points
+- Write instructions on how to use the box.
+- Finalise and proofread all the files in the project folder.
+- Share the files with the group.
+- 
+
+
 
 ## Week 42 
-- Agenda points
+- Review work from another group.
+- If feedback has already been provided start working on improving the sample preparation module.
+- Start working on poster.
 
 
 ## Week 43
--Agenda points
+- Continue improving on the sample preparation module based on feedback.
+- Continue working on poster.
+- Project advertisement.
+- Make the presentation goals.
 
 
 ## Week 44 
-- Agenda points
+- Finish poster.
+
 
 ## Week 45
-- Agenda points
+- Present poster.
 
-## Week 46
-- Agenda points 
+
