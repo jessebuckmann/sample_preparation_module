@@ -8,7 +8,7 @@
 + **Outcome(s)**: You know how to proceed with your project.
 + **Process**: Discuss problems → Get feedback → Review goals → Make new weekly plan
 
-Week no.: 3
+Week no.: 3; date 16-09-2020  
 PROJECT NAME: Cavendish Torsion Balance
 
 
