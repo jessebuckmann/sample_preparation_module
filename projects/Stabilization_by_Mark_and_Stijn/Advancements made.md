@@ -4,7 +4,7 @@ We worked on trying to find out how a digilent would work and whether or not it 
 
 **21-9:**
 
-We solded(partially had sold) our accelerometer to a breadboard, so that we could connect it to a Arduino.
+We solded (partially had sold) our accelerometer to a breadboard, so that we could connect it to a Arduino.
 
 We then had a meeting with our Mentor (see Mentor_Meeting1_Notes.md).
 
