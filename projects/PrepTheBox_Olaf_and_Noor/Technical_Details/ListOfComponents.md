@@ -1,0 +1,5 @@
+| Component | Information | Status Component |
+| ------ | ------ | ------ |
+|  |  |  |
+|  |  |  |
+|  |  |  |
