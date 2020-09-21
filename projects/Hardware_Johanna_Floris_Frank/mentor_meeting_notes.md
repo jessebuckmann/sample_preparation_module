@@ -31,7 +31,7 @@ What decisions have you made based on the discussions?
 Any additional comments...)*
 ____________________________________________________________________________________________________________
 Week no.: 3
-PROJECT NAME: Hardware Introduction
+PROJECT NAME: HARDWARE
 
 **Agenda**
 
