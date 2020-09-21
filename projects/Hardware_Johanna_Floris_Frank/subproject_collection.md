@@ -1,6 +1,6 @@
 **The Subproject Collection**
 ________________________________________________________________________________________________________
-From our ideas, over collecting information from the cohort, to a serious plan😉. 
+From initial ideas, over collecting information from the cohort, to a serious plan😉. 
 Put the pieces together: 
 
 The Hardware group likes to connect all parts of the box with a "master" device if possible. 
@@ -30,38 +30,74 @@ end
 ```
 ________________________________________________________________________________________________________
 
-**General:**
+**Subsystems:**
  
-1. Do you want all building blocks controlled and displayed via one "master" device ? 
-- [ ] yes 
-- [ ] no
-2. Should the information from your subsystem f.e. the vibration control (still) be stored in a file ?
-- [ ] yes
-- [ ] no 
+ **Hardware Group**
  
+ *Offers to you/Uses*
+ -
+ *Needs from you*
+ -
+
+**Box-Design**
+
+*Offers to you/Uses*
+-
+
+*Needs from you*
+-
+
+**Software Group**
+
+*Offers to you/Uses*
+- Transformation from analg/digital input to digital/analog output
+- Interfacing
+
+*Needs from you*
+- 1 to 4 USB **Hardware** 
+- Text base commands from adrino device **Experiment**
+- Power supply for the Laptop **Power**
 ________________________________________________________________________________________________________
 
-**Subsystems:**
+**Inputs**:
 
-*(Make your crosses and please send the answers to the questions to one of us - we will collect them and structure them as soon as possible. If you don't now the answer to one of the questions yet, skip it (for today).
-Write in bullet points what you would like to display directly and/or store in a file from your experiment via the "master" device:)*
+ **Power Supply**
 
-1. - [ ] What kind of input can we expect from your subsystem/contribution ? 
-2. - [ ] How would you like to connect you subsystem to the "master" device ? 
-3. Will your device be used to control something? 
-- [ ] yes 
-- [ ] no
-4. Do you measure something to improve the experimental conditions? 
-- [ ] yes
-- [ ] no
-5. Will your subsystem communicate with the others f.e. sending input to the "master"? 
-- [ ] yes
-- [ ] no
-6. Do you perform an experiment/measurement which produces data in a file ? 
-- [ ] yes
-- [ ] no
-7. - [ ]  File format ?
-8. - [ ] How/where will your data be stored ? (SD, USB, InternalPC) 
-9. - [ ] Will it be raw data (changes in current, ...)?
-10. - [ ] How will you send/transfer the raw data ? 
-11. - [ ] Anything else that we may not think about yet ?
+ *Offers to you/Uses*
+ - Battery with solar panel
+
+ *Needs from you*
+ - The details concerning the energy for your experimental performance/measurement
+ 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+**Environment Control**
+
+**Temperature**
+
+*Offers to you/Uses*
+- Temperature + Humidity measurments via [EmonTH](https://shop.openenergymonitor.com/emonth-temperature-humidity-node/) 
+- EmonTH V2 is an open-source, :zap: wireless :zap:, **battery powered** (2 x AA from on-board holder) 
+- Data is transmitted via wireless RF (433MHz) to an  [emonPi](https://shop.openenergymonitor.com/emonpi/) 
+- access to WiFi or the ethernet required 
+
+*Needs from you*
+- Power supply for emonPi: 5V DC via mini-B USB socket, use USB capable of supplying at least 1.2 A. 
+*'Board runs on 3.3V provided by on-board volt regulator, 
+Raspberry Pi is powered by the emonPi via the GPIO pins, Raspberry Pi's 3.3V rail is not used by EmonPi'*
+
+**Vibration**
+
+*Offers to you/Uses*
+- Gives a digital signal using the I2C-interface, which can be read by the Arduino.
+- Data as USB from andrino [script](https://raspberrytips.nl/mpu-6050-gyroscoop-raspberry-pi/)
+
+*Needs from you*
+- Power supply: Module can be operated at both 3.3 and 5 V
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+**Experiments**
+
+(...)
+________________________________________________________________________________________________________________
+
+ 
