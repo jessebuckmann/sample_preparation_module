@@ -10,3 +10,6 @@ Team Stijn, Mark
 
 ### Conversation on the progress status
 
++ create a project timeline
++ create a project issue
++ not on team or gitalb -> not happened
