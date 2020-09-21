@@ -31,3 +31,5 @@ Module compartment:
 
 Height: 37.2 cm
 
+
+Module box sizes are approximately 60*10*36 cm
