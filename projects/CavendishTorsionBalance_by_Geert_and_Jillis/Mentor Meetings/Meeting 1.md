@@ -18,3 +18,4 @@ PROJECT NAME: Cavendish Torsion Balance
 + We will try to find out which vibrations will be important in the experiment
 + How long will the vibrations be important
 + Can we find the original work by Cavendish?
++ We will meet weekly on Tuesday at 13.30.
