@@ -9,6 +9,6 @@ With **your contributions** this file will result as usefull **overview of the g
 After collecting all the information it is our turn to get some **physical work** done. 
 We will wire all parts together and perform some **initial tests** of the data transfer and bandwidth, before you can run your experiments.
 
-Let's get this started :bowtie: !
+Let's get this started :fire: !
 
 **Cheerio !** :grin:
