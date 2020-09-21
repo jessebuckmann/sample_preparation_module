@@ -11,11 +11,23 @@ Width 0.75
 
 Height: 0.92
 Width: 0.75
-Heigth Legs: 0.37
+Heigth Legs: 0.25
 
 **Side as seen from the front:**
 
 
 Height: 0.92
 Width: 0.90
-Height Legs: 0.37
+Height Legs: 0.25
+
+**Compartment size**
+
+
+Experiment compartment:
+
+Height: 55.3 cm
+
+Module compartment: 
+
+Height: 37.2 cm
+
