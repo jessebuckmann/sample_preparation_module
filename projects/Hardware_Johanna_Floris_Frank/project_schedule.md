@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 *Wednesday*
 - Meeting to brainstorm ideas for the hardware experiment
-- Update the 1) Microsoft and 2) [subproject_collection](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/subproject_collection.md)
+- Update the 1) Microsoft and 2) with f.e. the new issues from the main repo [subproject_collection](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/subproject_collection.md)
 
 *Thursday*
 - Clarify the missing contents after/during the meeting
