@@ -10,11 +10,13 @@ ________________________________________________________________________________
 - Define inputs 
 - Getting advices on the further process
 
-Thursday
-- Update the 1) Microsoft and 2) [subproject_collection](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/subproject_collection.md) before the meeting
-- Clarify the missing contents after/during the meeting (send the link to everyone)
-- Checking which hardware opportunites are already in the building (Cables, shilding)
-- (Setup an appointment with Kira and write the meeting schedule)
+*Wednesday*
+- Meeting to brainstorm ideas for the hardware experiment
+- Update the 1) Microsoft and 2) [subproject_collection](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/subproject_collection.md)
+
+*Thursday*
+- Clarify the missing contents after/during the meeting
+- Setup an appointment with mentor Kira and write the **meeting schedule** (discuss exp. and data transfer)
 
 __________________________________________________________________________________________________
 
@@ -23,11 +25,9 @@ ________________________________________________________________________________
 *Monday*
 
 - Update the 1) Microsoft and 2) [subproject_collection](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/subproject_collection.md)
-- Checking which hardware opportunites are already in the building (Cables, shilding)
-- Setup an appointment with Kira and write the meeting schedule -> discuss data transfer tests
+- Checking which hardware opportunites are already in the building (Cables, shilding, experiment)
+- Perform short data transfer experiment
 
 *Thursday*
 - **Until Thursday** collect cables check first data transfers 
 - (...)
-
-
