@@ -1,4 +1,4 @@
-Note: all measurements are made in meters.
+Note: all measurements are made in meters. Next to that, one needs to substract some distance from both sides due to the precense of the frame of the box. The frame beams are approximately 4 cm wide.
 
 **Top:**
 
