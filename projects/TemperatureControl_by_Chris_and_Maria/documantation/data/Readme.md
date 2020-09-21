@@ -35,3 +35,5 @@ C.	The heating system (https://astronomersanonymous.wordpress.com/2016/04/02/con
 8.	Several LEDS (for testing circuit only) and 330 ohm resistors
 9.	wire, alligator clips, breadboard
 Possible extra wires, batteries of 9V and different power supplies.
+
+About the temperature we are thinking to set the cotroller between 15-30Celsious
