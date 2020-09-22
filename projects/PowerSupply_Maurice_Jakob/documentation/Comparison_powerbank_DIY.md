@@ -14,7 +14,7 @@
 + Not able to use solar panel as power source directly for the load, which results in low overal power consumtion ceiling
 + Can be slow to charge, due to power input limit
 
-## [DIY solar panel power station](https://microcontrolere.wordpress.com/2016/12/16/mppt-solar-charger/)
+## [Full DIY solar panel power station](https://microcontrolere.wordpress.com/2016/12/16/mppt-solar-charger/)
 
 ### Advantages
 + Extremely versatile
@@ -25,3 +25,18 @@
 + Requires 50+ parts 
 + Requires a lot of testing
 + Very fragile without expert knowledge on electronics
+
+## Semi DIY
+For example a [solar charge controller](https://www.conrad.nl/p/kemo-charging-controller-m149n-solar-laadregelaar-serie-12-v-10-a-110527) for a [large 12V battery](https://www.conrad.nl/p/conrad-energy-12-v-9-ah-loodaccu-12-v-9-ah-loodvlies-agm-b-x-h-x-d-151-x-94-x-65-mm-kabelschoen-635-mm-onderhoudsvr-250915).
+Using a [dc/dc converter](https://www.conrad.nl/p/victron-energy-orion-tr-2412-5-dcdc-converter-60-w-1666864) to down convert to 12V from the solar panel.
+
+### Advantages
++ We can create it how we like
++ High power output ceiling, with parallel solar panel and battery supply
++ 
+
+### disavantage
++ [charge controllers](https://www.sparkfun.com/categories/421) seem to be only available for very low power solutions for 5V batteries
++ requires medium amount of testing
++ more complicated to set up output connections compared to powerbank
+
