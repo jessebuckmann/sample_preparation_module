@@ -25,6 +25,7 @@
 + Requires 50+ parts 
 + Requires a lot of testing
 + Very fragile without expert knowledge on electronics
++ Need for [inverter](https://www.conrad.nl/p/e-ast-cls-300-12-omvormer-300-w-12-vdc-230-vac-514945)
 
 ## Semi DIY
 For example a [solar charge controller](https://www.conrad.nl/p/kemo-charging-controller-m149n-solar-laadregelaar-serie-12-v-10-a-110527) for a [large 12V battery](https://www.conrad.nl/p/conrad-energy-12-v-9-ah-loodaccu-12-v-9-ah-loodvlies-agm-b-x-h-x-d-151-x-94-x-65-mm-kabelschoen-635-mm-onderhoudsvr-250915).
@@ -42,4 +43,5 @@ Conrad list for 12V and 5V DC converters is [here](https://www.conrad.nl/o/spann
 + requires medium amount of testing
 + more complicated to set up output connections compared to powerbank
 + may be difficult to get 220V AC output
++ Need for [inverter](https://www.conrad.nl/p/e-ast-cls-300-12-omvormer-300-w-12-vdc-230-vac-514945)
 
