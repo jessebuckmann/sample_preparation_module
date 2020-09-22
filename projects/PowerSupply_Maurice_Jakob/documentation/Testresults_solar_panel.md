@@ -6,21 +6,21 @@ The latter can be used as a minimum luminosity to get anything useful out of the
 
 ### Amorf
 
-| Luminosity (W/m^2) | Open circuit voltage|
+| Luminosity (W/m^2) | Open circuit voltage(V)|
 | ------ | ------ |
 | 650 | 26.5 |
 | 15 | 20.0 |
 
 ### polycrystalline
 
-| Luminosity (W/m^2) | Open circuit voltage|
+| Luminosity (W/m^2) | Open circuit voltage(V)|
 | ------ | ------ |
 | 650 | 20.0 |
 | 15 | 13.0 |
 
 ### monocrystalline
 
-| Luminosity (W/m^2) | Open circuit voltage|
+| Luminosity (W/m^2) | Open circuit voltage(V)|
 | ------ | ------ |
 | 650 | 21.0 |
 | 15 | 12.0 |
