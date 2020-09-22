@@ -1,0 +1,26 @@
+*Utrecht Experiment Design 2020*
+
+# Project goals
+
+### POP
+
++ **Purpose**: to define your targets for the project you have chosen and to keep your eyes on the ball 
++ **Outcome(s)**: list of checks and measure for evaluation of your project
++ **Process**: self-reflection and discussion with your mentors
+
+PROJECT NAME: Power supply
+PROJECT MEMBERS: Maurice Jongerhuis, Jakob Schröder
+
+## Project goals (fill this at the start of the course)
+
+- Stable power supply 
+- Quantitative goal: 200W for 6h 
+- Flexible connection for all consumers 
+
+
+## Mid-course review of goals (fill this mid-course)
+*Note your progress and re-adjust your goals such that you can deliver at the end*
+
+
+## Final review of goals (fill at the end of the course)
+*Evaluate the project performance according to your mid-course goals. State what changes are necessary and which goals had to be adjusted.* 
