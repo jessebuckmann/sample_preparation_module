@@ -6,7 +6,7 @@
 | Power Usage | We have to check (probably fairly low; small laser (1mW output) and a light sensor) |
 | input type | AC |
 
-The input voltage is put into a modulator to make the setup insensitive to outside light, however the real instruments in the experiment need only a much lower voltage. As such the modulator includes a transformer to transform back down to ±5V and ±8V. We feel it should be possible to cut out this transformer and directly feed the modulator, but the lab technician says otherwise.
+The input voltage goes into a modulator to make the setup filter outside light. It directly controls the LASER and sensor. These use a much lower voltage. As such the modulator includes a transformer to transform back down to ±5V and ±8V. We feel it should be possible to cut out this transformer and directly feed the modulator, but the lab technician says otherwise for now.
 
 # Size
 | direction | size (cm) |
