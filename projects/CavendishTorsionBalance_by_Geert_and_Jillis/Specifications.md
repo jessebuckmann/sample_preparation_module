@@ -2,11 +2,11 @@
 
 | | |
 | ------ | ------ |
-| Operating Voltage | 230 V |
+| Operating Voltage | 230 V (modulator), 5V (servo's) |
 | Power Usage | We have to check (probably fairly low; small laser (1mW output) and a light sensor) |
 | input type | AC |
 
-The input voltage goes into a modulator to make the setup filter outside light. It directly controls the LASER and sensor. These use a much lower voltage. As such the modulator includes a transformer to transform back down to ±5V and ±8V. We feel it should be possible to cut out this transformer and directly feed the modulator, but the lab technician says otherwise for now.
+The input voltage goes into a modulator to make the setup filter outside light. It directly controls the LASER and sensor. These use a much lower voltage. As such the modulator includes a transformer to transform back down to ±5V and ±8V. We feel it should be possible to cut out this transformer and directly feed the modulator, but the lab technician says otherwise for now. The 8V channel would need to be balanced.
 
 # Size
 | direction | size (cm) |
