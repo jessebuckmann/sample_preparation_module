@@ -16,5 +16,5 @@ The input voltage goes into a modulator to make the setup filter outside light. 
 | heigth | 35 |
 
 # Vibration control
-The experiment is vulnerable to low frequency vibrations. The natural frequency of the balance is 1 Hz.
+The experiment is vulnerable to low frequency vibrations. The natural frequency of the balance is 1 Hz. Therefore a low pass frequency dampening system with a thershold of 0.1 Hz would be desirable. 0.1-10 Hz couples strongly to our pendulum.
 
