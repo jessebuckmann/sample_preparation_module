@@ -30,6 +30,7 @@
 For example a [solar charge controller](https://www.conrad.nl/p/kemo-charging-controller-m149n-solar-laadregelaar-serie-12-v-10-a-110527) for a [large 12V battery](https://www.conrad.nl/p/conrad-energy-12-v-9-ah-loodaccu-12-v-9-ah-loodvlies-agm-b-x-h-x-d-151-x-94-x-65-mm-kabelschoen-635-mm-onderhoudsvr-250915).
 Using a [dc/dc converter](https://www.conrad.nl/p/victron-energy-orion-tr-2412-5-dcdc-converter-60-w-1666864) to down convert to 12V from the solar panel.
 For the ouput, voltage can be split using either a voltage divider or another down converter.
+Conrad list for 12V and 5V DC converters is [here](https://www.conrad.nl/o/spanningsomvormers-dcdc-2110160?ATT_OUTPUT_VOLTAGES_any=12%20V,5%20V%2FDC&price_max=335&price_min=5.73).
 
 ### Advantages
 + We can create it how we like
