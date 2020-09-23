@@ -25,6 +25,7 @@ ________________________________________________________________________________
 
 *Monday*
 
+- Everyone comes up with one further small electronics experiment, **Floris** downloads the [software](https://store.digilentinc.com/waveforms-download-only/ )
 - Update the 1) Microsoft and 2) [subproject_collection](https://git.science.uu.nl/j.lomker/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/subproject_collection.md)
 - Checking which hardware opportunites are already in the building (Cables, shilding, experiment)
 - Perform short data transfer experiment
