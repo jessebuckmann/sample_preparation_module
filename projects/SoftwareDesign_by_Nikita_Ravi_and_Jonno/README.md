@@ -1,6 +1,6 @@
 # Aloha!
 
-You find yourself at the front page of the Software Design group 2020 consisting of Jonna, Nikita, and Ravi. This is the folder for the Software Design group documentation and programs.
+You find yourself at the front page of the Software Design group 2020 consisting of Jonno, Nikita, and Ravi. This is the folder for the Software Design group documentation and programs.
 
 Welcome! 🎊 😍 😄 :kissing_heart:
 
@@ -28,7 +28,7 @@ Btw, if someone is interested what we are doing, [Project goals](https://git.sci
 
 #### How to reach us:
 
-- ~~MS-Teams is a nobrainer~~ Preferred mode of communciaiton: (direct) messaging on [MS-Teams](https://teams.microsoft.com/l/channel/19%3a17671f7d35194c9aa6a368c449fd96fe%40thread.tacv2/grand%2520project?groupId=b36d7aae-63c5-44c9-a860-073e4ffd37ae&tenantId=d72758a0-a446-4e0f-a0aa-4bf95a4a10e7). If urgent, WhatsApp is the way.
+- ~~MS-Teams is a nobrainer~~ Preferred mode of communication: (direct) messaging on [MS-Teams](https://teams.microsoft.com/l/channel/19%3a17671f7d35194c9aa6a368c449fd96fe%40thread.tacv2/grand%2520project?groupId=b36d7aae-63c5-44c9-a860-073e4ffd37ae&tenantId=d72758a0-a446-4e0f-a0aa-4bf95a4a10e7). If urgent, WhatsApp is the way.
 
 
 
