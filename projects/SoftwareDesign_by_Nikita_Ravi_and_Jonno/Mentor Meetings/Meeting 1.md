@@ -1,6 +1,6 @@
 *Utrecht Experiment Design 2020*
 
-# Weekly mentor meeting
+# Weekly mentor meeting 24/9/2020
 
 ### POP
 
@@ -15,4 +15,7 @@ PROJECT NAME: Software Design
 
 ## Meeting feedback (fill after meeting)
 
-+ TBD
++ Make planning more specific
++ Write very specific instructions on git (a new member should be able to join with reading the git)
++ Make an independently judgeable product
++ Increase program specifications
