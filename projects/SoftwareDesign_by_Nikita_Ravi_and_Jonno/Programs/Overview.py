@@ -1,4 +1,4 @@
-import sys, AD2Sensor
+import sys
 from PyQt5 import QtGui
 from PyQt5.QtCore import pyqtSlot
 import pyqtgraph as pg   # used for additional plotting features
