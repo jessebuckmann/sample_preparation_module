@@ -67,5 +67,5 @@ Week no.:4
 - As a group project, test communication protocol(s) between an arduino coupled to a sensor/LED/measurement device and an arduino coupled to computer
 - Communication is difficult when the objective is not clear: if the goal is clear, communication is good
 - Learning to communicate under stress is part of the learning process
-- Make one person responible for taking notes during mentor meeting
+- Make one person responible for taking notes during mentor meeting (and rotate weekly)
 
