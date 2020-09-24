@@ -52,6 +52,15 @@ ________________________________________________________________________________
 Week no.:4
 
 **Agenda**
+1) Setting the Agenda
+2) Opening (Review of project goals)
+3) What will we focus on next week?
+    - Staying up to date with other groups
+    - Working on the grand project (issues, etc.)
+    - Working on our individual project
+4) What will our individual project be?
+5) Agree on and list the deliverables for following meeting
+6) Mentor feedback 
 
 **Meeting feedback** (2)
 
