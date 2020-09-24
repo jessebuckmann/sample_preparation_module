@@ -1,5 +1,5 @@
 import sys
-from PyQt5 import QtGui
+from PyQt5 import QtGui, QtWidgets
 from PyQt5.QtCore import pyqtSlot
 import pyqtgraph as pg   # used for additional plotting features
 from PyQt5.QtCore import *
@@ -14,6 +14,7 @@ from labphew.core.base.general_worker import WorkThread
 from labphew.core.base.view_base import MonitorWindowBase, ScanWindowBase
 from labphew.model.analog_discovery_2_model import Operator
 from labphew.controller.digilent.waveforms import SimulatedDfwController as DfwController
+
 
 import ctypes # needed for setting the taskbar icon
 
@@ -154,6 +155,7 @@ class Sensor1(QWidget):
 
         #button for opening the scan function
         self.scan_button = QPushButton('Scan')
+        self.scan_button.clicked.connect(self.open_scan)
 
         layout_monitor_buttons.addWidget(self.start_button)
         layout_monitor_buttons.addWidget(self.stop_button)
@@ -200,6 +202,16 @@ class Sensor1(QWidget):
         self.plot2.enableAutoRange()
 
         self.setLayout(central_layout)
+
+
+    def open_scan(self):
+        instrument = DfwController()
+        opr = Operator(instrument)
+        opr.load_config()
+
+        self.window = QtWidgets.QMainWindow()
+        self.ui = ScanWindow(opr)
+        self.ui.show()
 
 
     def apply_properties(self):
