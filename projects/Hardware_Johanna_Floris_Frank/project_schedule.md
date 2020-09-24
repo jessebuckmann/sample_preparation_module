@@ -25,10 +25,13 @@ ________________________________________________________________________________
 
 *Monday*
 
-- Before Monday: everyone learns about arduino and communication protocols (see also links in teams), and come up with ideas to implement with arduino on Monday
-- Keep on track with transferring info from the issues in the UED repo to our subproject subproject_collection
-- On Monday, perform simple experiments with the arduino and work towards understanding and developing the communication protocol/tests
+- **Before Monday**: everyone learns about [arduino](https://www.arduino.cc/en/Tutorial/LibraryExamples/MasterReader) and [communication protocols](https://www.arduino.cc/en/reference/SPI), and come up with ideas to implement with arduino on Monday
+- Keep on track with transferring info from the [issues](https://git.science.uu.nl/ued2020/experiment-design-2020/-/issues) in the UED repo to our [subproject_collection](https://git.science.uu.nl/j.lomker/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/subproject_collection.md)
+- **On Monday**, collect the hardware to/and perform simple experiments with the arduino and work towards understanding and developing the communication protocol/tests
+- Clarify open questions from the other groups (Software, Power)
+- All together small adjustments for the [README](https://git.science.uu.nl/j.lomker/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/README.md) and [project goal](https://git.science.uu.nl/j.lomker/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/project_goals_hardware.md) as well es setting the further [project_schedule](https://git.science.uu.nl/j.lomker/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/project_schedule.md). If there is still some time left work on that graph in [subproject_collection](https://git.science.uu.nl/j.lomker/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/subproject_collection.md) :)
+
 
 *Thursday*
-- **Until Thursday** collect cables check first data transfers 
+- **Until Thursday** Issues or in general all the documentation issues that may be left from Monday
 - (...)
