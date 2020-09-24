@@ -4,7 +4,7 @@
 
 | Component | Models | Remarks |
 | ------ | ------ | ------ |
-| Charger for lead-acid | [simple](https://www.conrad.nl/p/h-tronic-loodaccu-lader-al-2000-plus-12-v-laadstroom-max-2-a-1538312), [3-stage](https://www.conrad.nl/p/mean-well-loodaccu-lader-pb-akkulader-144v-2085a-12-v-laadstroom-max-2085-a-1328187) | - |
+| Charger for lead-acid | [simple](https://www.conrad.nl/p/voltcraft-loodaccu-lader-bc-1001-6-v-12-v-laadstroom-max-1-a-1406342) | - |
 | USB charger | [max 3A](https://www.conrad.nl/p/ansmann-home-charger-130q-1001-0099-usb-oplader-thuis-uitgangsstroom-max-3000-ma-1-x-usb-30-bus-a-2227123) | - |
 
 ### Storage
@@ -18,7 +18,7 @@
 
 | Component | Models | Remarks |
 | ------ | ------ | ------ |
-| Inverter | [300W](https://www.conrad.nl/p/e-ast-cls-300-12-omvormer-300-w-12-vdc-230-vac-514945), [150W](https://www.conrad.nl/p/voltcraft-msw-150-12-g-converter-150-w-12-vdc-230-vac-past-in-bekerhouder-1277756)| - |
+| Inverter | [150W](https://www.conrad.nl/p/voltcraft-msw-150-12-g-converter-150-w-12-vdc-230-vac-past-in-bekerhouder-1277756)| - |
 | Load switch and monitoring | - | assemble with Dante |  
 
 ### Cables
