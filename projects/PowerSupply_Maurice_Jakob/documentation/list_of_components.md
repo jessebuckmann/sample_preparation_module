@@ -37,5 +37,5 @@
 | ------ | ------ | ------ |
 | cell | cell | cell |
 | Solar panel | [Zonnefabriek](https://www.zonnefabriek.nl/sunpower-zonnepanelen/), [solar outlet](https://www.solar-outlet.nl/q-cells-duo-320-black.html) | - |
-| Charging controller | [1](https://www.conrad.nl/p/kemo-charging-controller-m149n-solar-laadregelaar-serie-12-v-10-a-110527) | - |
+| Charging controller | [1](https://www.conrad.nl/p/steca-solarix-prs-1515-solar-laadregelaar-serie-12-v-24-v-15-a-1556072) | - |
 | DC/DC converter | [1](https://www.conrad.nl/p/mean-well-nid65-12-dcdc-converter-49-a-588-w-aantal-uitgangen-1-x-2176629) | depends on output voltage of solar panel |
