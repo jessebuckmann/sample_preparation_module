@@ -63,4 +63,8 @@ Week no.:4
 6) Mentor feedback 
 
 **Meeting feedback** (2)
+- Digilent is not a viable to serve as a microcontroller, serves no purpose in grand project contribution
+- As a group project, test communication protocol(s) between an arduino coupled to a sensor/LED/measurement device and an arduino coupled to computer
+- Communication is difficult when the objective is not clear: if the goal is clear, communication is good
+- Learning to communicate under stress is part of the learning process
 
