@@ -25,10 +25,9 @@ ________________________________________________________________________________
 
 *Monday*
 
-- Everyone comes up with one further small electronics experiment, **Floris** downloads the [software](https://store.digilentinc.com/waveforms-download-only/ )
-- Update the 1) Microsoft and 2) [subproject_collection](https://git.science.uu.nl/j.lomker/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/subproject_collection.md)
-- Checking which hardware opportunites are already in the building (Cables, shilding, experiment)
-- Perform short data transfer experiment
+- Before Monday: everyone learns about arduino and communication protocols (see also links in teams), and come up with ideas to implement with arduino on Monday
+- Keep on track with transferring info from the issues in the UED repo to our subproject subproject_collection
+- On Monday, perform simple experiments with the arduino and work towards understanding and developing the communication protocol/tests
 
 *Thursday*
 - **Until Thursday** collect cables check first data transfers 
