@@ -11,9 +11,10 @@
 STUDENT NAME: Χριστόφορος Εσέρογλου Ανεμόπουλος
 
 ## Personal goals (fill this at the start of the course)
-+ Be patient with other people!!!
-+ Have fun.
-+ Do something that has an influence to the world.
++ Learn what can goes wrong to an experiment.
++ Learn better techniques for doin an experiment
++ Doing an experiment
++ Meet people live
 
 
 ## Mid-course review of goals (fill this mid-course)
