@@ -38,4 +38,4 @@
 | cell | cell | cell |
 | Solar panel |  [solar outlet](https://www.solar-outlet.nl/q-cells-duo-320-black.html) | - |
 | Charging controller | [1](https://www.conrad.nl/p/steca-solarix-prs-1515-solar-laadregelaar-serie-12-v-24-v-15-a-1556072) | 48V to 12V converter and charge controller for lead-acid battery |
-| DC/DC converter | [1](https://www.conrad.nl/p/dc-dc-converter-mean-well-ska15a-05-3000-ma-1292763) | 12V to 5V converter |
+| DC/DC converter | [1](https://www.conrad.nl/p/dcdc-omvormers-mean-well-sd-15a-5-3-a-1292699) | 12V to 5V converter |
