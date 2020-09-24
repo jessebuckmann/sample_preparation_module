@@ -1,5 +1,5 @@
 import sys
-from PyQt5 import QtGui, QtWidgets
+from PyQt5 import QtGui
 from PyQt5.QtCore import pyqtSlot
 import pyqtgraph as pg   # used for additional plotting features
 from PyQt5.QtCore import *
@@ -209,7 +209,7 @@ class Sensor1(QWidget):
         opr = Operator(instrument)
         opr.load_config()
 
-        self.window = QtWidgets.QMainWindow()
+        self.window = QMainWindow()
         self.ui = ScanWindow(opr)
         self.ui.show()
 
