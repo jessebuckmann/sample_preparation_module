@@ -42,7 +42,15 @@ ________________________________________________________________________________
 **Box-Design**
 
 *Offers to you/Uses*
--
+- Note: all measurements are made in meters. Next to that, one needs to substract some distance from both sides due to the precense of the frame of the box. The frame beams are approximately 4 cm wide.
+- Top: Height: 0.90, Width 0.75
+- Side: Height: 0.92, Width: 0.75, Heigth Legs: 0.25
+- Side as seen from the front: Height: 0.92, Width: 0.90, Height Legs: 0.25
+
+*Compartment size*
+-Experiment compartment: Height: 55.3 cm
+- Module compartment: Height: 37.2 cm
+- Module box sizes are approximately 601036 cm
 
 *Needs from you*
 -
@@ -54,6 +62,8 @@ ________________________________________________________________________________
 - Interfacing
 
 *Needs from you*
+- An input and output possibility for the Analog Discovery 2 by Digilent (**Hardware**)
+- A general overview tab (**here**?)
 - 1 to 4 USB **Hardware** 
 - Text base commands from adrino device **Experiment**
 - Power supply for the Laptop **Power**
@@ -68,6 +78,10 @@ ________________________________________________________________________________
 
  *Needs from you*
  - The details concerning the energy for your experimental performance/measurement
+ - Operating voltage
+ - Power usage
+ - Is input DC or AC?
+ - Additional information if possible (Stability, voltage oscillations, cold start current)
  
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 **Environment Control**
@@ -75,6 +89,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 **Temperature**
 
 *Offers to you/Uses*
+- 'We will use 1 or 2 Arduino with cooling and/or heating systems and of course sensors'
 - Temperature + Humidity measurments via [EmonTH](https://shop.openenergymonitor.com/emonth-temperature-humidity-node/) 
 - EmonTH V2 is an open-source, :zap: wireless :zap:, **battery powered** (2 x AA from on-board holder) 
 - Data is transmitted via wireless RF (433MHz) to an  [emonPi](https://shop.openenergymonitor.com/emonpi/) 
