@@ -12,7 +12,7 @@
 | Component | Models | Remarks |
 | ------ | ------ | ------ |
 | Power bank | [1](https://www.conrad.nl/p/anker-powercore-26800-powerbank-li-ion-26800-mah-a1277011-1672847) | - |
-| 12V lead battery | [12 aH](https://www.conrad.nl/p/conrad-energy-12-v-12-ah-loodaccu-12-v-12-ah-loodvlies-agm-b-x-h-x-d-151-x-95-x-98-mm-kabelschoen-635-mm-onderhouds-250916), [38 aH](https://www.conrad.nl/p/panasonic-lc-x1238pap-loodaccu-12-v-38-ah-loodvlies-agm-b-x-h-x-d-197-x-175-x-165-mm-m5-schroefaansluiting-vds-cert-250314) | - |
+| 12V lead battery | [12 aH](https://www.conrad.nl/p/conrad-energy-12-v-12-ah-loodaccu-12-v-12-ah-loodvlies-agm-b-x-h-x-d-151-x-95-x-98-mm-kabelschoen-635-mm-onderhouds-250916) | - |
 
 ### Interfacing components
 
