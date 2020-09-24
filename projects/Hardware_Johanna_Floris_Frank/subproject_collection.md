@@ -48,7 +48,7 @@ ________________________________________________________________________________
 - Side as seen from the front: Height: 0.92, Width: 0.90, Height Legs: 0.25
 
 *Compartment size*
--Experiment compartment: Height: 55.3 cm
+- Experiment compartment: Height: 55.3 cm
 - Module compartment: Height: 37.2 cm
 - Module box sizes are approximately 601036 cm
 
