@@ -25,10 +25,10 @@
 
 | Component | Models | Remarks |
 | ------ | ------ | ------ |
-| USB type A cable | | charger <-> powerbank, powerbank to load switch and USB hub |
-| USB splitter | | power splitter for multiple arduinos |
+| USB type A cable | [charger <-> powerbank](https://www.conrad.nl/p/digitus-usb-20-aansluitkabel-1x-usb-a-20-stekker-1x-usb-a-20-stekker-100-m-zwart-678038), powerbank to load switch and USB hub | |
+| USB splitter | [power splitter](https://www.conrad.nl/p/logilink-ua0138-4-poorten-usb-20-hub-groen-986336) for multiple arduinos | |
 | power lines 12V | | cables for 12V battery and load-switch |
-|  | | |
+| USB cable to connect powerbank and Hub | [this](https://www.conrad.nl/p/manhattan-usb-20-verlengkabel-1x-usb-a-20-stekker-1x-usb-20-bus-a-100-m-zwart-folie-afscherming-ul-gecertificee-1592188) | |
 
 
 ### Solar
@@ -36,6 +36,6 @@
 | Component | Models | Remarks |
 | ------ | ------ | ------ |
 | cell | cell | cell |
-| Solar panel | [Zonnefabriek](https://www.zonnefabriek.nl/sunpower-zonnepanelen/), [solar outlet](https://www.solar-outlet.nl/q-cells-duo-320-black.html) | - |
-| Charging controller | [1](https://www.conrad.nl/p/steca-solarix-prs-1515-solar-laadregelaar-serie-12-v-24-v-15-a-1556072) | - |
+| Solar panel |  [solar outlet](https://www.solar-outlet.nl/q-cells-duo-320-black.html) | - |
+| Charging controller | [1](https://www.conrad.nl/p/steca-solarix-prs-1515-solar-laadregelaar-serie-12-v-24-v-15-a-1556072) | 48V to 12V converter and charge controller for lead-acid battery |
 | DC/DC converter | [1](https://www.conrad.nl/p/dc-dc-converter-mean-well-ska15a-05-3000-ma-1292763) | 12V to 5V converter |
