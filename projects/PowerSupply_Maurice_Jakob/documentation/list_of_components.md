@@ -25,7 +25,7 @@
 
 | Component | Models | Remarks |
 | ------ | ------ | ------ |
-| USB type A cable | [charger <-> powerbank](https://www.conrad.nl/p/digitus-usb-20-aansluitkabel-1x-usb-a-20-stekker-1x-usb-a-20-stekker-100-m-zwart-678038), powerbank to load switch and USB hub | |
+| USB type A cable | 2x [charger <-> powerbank](https://www.conrad.nl/p/digitus-usb-20-aansluitkabel-1x-usb-a-20-stekker-1x-usb-a-20-stekker-100-m-zwart-678038), cable from charger to powerbank and  one for DC/DC converter to powerbank | |
 | USB splitter | [power splitter](https://www.conrad.nl/p/logilink-ua0138-4-poorten-usb-20-hub-groen-986336) for multiple arduinos | |
 | power lines 12V | | cables for 12V battery and load-switch |
 | USB cable to connect powerbank and Hub | [this](https://www.conrad.nl/p/manhattan-usb-20-verlengkabel-1x-usb-a-20-stekker-1x-usb-20-bus-a-100-m-zwart-folie-afscherming-ul-gecertificee-1592188) | |
