@@ -33,7 +33,7 @@ class TabWidget(QDialog):
         self.width = 1050
         self.height = 600
         self.setWindowTitle(self.title)
-        self.setWindowIcon(QIcon('placeholder_Icon.png'))
+        self.setWindowIcon(QIcon('BIMBOLogov1.png'))
         self.setWindowFlag(Qt.WindowMinimizeButtonHint, True)
         self.setWindowFlag(Qt.WindowMaximizeButtonHint, True)
         self.setGeometry(self.left, self.top, self.width, self.height)
