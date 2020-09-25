@@ -36,6 +36,6 @@
 | Component | Models | Remarks |
 | ------ | ------ | ------ |
 | cell | cell | cell |
-| Solar panel |  [solar outlet](https://www.solar-outlet.nl/q-cells-duo-320-black.html) | - |
+| Solar panel |  [solar outlet](https://www.solar-outlet.nl/q-cells-duo-320-black.html) + [set MC4 connector](https://www.solar-outlet.nl/mc4-connector-set.html) + [3m red](https://www.solar-outlet.nl/solarkabel-4mm2-rood-per-meter.html) + [3m black](https://www.solar-outlet.nl/solarkabel-4mm2-zwart-30-meter-copy-99949374.html) | - |
 | Charging controller | [1](https://www.conrad.nl/p/steca-solarix-prs-1515-solar-laadregelaar-serie-12-v-24-v-15-a-1556072) | 48V to 12V converter and charge controller for lead-acid battery |
 | DC/DC converter | [1](https://www.conrad.nl/p/dcdc-omvormers-mean-well-sd-15a-5-3-a-1292699) | 12V to 5V converter |
