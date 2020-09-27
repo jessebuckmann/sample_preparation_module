@@ -64,7 +64,7 @@ ________________________________________________________________________________
 *Needs from you*
 - An input and output possibility for the Analog Discovery 2 by Digilent (**Hardware**)
 - A general overview tab (**here**?)
-- 1 to 4 USB **Hardware** 
+- Maybe 2 x 1 to 4 [USB](https://www.aulola.co.uk/4-port-usb-hub-usb-20-round-usb-splitter-box-with-long-cable-black-p19122.html) **Hardware** 
 - Text base commands from adrino device **Experiment**
 - Power supply for the Laptop **Power**
 ________________________________________________________________________________________________________
@@ -74,7 +74,8 @@ ________________________________________________________________________________
  **Power Supply**
 
  *Offers to you/Uses*
- - Battery with solar panel
+ - Battery with solar and [solar charge controller](https://www.conrad.nl/p/steca-solarix-prs-2020-solar-laadregelaar-serie-12-v-24-v-20-a-110704)
+ - Control of power consumption/central shut down: **Hardware** creates short-circuit and **Software** the corresponding *'safety-code'*
 
  *Needs from you*
  - The details concerning the energy for your experimental performance/measurement
@@ -82,6 +83,7 @@ ________________________________________________________________________________
  - Power usage
  - Is input DC or AC?
  - Additional information if possible (Stability, voltage oscillations, cold start current)
+ - Charge controller which requires 10cm above and below it for ventilation and safety, as well as some room to able to attach and detach cables on the bottom **Box**
  
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 **Environment Control**
@@ -103,16 +105,39 @@ Raspberry Pi is powered by the emonPi via the GPIO pins, Raspberry Pi's 3.3V rai
 **Vibration**
 
 *Offers to you/Uses*
+- 1 or 2 Arduino's
+______________________Initially_________________________________________________________________________
 - Gives a digital signal using the I2C-interface, which can be read by the Arduino.
 - Data as USB from andrino [script](https://raspberrytips.nl/mpu-6050-gyroscoop-raspberry-pi/)
+________________________________________________________________________________________________________
+
 
 *Needs from you*
-- Power supply: Module can be operated at both 3.3 and 5 V
+- Power supply: about 5V each 
+________________________________________________________________________________________________________
+- Module can be operated at both 3.3 and 5 V
+________________________________________________________________________________________________________
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 **Experiments**
 
-(...)
+**Sample Preparation Module**
+
+*Offers to you/Uses*
+
+*Needs from you*
+operating voltage: 230V and 12V
+Power usage: At most 10W probably lower.
+Input type: AC, DC
+
+
+**Cavendish Torsin Balance**
+
+*Offers to you/Uses*
+- Some magic
+ *Needs from you*
+- Space: Width x Depth x Height = 30 cm x 50 cm x 35 cm
+- *Operating Voltage:* 230 V (modulator), 5V (servo's) // *Power Usage:* We have to check (probably fairly low; small laser (1mW output) and a light sensor) // *Input type:* AC
 ________________________________________________________________________________________________________________
 
  
