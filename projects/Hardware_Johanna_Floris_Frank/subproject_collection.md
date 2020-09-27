@@ -127,9 +127,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 *Offers to you/Uses*
 
 *Needs from you*
-operating voltage: 230V and 12V
-Power usage: At most 10W probably lower.
-Input type: AC, DC
+- *Operating voltage:* 230V and 12V // *Power usage:* At most 10W probably lower // *Input type:* AC, DC
 
 
 **Cavendish Torsin Balance**
