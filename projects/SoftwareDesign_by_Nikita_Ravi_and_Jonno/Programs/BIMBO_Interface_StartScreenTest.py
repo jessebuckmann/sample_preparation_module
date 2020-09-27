@@ -38,6 +38,13 @@ class TabWidget(QDialog):
         self.setGeometry(self.left, self.top, self.width, self.height)
         self.center()
 
+
+        pybutton = QPushButton('Click me', self)
+        pybutton.resize(100, 32)
+        pybutton.move(50, 50)
+        pybutton.clicked.connect(self.StartProgram)
+
+    def StartProgram(self):
         tabwidget = QTabWidget()
         tabwidget.addTab(Overview.Overview(), 'Overview')
 
