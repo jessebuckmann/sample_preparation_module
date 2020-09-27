@@ -106,6 +106,7 @@ Raspberry Pi is powered by the emonPi via the GPIO pins, Raspberry Pi's 3.3V rai
 
 *Offers to you/Uses*
 - 1 or 2 Arduino's
+
 ______________________Initially_________________________________________________________________________
 - Gives a digital signal using the I2C-interface, which can be read by the Arduino.
 - Data as USB from andrino [script](https://raspberrytips.nl/mpu-6050-gyroscoop-raspberry-pi/)
@@ -135,7 +136,7 @@ Input type: AC, DC
 
 *Offers to you/Uses*
 - Some magic
- *Needs from you*
+*Needs from you*
 - Space: Width x Depth x Height = 30 cm x 50 cm x 35 cm
 - *Operating Voltage:* 230 V (modulator), 5V (servo's) // *Power Usage:* We have to check (probably fairly low; small laser (1mW output) and a light sensor) // *Input type:* AC
 ________________________________________________________________________________________________________________
