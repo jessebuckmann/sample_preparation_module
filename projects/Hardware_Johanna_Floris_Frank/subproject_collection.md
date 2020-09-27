@@ -136,6 +136,7 @@ Input type: AC, DC
 
 *Offers to you/Uses*
 - Some magic
+
 *Needs from you*
 - Space: Width x Depth x Height = 30 cm x 50 cm x 35 cm
 - *Operating Voltage:* 230 V (modulator), 5V (servo's) // *Power Usage:* We have to check (probably fairly low; small laser (1mW output) and a light sensor) // *Input type:* AC
