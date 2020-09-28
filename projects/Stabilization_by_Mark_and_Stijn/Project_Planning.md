@@ -2,6 +2,6 @@ Week 21-27: Hopefully be able to solder the accelerometer to an breadboard, as w
     
     Mentor meeting with Rinske (21-9-2020// 16:00)
 
-Week 28-04: Start building the box itself, as well as perhaps the pully-system. Also decide on what materials to use for the box, the pully-system, and the leveling-system (also still need to get sensors for this part). We will have look 
+Week 28-04: Start measuring the vibrations of different systems. We do this by making different bodeplots (and writing code). We will also ask Ravi how we go from the arduino to them. 
 
-Week 05-11: Start building the box itself, as well as perhaps the pully-system.
+Week 05-11: Start building the box itself, as well as the leveling-system. Another possibility is letting someone else make the box.... ?!
