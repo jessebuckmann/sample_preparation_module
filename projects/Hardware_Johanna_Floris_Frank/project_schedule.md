@@ -29,9 +29,27 @@ ________________________________________________________________________________
 - Keep on track with transferring info from the [issues](https://git.science.uu.nl/ued2020/experiment-design-2020/-/issues) in the UED repo to our [subproject_collection](https://git.science.uu.nl/j.lomker/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/subproject_collection.md)
 - **On Monday**, collect the hardware to/and perform simple experiments with the arduino and work towards understanding and developing the communication protocol/tests
 - Clarify open questions from the other groups (Software, Power)
-- All together small adjustments for the [README](https://git.science.uu.nl/j.lomker/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/README.md) and [project goal](https://git.science.uu.nl/j.lomker/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/project_goals_hardware.md) as well es setting the further [project_schedule](https://git.science.uu.nl/j.lomker/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/project_schedule.md). If there is still some time left work on that graph in [subproject_collection](https://git.science.uu.nl/j.lomker/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/subproject_collection.md) :)
+- Small adjustments for the [README](https://git.science.uu.nl/j.lomker/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/README.md) and [project goal](https://git.science.uu.nl/j.lomker/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/project_goals_hardware.md) as well es setting the further [project_schedule](https://git.science.uu.nl/j.lomker/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/project_schedule.md). If there is still some time left work on that graph in [subproject_collection](https://git.science.uu.nl/j.lomker/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/subproject_collection.md) :)
 
+*Wednesday*
+- Meeting with Tijmen & Co
 
 *Thursday*
 - **Until Thursday** Issues or in general all the documentation issues that may be left from Monday
+- Figure out how to connect several measurments/arduinos with each other.
+
+*Friday/Weekend*
+- Updated project goals ready for discussion
+- Committed report on context and theory
+
+__________________________________________________________________________________________________
+
+**Week 5**
+
+*Monday*
+
+- **Submit the Issues**
+
+*Thursday*
 - (...)
+
