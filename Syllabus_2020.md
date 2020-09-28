@@ -204,7 +204,7 @@ Before the start of this Monday's meeting, you have to met your deadlines up to 
 #### After the cohort meeting:
 
 + Revise your project goals (under mid-course review) based on your first signal.
-+ In your presonal goals file, list your contacts, check the current state of your value exchanges, and write down your ideal state.
++ In your personal goals file, list your contacts, check the current state of your value exchanges, and write down your ideal state.
 
 
 ### Resources:
