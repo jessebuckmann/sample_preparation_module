@@ -21,4 +21,4 @@ Open the anaconda prompt as administrator by searching "anaconda prompt" in wind
 Navigate to your master-labphew folder in the prompt using cd C:/path/to/dir/.../master-labphew
 (you can go up a folder using cd ..)
 
-Type pip install -e .
+Type ***pip install -e .*** and press enter
