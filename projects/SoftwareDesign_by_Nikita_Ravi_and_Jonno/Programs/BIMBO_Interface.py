@@ -13,7 +13,8 @@ from labphew.core.tools.gui_tools import set_spinbox_stepsize, ValueLabelItem, S
 from labphew.core.base.general_worker import WorkThread
 from labphew.core.base.view_base import MonitorWindowBase, ScanWindowBase
 from labphew.model.analog_discovery_2_model import Operator
-from labphew.controller.digilent.waveforms import SimulatedDfwController as DfwController
+#from labphew.controller.digilent.waveforms as DfwController ##This is used for the real device
+from labphew.controller.digilent.waveforms import SimulatedDfwController as DfwController ##This is used for the simulated device
 
 
 import ctypes # needed for setting the taskbar icon
@@ -92,10 +93,6 @@ class TabWidget(QDialog):
         centerPoint = QDesktopWidget().availableGeometry().center()
         qtRectangle.moveCenter(centerPoint)
         self.move(qtRectangle.topLeft())
-
-
-
-
 
 
 app = QApplication(sys.argv)
