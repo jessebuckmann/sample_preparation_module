@@ -84,6 +84,7 @@ ________________________________________________________________________________
  - Is input DC or AC?
  - Additional information if possible (Stability, voltage oscillations, cold start current)
  - Charge controller which requires 10cm above and below it for ventilation and safety, as well as some room to able to attach and detach cables on the bottom **Box**
+ - 2*2 pin inputs to measure voltage for voltage control
  
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 **Environment Control**
