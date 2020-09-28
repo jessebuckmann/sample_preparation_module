@@ -8,7 +8,8 @@ Team Johanna, Frank, Floris
 + How much have you thought of easing the contributions?
 + How are the individual roles defined and arranged?
 
-
-
 ### Conversation on the progress status
 
++ be deliberate on assigning tasks
++ separate your demonstration from the service you will provide the grand project
++ focus on the process and not the final product

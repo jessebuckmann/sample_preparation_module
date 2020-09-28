@@ -10,4 +10,6 @@ Team Maria, Chris
 
 ### Conversation on the progress status
 
-
++ create a demonstration system and show application of your system in that 
++ be deliberate in setting the conditions for the other parts of the grand project when necessary
++ try to communicate using the common tools like teams and gitlab
