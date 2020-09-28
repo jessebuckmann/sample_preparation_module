@@ -10,4 +10,4 @@ Where the major difference is the level of knowledge regarding electronics requi
 A current list of parts for this project can be found [here](./documentation/list_of_components.md).
 The current plan consist of a powerbank (5V), 12V lead acid and inverter to provide all the needs specified.
 A load-switch and monitoring system will provide the safety and communication with other parts of the box.
-It can be further expanded with a solar panel to charge the station remotely.
+It is further expanded with a solar panel to charge the station remotely.
