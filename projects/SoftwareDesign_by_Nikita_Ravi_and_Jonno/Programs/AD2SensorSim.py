@@ -13,7 +13,7 @@ from labphew.core.tools.gui_tools import set_spinbox_stepsize, ValueLabelItem, S
 from labphew.core.base.general_worker import WorkThread
 from labphew.core.base.view_base import MonitorWindowBase, ScanWindowBase
 from labphew.model.analog_discovery_2_model import Operator
-from labphew.controller.digilent.waveforms import DfwController
+from labphew.controller.digilent.waveforms import SimulatedDfwController as DfwController
 
 class Sensor1(QWidget):
     def __init__(self, operator,parent=None):
