@@ -25,6 +25,11 @@ Regarding group projects:
 ## Mid-course review of goals (fill this mid-course)
 *Note what skills you have learned so far, whether you are hitting your own targets and if you need to modify them. State if the course structure allows you to attain your goals.*
 
+### list of contacts and state of value exchanges
+
+Dante Killian: This exchange feels very one-sided. We need to learn about electronics and practical skills to build such systems. Dante provides this knowledge, with nothing in return.
+
+Gerhard Blab: He is a mentor for this project, where general initial guidance was provided. 
 
 ## Final review of goals (fill at the end of the course)
 * Review the course from your personal point of view and whether it met your expectations. State how you could have done better and suggest changes that can make the course better.* 
