@@ -29,7 +29,11 @@ Regarding group projects:
 
 Dante Killian: This exchange feels very one-sided. We need to learn about electronics and practical skills to build such systems. Dante provides this knowledge, with nothing in return.
 
-Gerhard Blab: He is a mentor for this project, where general initial guidance was provided. 
+Gerhard Blab: He is a mentor for this project, where general initial guidance was provided. Key values are: Pay-it-forward, in order to educate us to the level of potential master-thesis project and/or PhD students.
+
+Sanli Faez: General guidance of the process of participating in a group project. key values: Altriusm, pay-it-forward. To establish a better scientific world based on open-source projects.
+
+Other subgroups within the project: key values: feedback, professional development, to learn about group projects and understand the purpose of being concious about group interactions.
 
 ## Final review of goals (fill at the end of the course)
 * Review the course from your personal point of view and whether it met your expectations. State how you could have done better and suggest changes that can make the course better.* 
