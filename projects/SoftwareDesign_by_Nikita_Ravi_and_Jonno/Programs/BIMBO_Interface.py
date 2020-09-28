@@ -4,7 +4,7 @@ from PyQt5.QtCore import pyqtSlot
 import pyqtgraph as pg   # used for additional plotting features
 from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
-from PyQt5.QtGui import QIcon
+from PyQt5.QtGui import QIcon, QPixmap
 import labphew
 import logging
 import os
@@ -13,7 +13,8 @@ from labphew.core.tools.gui_tools import set_spinbox_stepsize, ValueLabelItem, S
 from labphew.core.base.general_worker import WorkThread
 from labphew.core.base.view_base import MonitorWindowBase, ScanWindowBase
 from labphew.model.analog_discovery_2_model import Operator
-from labphew.controller.digilent.waveforms import SimulatedDfwController as DfwController
+#from labphew.controller.digilent.waveforms as DfwController ##This is used for the real device
+from labphew.controller.digilent.waveforms import SimulatedDfwController as DfwController ##This is used for the simulated device
 
 
 import ctypes # needed for setting the taskbar icon
@@ -21,7 +22,6 @@ import ctypes # needed for setting the taskbar icon
 # this makes sure the favicon also appears as the taskbar icon
 myappid = 'BIMBO'
 ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(myappid)
-
 
 class TabWidget(QDialog):
     def __init__(self):
@@ -33,11 +33,30 @@ class TabWidget(QDialog):
         self.width = 1050
         self.height = 600
         self.setWindowTitle(self.title)
-        self.setWindowIcon(QIcon('placeholder_Icon.png'))
+        self.setWindowIcon(QIcon('BIMBOLogov1.png'))
         self.setWindowFlag(Qt.WindowMinimizeButtonHint, True)
         self.setWindowFlag(Qt.WindowMaximizeButtonHint, True)
         self.setGeometry(self.left, self.top, self.width, self.height)
         self.center()
+
+
+        #adding image to background
+        self.background = QLabel(self)
+        pixmap = QPixmap('BIMBOLogov2.png')
+        self.background.setScaledContents(True)
+        self.background.setPixmap(pixmap)
+
+
+        startbutton = QPushButton('Let\'s Go!', self)
+        startbutton.resize(100, 32)
+        startbutton.move(-50, -50)
+        startbutton.clicked.connect(self.StartProgram)
+        startbutton.clicked.connect(self.bgHide)
+
+    def bgHide(self):
+        self.background.hide()
+
+    def StartProgram(self):
 
         tabwidget = QTabWidget()
         tabwidget.addTab(Overview.Overview(), 'Overview')
@@ -74,10 +93,6 @@ class TabWidget(QDialog):
         centerPoint = QDesktopWidget().availableGeometry().center()
         qtRectangle.moveCenter(centerPoint)
         self.move(qtRectangle.topLeft())
-
-
-
-
 
 
 app = QApplication(sys.argv)
