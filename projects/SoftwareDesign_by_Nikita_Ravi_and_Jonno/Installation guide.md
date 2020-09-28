@@ -1,6 +1,6 @@
 Go to: https://github.com/SanliFaez/labphew
 
-Download a zip under code
+Download the zip under code
 
 Extract the zip into a place of your choosing.
 
