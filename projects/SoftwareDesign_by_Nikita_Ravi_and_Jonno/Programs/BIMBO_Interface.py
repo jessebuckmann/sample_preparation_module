@@ -4,7 +4,7 @@ from PyQt5.QtCore import pyqtSlot
 import pyqtgraph as pg   # used for additional plotting features
 from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
-from PyQt5.QtGui import QIcon
+from PyQt5.QtGui import QIcon, QPixmap
 import labphew
 import logging
 import os
@@ -37,6 +37,25 @@ class TabWidget(QDialog):
         self.setWindowFlag(Qt.WindowMaximizeButtonHint, True)
         self.setGeometry(self.left, self.top, self.width, self.height)
         self.center()
+
+
+        #adding image to background
+        self.background = QLabel(self)
+        pixmap = QPixmap('BIMBOLogov2.png')
+        self.background.setScaledContents(True)
+        self.background.setPixmap(pixmap)
+
+
+        startbutton = QPushButton('Let\'s Go!', self)
+        startbutton.resize(100, 32)
+        startbutton.move(-50, -50)
+        startbutton.clicked.connect(self.StartProgram)
+        startbutton.clicked.connect(self.bgHide)
+
+    def bgHide(self):
+        self.background.hide()
+
+    def StartProgram(self):
 
         tabwidget = QTabWidget()
         tabwidget.addTab(Overview.Overview(), 'Overview')
