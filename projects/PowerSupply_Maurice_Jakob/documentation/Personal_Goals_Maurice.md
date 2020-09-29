@@ -35,5 +35,7 @@ Sanli Faez: General guidance of the process of participating in a group project.
 
 Other subgroups within the project: key values: feedback, professional development, to learn about group projects and understand the purpose of being concious about group interactions.
 
+In an ideal state I would have the feeling i'm providing something for the supervisors as well. However, I think that is the nature of the educational system.
+
 ## Final review of goals (fill at the end of the course)
 * Review the course from your personal point of view and whether it met your expectations. State how you could have done better and suggest changes that can make the course better.* 
