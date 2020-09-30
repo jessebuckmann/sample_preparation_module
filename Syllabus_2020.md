@@ -190,11 +190,13 @@ Before the start of this Monday's meeting, you have to met your deadlines up to 
 
 + **Allard Mosk** will tell us how to best extract signal from noise 
     - [lecture slides]()
-+ we will learn hear about the role photovoltaics in the energy transition from **Wilfried van Sark**. 
-    - [lecture slides]()
++ we will play a quiz game on lectures of the past 4 weeks.
 + tbc: We will have a tour of the mechanical workshop
 
+
 ### Cohort meeting
+
+During this week, each team will meet with the course coordinators to discuss their progress.
 
 #### Before the cohort meeting:
 
@@ -204,7 +206,7 @@ Before the start of this Monday's meeting, you have to met your deadlines up to 
 #### After the cohort meeting:
 
 + Revise your project goals (under mid-course review) based on your first signal.
-+ In your presonal goals file, list your contacts, check the current state of your value exchanges, and write down your ideal state.
++ In your personal goals file, list your contacts, check the current state of your value exchanges, and write down your ideal state.
 
 
 ### Resources:
@@ -218,8 +220,10 @@ During this week, you write the necessary code for analysing your measured data 
 
 Make a plan, together with your mentor, for fixing the glitches in the measurement setup, your understanding of your experiment and the physics of it. Execute the plan and explain what you have learned so far to your peers.
 
-During this week, each team will meet with the course coordinators to discuss their progress.
- 
+### In this week lectures 
++ we will learn hear about the role photovoltaics in the energy transition from **Wilfried van Sark** (Thursday 9:30). 
+    - [lecture slides]()
+
 ### Cohort meeting
 
 #### Before the cohort meeting:
