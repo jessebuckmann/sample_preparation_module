@@ -73,9 +73,9 @@ Week no.: 5
 **Agenda**
 1) Evaluation of findings from past week
 2) What to do for the deadline on Monday:
-    -What to deliver as a first signal and artpiece
-    -What to write in the report on context and theory
-    -Updating project goals (see also 3))
+-What to deliver as a first signal and artpiece
+-What to write in the report on context and theory
+-Updating project goals (see also 3))
 3) Decide on what we want to further investigate
 4) Translate point 3) into a schedule for next week
 5) Receive and discuss mentor feedback
