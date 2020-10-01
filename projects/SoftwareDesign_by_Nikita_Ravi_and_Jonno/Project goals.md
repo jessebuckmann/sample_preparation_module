@@ -37,7 +37,5 @@ Subgoals
 * Make an artificial data stream to test the model and interface (CHECK!)
 
 
-Mid-course review of goals (fill this mid-course)
-
 
 ## Final review of goals (fill at the end of the course)
