@@ -44,9 +44,17 @@ Below, A schemetic can be found of the setup.
 
 *all the stuff about conversion and all the connections*
 
-- charge controller for battery
-- voltage monitoring
-- inverter
+The lead battery has to be charged with a voltage close to its nominal voltage of 12V. 
+Also it is sensitive to overcharging or deep discharge. 
+This is taken care of by the charge controller, which also internally downconverts the input voltage from the solar panel.
+
+As the charge controller will shut everything down in case of too high or low battery voltage and that can be troubling for some components there is a need for additional voltage monitoring.
+This enables the user to disconnect the loads in time.
+
+As described above, the lead battery is the most sensitive component of the setup.
+It is needed because of AC loads in the science station.
+The current from the solar pannel is DC and most loads use 5V DC which can be supplied via USB, which makes a power bank the convenient option.
+However, an inverter that makes AC current out of DC input cannot connect to a power bank so the 12V lead battery is needed.
 
 ### Possible sources of noise
 
