@@ -16,11 +16,10 @@ PROJECT MEMBERS: Mikita, Jonna, Ravi
 * We want to be able to visualise data in said program
 * we want to be able to adjust sensors in said program if needed
 ### Subgoals
-* Make the model part
-* Make the controller part
-* Make the view part
-* Transfer the sensor-signal to data
-* Make an artificial data stream to test the model and interface
+* Create an arduino controller
+* Adjust the AD2 controller (save files into text, voltage vs time)
+* Make the general interface with tabs
+* Make an artificial data stream to test the model and interface (CHECK!)
 
 ## Mid-course review of goals (fill this mid-course)
 
