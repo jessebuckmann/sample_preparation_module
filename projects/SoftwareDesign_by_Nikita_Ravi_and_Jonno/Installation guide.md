@@ -6,7 +6,7 @@ Extract the zip into a place of your choosing.
 
 Install anaconda from: https://www.anaconda.com/products/individual
 
-Open the anaconda prompt as administrator by searching "anaconda prompt" in windows and right-click open as administrator
+Open the anaconda prompt by searching "anaconda prompt" in windows 
 
 Navigate to your master-labphew folder in the prompt using ***cd C:/path/to/dir/.../master-labphew***
 (you can go up a folder using cd ..)
