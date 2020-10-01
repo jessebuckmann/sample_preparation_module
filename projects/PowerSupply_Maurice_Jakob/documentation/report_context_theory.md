@@ -14,7 +14,7 @@ The loads of the science station can in principle run on DC or AC current and at
 
 *sketch of what is there*
 
-`insert picture`
+![Circuit of project](./images/circuit.png)
 
 
 ### Important considerations
