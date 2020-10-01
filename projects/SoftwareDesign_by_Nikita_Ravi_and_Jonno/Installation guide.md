@@ -4,7 +4,7 @@ Download the zip under code
 
 Extract the zip into a place of your choosing.
 
-Install anaconda from: https://docs.anaconda.com/anaconda/install/windows/
+Install anaconda from: https://www.anaconda.com/products/individual
 
 Open the anaconda prompt as administrator by searching "anaconda prompt" in windows and right-click open as administrator
 
