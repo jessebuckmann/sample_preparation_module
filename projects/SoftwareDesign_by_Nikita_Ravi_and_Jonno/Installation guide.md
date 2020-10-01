@@ -13,7 +13,7 @@ Navigate to your master-labphew folder in the prompt using ***cd C:/path/to/dir/
 
 Type ***pip install -e .*** and press enter
 
-Type ***pip install pyqtwebengine*** and press enter
+Type ***pip install pyqtwebengine*** and press enter *twice* (the second time after the first one is done) 
 
 
 Download waveforms and install from: https://mautic.digilentinc.com/asset/110:waveforms-windows-64-bit-download
