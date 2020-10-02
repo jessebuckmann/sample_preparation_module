@@ -93,15 +93,9 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
 *Offers to you/Uses*
 - 'We will use 1 or 2 Arduino with cooling and/or heating systems and of course sensors'
-- Temperature + Humidity measurments via [EmonTH](https://shop.openenergymonitor.com/emonth-temperature-humidity-node/) 
-- EmonTH V2 is an open-source, :zap: wireless :zap:, **battery powered** (2 x AA from on-board holder) 
-- Data is transmitted via wireless RF (433MHz) to an  [emonPi](https://shop.openenergymonitor.com/emonpi/) 
-- access to WiFi or the ethernet required 
 
 *Needs from you*
-- Power supply for emonPi: 5V DC via mini-B USB socket, use USB capable of supplying at least 1.2 A. 
-*'Board runs on 3.3V provided by on-board volt regulator, 
-Raspberry Pi is powered by the emonPi via the GPIO pins, Raspberry Pi's 3.3V rail is not used by EmonPi'*
+- Power supply for emonPi: 5V DC via mini-B USB socket, use USB capable of supplying at least 1.2 A. *
 
 **Vibration**
 
