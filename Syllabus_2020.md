@@ -222,7 +222,7 @@ Make a plan, together with your mentor, for fixing the glitches in the measureme
 
 ### In this week lectures 
 + we will learn hear about the role photovoltaics in the energy transition from **Wilfried van Sark** (Thursday 9:30). 
-    - [lecture slides]()
+    - [lecture slides](./Lectures/Slides/EDSolar-VanSark.pdf)
 
 ### Cohort meeting
 
