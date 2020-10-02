@@ -254,7 +254,7 @@ Before the start of this Monday's meeting, you have to met your deadlines up to 
 + Explain your project to another group.
 
 #### After the cohort meeting:
-+ Prepare a detailed set of instructions so that another team can perform your experiment and get results **without your help**. Use the [reproducibility feedback](./Coordination/_Templates/reproducibility_review) as a guide.
++ Prepare a detailed set of instructions so that another team can perform your experiment and get results **without your help**. Use the [reproducibility feedback](./Coordination/_Templates/peer_evaluation.md) as a guide.
 
 ---
 
