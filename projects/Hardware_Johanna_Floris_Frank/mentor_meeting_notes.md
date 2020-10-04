@@ -81,3 +81,9 @@ Week no.: 5
 5) Receive and discuss mentor feedback
 
 **Meeting feedback** (3)
+- Make a block diagram for problem treatment
+- Include library also in master (for the future: also check the library to see what is possible)
+- Thinking about ´converting float into bit
+- Piece of code to help us :)
+			
+
