@@ -28,6 +28,14 @@ PROJECT NAME: Prep the Box
 
 ## Meeting feedback (fill after meeting)
 
-+ What did you learn in your mentor meeting? 
++ What did you learn in your mentor meeting?
+
+We learned a lot of possible pitfalls. Where we were thinking a lot about the way of keeping the box warm enough, we should be thinking about keeping the box cold. The ideas we had about the module system (suspended rails, or hanging rails) were quite ok. We also stick with our idea to add a roof with solar panels and a converter. Next to that, we will slightly lower the floor of the box (such that experiment group has more space). In between the door and the modules/experiment, we will leave some room for the wires that hardware will need to connect the two compartments.
+
 + What decisions have you made based on the discussions?
+
+We will first focus on the system to suspend the modules with. This is what we will do next Monday. Next to that, we will start looking at components we need to order online. We also will talk to other groups next Monday to see wether our plans are ok with what theirs do require.
+
 + Any additional comments...
+
+ALL HAIL THE BOX
