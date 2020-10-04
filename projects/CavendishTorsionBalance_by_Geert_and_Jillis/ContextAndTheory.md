@@ -8,13 +8,16 @@ Current determinations of the gravitational constant use a similar technique, wh
 
 # Setup 
 <img src="./Images/schematicTorsionBalance.png"  width="750">  
-  
+    
+*Schematic drawing of the setup of the experiment*
+
 The setup of the experiment includes a barbell-like balance (grey and blue) suspended on a (tiny) string (black).
 At the ends of the barbell two small masses are afixed, and near them 2 very big masses influence the torsion balance
  due to the gravitational force (light green).
 The angle of the gravitational force with the barbell is given as $`\alpha`$ (blue-ish green),
  as this influences the torque the torsion balance experiences.
-The balance moves out of equilibrium by some angle $`\phi`$ (dark green), which is registered by a laser-mirror-detector setup.
+The balance moves out of equilibrium (partially transparent barbell) by some angle $`\phi`$ (dark green),
+ which is registered by a laser-mirror-detector setup.
 A laser (brown) shines onte a small mirror positioned in the the middle of the barbell (light blue),
  such that the laserlight (red) is reflected to a light detector (purple) with the same angle as the balance makes with the equilibrium position.
 From the position of the light spot on the detector this angle can be calculated.
