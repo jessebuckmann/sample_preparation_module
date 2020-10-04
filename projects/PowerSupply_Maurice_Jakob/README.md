@@ -1,3 +1,9 @@
+# List of files you may be looking for (if not, ignore this section)
+- [Report context and theory](./documentation/report_context_theory.md)
+- [Project goals](./documentation/project_foals.md)
+- [Personal goals Maurice](./documentation/Personal_Goals_Maurice.md)
+- [Personal goals Jakob](./documentation/personal_goals_jakob.md)
+
 # Power supply for Experiment box
 
 In this subproject considerations and the design of a power supply that suffices for the needs required are made.
