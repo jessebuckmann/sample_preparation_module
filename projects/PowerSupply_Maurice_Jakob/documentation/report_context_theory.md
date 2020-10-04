@@ -57,3 +57,4 @@ However, an inverter that makes AC current out of DC input cannot connect to a p
 ### Possible sources of noise
 
 Not a source of noise but a nuisance is the weather dependent power supply of the solar panel
+Other things: inverter uses standby power, the voltage measurement for the load switch is kind of inaccurate because of use of voltage divider (true?)
