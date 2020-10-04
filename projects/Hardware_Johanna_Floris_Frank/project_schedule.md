@@ -48,7 +48,10 @@ ________________________________________________________________________________
 
 *Monday*
 
+- Meet at 10:00 to combine the **reports**
 - **Submit the Issues**
+- Set the week schedule 
+- Work on Arduino project/test the new code
 
 *Thursday*
 - (...)
