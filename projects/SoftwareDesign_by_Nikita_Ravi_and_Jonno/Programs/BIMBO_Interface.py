@@ -33,7 +33,7 @@ class TabWidget(QDialog):
         self.width = 1050
         self.height = 600
         self.setWindowTitle(self.title)
-        self.setWindowIcon(QIcon('BIMBOLogov1.png'))
+        self.setWindowIcon(QIcon('BIMBOLogov2Favicon.png'))
         self.setWindowFlag(Qt.WindowMinimizeButtonHint, True)
         self.setWindowFlag(Qt.WindowMaximizeButtonHint, True)
         self.setGeometry(self.left, self.top, self.width, self.height)
@@ -42,7 +42,7 @@ class TabWidget(QDialog):
 
         #adding image to background
         self.background = QLabel(self)
-        pixmap = QPixmap('BIMBOLogov2.png')
+        pixmap = QPixmap('BIMBOLogov2Start.png')
         self.background.setScaledContents(True)
         self.background.setPixmap(pixmap)
 
