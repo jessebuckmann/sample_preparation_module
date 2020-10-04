@@ -7,7 +7,8 @@ Therefore we try to **collect** many informations about *your expectations* for 
 With **your contributions** this file will result as usefull **overview of the grand Project** for all groups, but it first of all aims to facilitate the start for the software group.
 
 After collecting all the information it is our turn to get some **physical work** done. 
-We will wire all parts together and perform some **initial tests** of the data transfer and bandwidth, before you can run your experiments.
+We will try to **connect the several Arduinos**, used for your measurements, to one or two master pieces. That way we can (hopefully) provide the software group with all data from the enviromental and experimental measurements in one or two data streams. We will also help the software group to test their interfaces and progress with some dummy experiments, before you finished your sensors and experimental setups. 
+We will (not necessarily) wire all parts together and perform some more **initial tests** of the data transfer and bandwidth, before you can run your experiments.
 
 Let's get this started :fire: !
 
