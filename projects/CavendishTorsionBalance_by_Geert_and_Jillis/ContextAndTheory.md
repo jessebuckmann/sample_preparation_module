@@ -10,6 +10,7 @@ Current determinations of the gravitational constant use a similar technique, wh
 The torsion balance experiences two torques when it is in equilibrium at an angle $`\phi_0`$,
 compared to the equilibrium position without the massive balls nearby.
 One is based on the gravitational force ($`\tau_g =F_g L \sin\alpha`$), the other is based on the torsion in the wire  ($`\tau_t = -D \phi`$).
+Thus the equilibrium position is found as $`\phi_0 = -\frac{F_g L \sin\alpha}{D}`$
 However, the balance does not start out in equilibrium and thus will oscilate around $`\phi_0`$.
 The rotational equivalent of Newton's second law yields 
 ```math
