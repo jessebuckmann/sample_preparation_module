@@ -2,8 +2,6 @@
 
 ### Goal of the project
 
-*what we try to accomplish, this leads to the chosen project outline*
-
 The goal of the power supply project is to construct a circuit that supplies stable power to all electronic devices (loads) of the science station in an off-grid fashion.
 For that we chose power generation by solar panels, which makes us independet of wall outlets.
 As the power coming from the panels is dependent on lighting, we need to interconnect a power storage that can supply stable power when charged up.
@@ -44,8 +42,6 @@ Below, A schemetic can be found of the setup.
 
 ### Important considerations
 
-*all the stuff about conversion and all the connections*
-
 The lead battery has to be charged with a voltage close to its nominal voltage of 12V. 
 Also it is sensitive to overcharging or deep discharge. 
 This is taken care of by the charge controller, which also internally downconverts the input voltage from the solar panel.
@@ -60,4 +56,4 @@ However, an inverter that makes AC current out of DC input cannot connect to a p
 
 ### Possible sources of noise
 
-*which parts are sensitive to noise, which parts produce noise (noise = e.g. voltage fluctuations)*
+Not a source of noise but a nuisance is the weather dependent power supply of the solar panel
