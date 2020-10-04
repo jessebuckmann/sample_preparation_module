@@ -32,6 +32,8 @@ A lead-acid battery is also used in cars and we used a tool for cars that can co
 To communicate with the rest of the science station, a connection with an arduino can be made.
 This monitors the capacitance of the batteries and can shut down the experiment when the batteries are running out of power.
 A load switch can disconnect the load, to avoid deep-discharging the batteries.
+In our case, both the Charge Controller and the powerbank have internal load-switches that take care of this already.
+However, additional protection and control can be obtained by adding these.
 
 Below, A schemetic can be found of the setup.
 
