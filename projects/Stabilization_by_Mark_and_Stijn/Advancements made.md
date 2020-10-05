@@ -12,6 +12,6 @@ We connected our Arduino Due to our accelerometer. However, we weren't able to g
 
 We were however able to gain the measurements from the inner box (thus the minimal space needed for the Cavendish-Experiment). Hopefully tomorrow, we'll be able to gain the measurements from the outer box, so that we can calculate how much space we have for our spring-system.
 
-InnerBox - Width: 30, Length: 50, Hight: 35 /// OuterBox - Width: , Length: , Hight: 
+InnerBox - Width: 30, Length: 50, Hight: 35
 
 **22-9:**
