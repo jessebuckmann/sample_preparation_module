@@ -50,8 +50,9 @@ class TabWidget(QDialog):
         startbutton = QPushButton('Let\'s Go!', self)
         startbutton.resize(100, 32)
         startbutton.move(-50, -50)
-        startbutton.clicked.connect(self.StartProgram)
         startbutton.clicked.connect(self.bgHide)
+        startbutton.clicked.connect(self.StartProgram)
+
 
     def bgHide(self):
         self.background.hide()
@@ -67,6 +68,7 @@ class TabWidget(QDialog):
         opr.load_config()
 
         tabwidget.addTab(ArduinoWidget.TempSensor(), 'Temperature')
+        tabwidget.addTab(ArduinoWidget.PresSensor(), 'Pressure')
         tabwidget.addTab(AD2Sensor.Sensor1(opr), 'Analog Discovery 2')
 
         vbox = QVBoxLayout()
