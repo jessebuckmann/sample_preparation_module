@@ -4,7 +4,7 @@ This is done by connecting the Arduino devices these experiment and sensor group
 Another advantage is the possibility of easily connecting more slave devices if more experiment modules or sensor are to be added to the measurement box.
 
 With this master Arduino, a uniform data transfer protocol may be implemented. We have opted for the I^2C protocol, which has several advantages over other serial protocols, including it requiring two connection wires (instead of four for e.g. SPI) and thus allowing more and more flexible connection of multiple slave devices.
-Another advantage would be the easy with which it is implemented using pre-existing Arduino libraries such as the Wire library, especially considering the limited time available.
+Another advantage would be the ease with which it is implemented using pre-existing Arduino libraries such as the Wire library, especially considering the limited time available.
 Finally, I^2C has the advantage of providing ACK/NACK (acknowledgment/ Not-acknowledgement) features that provide help in error handling.
 Disadvantages such as relatively low data transfer speed (compared to SPI) and noise susceptibility (high compared to SSD, low compared to SPI) are supposed to be less of an issue.
 
