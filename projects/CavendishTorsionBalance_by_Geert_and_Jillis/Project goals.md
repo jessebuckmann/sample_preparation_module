@@ -20,7 +20,9 @@ PROJECT MEMBERS: Geert Schulpen, Jillis Schokking
 *Find a way to automate the experiment*
 
 ## Mid-course review of goals (fill this mid-course)
-*Note your progress and re-adjust your goals such that you can deliver at the end*
+It might not be possible to carry out the experiment in the box due to the limitations of the vibration control team.  
+The setup is modified to fit in the box.  
+The automation of the experiment still has to take place, but we are confident this is going to work
 
 
 ## Final review of goals (fill at the end of the course)
