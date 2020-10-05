@@ -12,6 +12,15 @@ We connected our Arduino Due to our accelerometer. However, we weren't able to g
 
 We were however able to gain the measurements from the inner box (thus the minimal space needed for the Cavendish-Experiment). Hopefully tomorrow, we'll be able to gain the measurements from the outer box, so that we can calculate how much space we have for our spring-system.
 
+Later this day, we gained the minimal dimensions needed in order to fit the experiments.
 InnerBox - Width: 30, Length: 50, Hight: 35
 
 **22-9:**
+Mark did the Yaw, Pitch and Role measurements, in order to see if this part of the accelerometer was a viable option to measure the level of the final setup. Though the accelerometer produces decent values, we can't use this part of the accelerometer to calculate the level, because it calculates it's Yaw, Pitch and Role from the g's (gravitional vectors in x, y and z direction) and thus resets every time you start up a new measurement. This would mean that, in order to use the Yaw, Pitch and Role for the leveling system, we would need to always keep the accelerometer on and measuring, which isn't a viable option (since this would mean that our box would always have to give electricity to this part of our system).
+
+**28-9:**
+We did 
+
+
+
+
