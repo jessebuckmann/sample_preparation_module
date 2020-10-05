@@ -11,24 +11,28 @@
 - Order materials.
 - Make project sketch.
 - Start report on context and theory.
-
+- *Made celebration art-piece*
 
 
 ## Week 40
 - Build project.
-- Do some measurements in module.
-- Finish project.
+- ~~Do some measurements in module.~~
+- ~~Finish project.~~
 - Update project goals.
 - Make celebration art-piece.
 - Finish report on context and theory.
-
+- *Came up with a demonstration.*
+- *File with work done each day has been made.*
+- *Cost break-down has been made.*
+- *Extra images added for the building process.* 
 
 
 ## Week 41
 - Write instructions on how to use the box.
 - Finalise and proofread all the files in the project folder.
 - Share the files with the group.
-- 
+- *Finish Project.*
+- *Do measurements in module.*
 
 
 
