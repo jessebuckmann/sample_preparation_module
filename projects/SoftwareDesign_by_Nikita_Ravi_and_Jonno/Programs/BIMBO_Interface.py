@@ -1,4 +1,4 @@
-import sys, AD2Sensor, Overview
+import sys, AD2Sensor, Overview, ArduinoWidget
 from PyQt5 import QtGui
 from PyQt5.QtCore import pyqtSlot
 import pyqtgraph as pg   # used for additional plotting features
@@ -61,11 +61,13 @@ class TabWidget(QDialog):
         tabwidget = QTabWidget()
         tabwidget.addTab(Overview.Overview(), 'Overview')
 
+
         instrument = DfwController()
         opr = Operator(instrument)
         opr.load_config()
 
-        tabwidget.addTab(AD2Sensor.Sensor1(opr), 'Sensor 1')
+        tabwidget.addTab(ArduinoWidget.TempSensor(), 'Temperature')
+        tabwidget.addTab(AD2Sensor.Sensor1(opr), 'Analog Discovery 2')
 
         vbox = QVBoxLayout()
         vbox.addWidget(tabwidget)
@@ -93,6 +95,8 @@ class TabWidget(QDialog):
         centerPoint = QDesktopWidget().availableGeometry().center()
         qtRectangle.moveCenter(centerPoint)
         self.move(qtRectangle.topLeft())
+
+
 
 
 app = QApplication(sys.argv)
