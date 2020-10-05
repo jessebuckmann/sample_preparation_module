@@ -17,8 +17,8 @@ class TempSensor(QWidget):
         super().__init__(parent)
         layout = QtGui.QVBoxLayout()
         self.setLayout(layout)
-        graphWidget = pg.PlotWidget(name='Plot1')  ## giving the plots names allows us to link their axes together
-        layout.addWidget(graphWidget)
+        tempWidget = pg.PlotWidget(name='Plot1')  ## giving the plots names allows us to link their axes together
+        layout.addWidget(tempWidget)
 
         arduinoString = arduinoData.readline()  # read the line of text from the serial port
         dataArray = arduinoString.split(b',')  # Split it into an array called dataArray
@@ -27,16 +27,16 @@ class TempSensor(QWidget):
         tempC.append(temp)  # Build our tempF array by appending temp readings
         pressure.append(P)  # Building our pressure array by appending P readings
 
-        styles = {'color': 'r', 'font-size': '20px'}
-        graphWidget.setLabel('left', 'Temperature (°C)', **styles)
-        graphWidget.setLabel('bottom', 'Time (s)', **styles)
+        styles = {'color': 'w', 'font-size': '20px'}
+        tempWidget.setLabel('left', 'Temperature (°C)', **styles)
+        tempWidget.setLabel('bottom', 'Time (s)', **styles)
 
         self.x = list(range(100))  # 100 time points
         self.y = [0] * 100  # 100 data points
 
 
         pen = pg.mkPen(color=(255, 0, 0))
-        self.data_line = graphWidget.plot(self.x, self.y, pen=pen)
+        self.data_line = tempWidget.plot(self.x, self.y, pen=pen)
 
         self.timer = QtCore.QTimer()
         self.timer.setInterval(50)
@@ -64,8 +64,8 @@ class PresSensor(QWidget):
         super().__init__(parent)
         layout = QtGui.QVBoxLayout()
         self.setLayout(layout)
-        graphWidget = pg.PlotWidget(name='Plot1')  ## giving the plots names allows us to link their axes together
-        layout.addWidget(graphWidget)
+        presWidget = pg.PlotWidget(name='Plot1')  ## giving the plots names allows us to link their axes together
+        layout.addWidget(presWidget)
 
         arduinoString = arduinoData.readline()  # read the line of text from the serial port
         dataArray = arduinoString.split(b',')  # Split it into an array called dataArray
@@ -74,16 +74,16 @@ class PresSensor(QWidget):
         tempC.append(temp)  # Build our tempF array by appending temp readings
         pressure.append(P)  # Building our pressure array by appending P readings
 
-        styles = {'color': 'r', 'font-size': '20px'}
-        graphWidget.setLabel('left', 'Temperature (°C)', **styles)
-        graphWidget.setLabel('bottom', 'Time (s)', **styles)
+        styles = {'color': 'w', 'font-size': '20px'}
+        presWidget.setLabel('left', 'Temperature (°C)', **styles)
+        presWidget.setLabel('bottom', 'Time (s)', **styles)
 
         self.x = list(range(100))  # 100 time points
         self.y = [0] * 100  # 100 data points
 
 
         pen = pg.mkPen(color=(255, 0, 0))
-        self.data_line = graphWidget.plot(self.x, self.y, pen=pen)
+        self.data_line = presWidget.plot(self.x, self.y, pen=pen)
 
         self.timer = QtCore.QTimer()
         self.timer.setInterval(50)
