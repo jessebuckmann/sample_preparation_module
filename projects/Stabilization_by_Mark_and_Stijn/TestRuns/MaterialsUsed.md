@@ -11,3 +11,4 @@ General connector cables
 - Oscilloscope with FFT functionality 
 - Function generator with build in amplifier ([Find here](http://www.djb.co.uk/ppe_function_generator.html))
 - Bass shaker ([Find here](http://www.powerstar-tech.com/50-watts-bass-shaker-p21.html))
+- Machinist putty
