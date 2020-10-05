@@ -222,7 +222,7 @@ Make a plan, together with your mentor, for fixing the glitches in the measureme
 
 ### In this week lectures 
 + we will learn hear about the role photovoltaics in the energy transition from **Wilfried van Sark** (Thursday 9:30). 
-    - [lecture slides]()
+    - [lecture slides](./Lectures/Slides/EDSolar-VanSark.pdf)
 
 ### Cohort meeting
 
@@ -254,7 +254,7 @@ Before the start of this Monday's meeting, you have to met your deadlines up to 
 + Explain your project to another group.
 
 #### After the cohort meeting:
-+ Prepare a detailed set of instructions so that another team can perform your experiment and get results **without your help**. Use the [reproducibility feedback](./Coordination/_Templates/reproducibility_review) as a guide.
++ Prepare a detailed set of instructions so that another team can perform your experiment and get results **without your help**. Use the [reproducibility feedback](./Coordination/_Templates/peer_evaluation.md) as a guide.
 
 ---
 
