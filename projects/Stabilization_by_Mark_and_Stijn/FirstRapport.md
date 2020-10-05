@@ -14,6 +14,8 @@ In our second experiment, we wanted to see if we would actually be able to see v
 
 <img src = "TestRuns/AccelerationTest/RawSignals/AmplitudeFoam.jpeg" width="400" height= "400" >
 
-In the "[RawSignals](https://git.science.uu.nl/s.helsloot/experiment-design-2020/-/tree/master/projects/Stabilization_by_Mark_and_Stijn/TestRuns/AccelerationTest/RawSignals)"
+In the "[RawSignals](https://git.science.uu.nl/s.helsloot/experiment-design-2020/-/tree/master/projects/Stabilization_by_Mark_and_Stijn/TestRuns/AccelerationTest/RawSignals)"-folder, you can find all the other systems that we tried. However, in order to correctly look at whether or not the systems are able to filter out certain frequenties, we need to make a bode-plot for each system. Most new-oscillators are able to do this, but ours wasn't able to, so we did it by hand (because of this, we of course didn't get the most accurate depiction, also due to the time each measurement took).
+
+<img src = "TestRuns/AccelerationTest/AccelerationTestWithErrorBars.jpeg" width="400" height= "400" >
 
 In conclusion it can be said that the goal of the project was a bit too ambitious. The level of the platform can measured with an accelerometer but to properly calibrate this sensor a more accurate setup than used is needed. It was determined that in the least accurate case, the angle can be measured with an uncertainty of 1.3 degrees. However this is most likely an overstatement which has to be narrowed down in future research. When looking at the accelerometer measurements with respect to the vibrations, it can be concluded that making an accurate measurement surrounding the vibrations present in a system is fairly difficult. However when looking into the data, it can be advised to use a setup with simple springs to isolate vibrations. Other dampers might prove effective in decreasing the transfer function even further, but these setups will become more complex rapidly.
