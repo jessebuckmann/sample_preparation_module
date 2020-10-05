@@ -24,6 +24,18 @@ PROJECT MEMBERS: Mikita, Jonna, Ravi
 
 ## Mid-course review of goals (fill this mid-course)
 
+* We want to make an intuitive program that can be used by people without any experience
+* We want to be able to visualise data in said program
+* We want to be able to adjust sensors in said program if needed
+
+
+Subgoals
+
+* Create an arduino controller
+* Adjust the AD2 controller (save files into text, voltage vs time)
+* Make the general interface with tabs
+* Make an artificial data stream to test the model and interface (CHECK!)
+
 
 
 ## Final review of goals (fill at the end of the course)
