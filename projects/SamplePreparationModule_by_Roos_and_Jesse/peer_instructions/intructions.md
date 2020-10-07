@@ -10,7 +10,11 @@ For repeating the chemical resistance test you should contact Jesper Moes (j.r.m
 
 ### Aqua Regia
 
-Aqua regia (King's Water) is an acid which is famous for being able to nobel metals such as gold and platinum hence the regia in the name. It consists of a 3:1 molar ratio of hydrochloric: nitric acid and is yellow of color. You should ask one of the people that work in the lab to make it for you. We asked Naud van Bunningen (a.j.vanbunningen@uu.nl) to help us prepare it.
+Aqua Regia (King's Water) is an acid which is famous for being able to nobel metals such as gold and platinum hence the regia in the name. It consists of a 3:1 molar ratio of hydrochloric: nitric acid and is yellow of color. You should ask one of the people that work in the lab to make it for you. We asked Naud van Bunningen (a.j.vanbunningen@uu.nl) to help us prepare it.
 
 
 ### Finn Pipet
+
+In this section we will give a small instruction on how to use a Finn pipet. There are different modules of Finn pipets that enable you to pipet different quantities of liquids. The pipet that you will need to use can pipet a volume of 1-5ml. The quantity can be changed by turning the knob at the end. For some pipets you need to pull this back before you are able to turn it. Add a plastic tip to the pipet when you want to start pipetting. When you push the knob you will encounter two 'stops', try it a couple times to see if you feel it. When you want to suck up liquid you push until you reach the first stop. During the entire pipetting process you should keep your pipet vertical. Now place your pipet point in the liquid and slowly release the knob to suck up the liquid. To squirt out the liquid again push until the second stop while keeping the pipet point against your glass at an angle of around 45°. When pipetting a volume for the first time, follow this procedure in the beaker containing the liquid you wish to pipet, before you add it to another beaker. This is because there is always some residual liquid in the pipet tip after pipeting. This also means that you have to keep your pipet tip pointing downwards. Work up in increasing volumes, to keep the pipetting as accurately as possible. When you are done pipetting a specific substance you can dispose the tip by pressing the ejector button next to the knob. 
+
+If you think this explanation too complicated and would rather see an [instructional video](https://www.youtube.com/watch?v=QGX490kuKjg) feel free to watch it. This might also help with the visual representation of the process
