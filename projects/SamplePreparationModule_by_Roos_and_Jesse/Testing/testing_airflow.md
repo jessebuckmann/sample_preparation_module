@@ -28,3 +28,5 @@ Because of the fluctuations, an error of +- 0.1 should be taken into account for
 
 Based on these results there is no airflow through the sides of the box.
 However, because of the large error of the anemometer and for extra safety we decided to tape the sides of the box with ductape anyway.
+
+According to [this](https://www.nationallaboratorysales.com/blog/what-is-the-importance-of-fume-hood-face-velocity/) website, the face velocity of a fume hood should be between 0.3 m/s and 0.5 m/s. The face velocity is the airvelocity going through the opening of the fumehood while it is fully opened. This corresponds to the measurement with the front of the sash fully opened, which was 0.20 m/s. This means that our fan is actually a little weak according to fume hood regulations. However, experiments that actually require this face velocity in order to be safe should be performed in an actual certified fume hood. For the purpose of preparing samples that are kept in usual solvents, a face velocity of 0.20 m/s is safe enough. 
