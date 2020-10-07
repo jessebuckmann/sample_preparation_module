@@ -10,6 +10,17 @@ It is a quite delicate piece of equipment, mainly due to the wire on which the b
 This wire is necessarily thin and thus fragile, as a thick wire would have a too high torsion constant and thus move too little to measure effectively.   
 The torsion balance consists of a baseplate, a turningtable with holders for the big balls, and the torsion balance-barbell setup.
 
+### measurements
+| part | measure |
+| ------ | ------ |
+| small balls | 6.33 g and 6.29 g |
+| big balls | 1214.0 g and 1214.8 g |
+| full barbell (including mirror, balls, rod, connector to wire, ...) | 31.7 g |
+| barbell length | 12 cm? |
+| diameter big balls | 5.09 cm |
+| Thickness box | 3.75 cm |
+| distance box - dectector | 17.2 cm |
+
 ## Control mechanism
 The setup is controlled by a continuous servo attached to an Arduino Due.
 The Arduino needs an external power source, as the servo needs a higher voltage than the USB can provide.
