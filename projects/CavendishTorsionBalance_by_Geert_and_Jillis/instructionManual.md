@@ -22,9 +22,15 @@ On the Arduino a program can be run to control the position of the turningtable 
 The detection suite comprises a laser, a lightposition detector, a modulator and amplifier and the Digilent Analog Discovery 2. 
 The laser and detector are connected to the modulator to isolate the signal from other light effects which might be picked up by the detector. 
 The outputs of the modulator are connected to the oscilloscope channels on the Digilent Analog Discovery 2.
-To read out the signal of the oscilloscope it is necessary to download either the [Waveforms package from Digilent](https://store.digilentinc.com/waveforms-download-only/) or the package that is being written by the Software group.
+To read out the signal of the oscilloscope it is necessary to download either the [Waveforms package from Digilent](https://store.digilentinc.com/waveforms-download-only/) or the package that is being written by the [Software group](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno).
 
 
 
 <img src="./Images/schematicMeasurer.png"  width="750"> 
+
+
+# Method
+To find a value for G it is needed to measure 2 values of $`\phi_0`$,
+ one where the balls are both clockwise close to the balance and one where the balls are counterclockwise close to the balance.
+From the difference in these equilibrium positions the torque of the gravitational force can be inferred.
 
