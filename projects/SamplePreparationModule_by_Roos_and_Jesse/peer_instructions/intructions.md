@@ -8,3 +8,9 @@ You can find the description of the testing in [this](https://git.science.uu.nl/
 For borrowing the anemometers you should contact Pascal Koopman (p.koopman@uu.nl).
 For repeating the chemical resistance test you should contact Jesper Moes (j.r.moes@uu.nl) from CMI, or reach out to someone else with access to the lab. Feel free to also do additional tests. These were the chemicals we had readily available and we thought would be nice to test since they are the typical solvents that are used along with some common acids. 
 
+### Aqua Regia
+
+Aqua regia (King's Water) is an acid which is famous for being able to nobel metals such as gold and platinum hence the regia in the name. It consists of a 3:1 molar ratio of hydrochloric: nitric acid and is yellow of color. You should ask one of the people that work in the lab to make it for you. We asked Naud van Bunningen (a.j.vanbunningen@uu.nl) to help us prepare it.
+
+
+### Finn Pipet
