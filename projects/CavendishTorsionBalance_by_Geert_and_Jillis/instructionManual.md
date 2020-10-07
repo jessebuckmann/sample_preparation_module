@@ -13,6 +13,7 @@ The torsion balance consists of a baseplate, a turningtable with holders for the
 ## Control mechanism
 The setup is controlled by a continuous servo attached to an Arduino Due.
 The Arduino needs an external power source, as the servo needs a higher voltage than the USB can provide.
+It is necessary to first connect the power source and only then connect the USB for the Arduino to use the correct power supply.
 On the Arduino a program can be run to control the position of the turningtable with the big masses. 
 
 <img src="./Images/schematicController.png"  width="750"> 
