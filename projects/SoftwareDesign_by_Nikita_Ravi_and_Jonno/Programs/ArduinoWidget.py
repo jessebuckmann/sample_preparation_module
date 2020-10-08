@@ -2,16 +2,11 @@ from PyQt5 import QtGui
 import pyqtgraph as pg  # used for additional plotting features
 from PyQt5.QtWidgets import *
 from PyQt5 import QtWidgets, QtCore
-from pyqtgraph import PlotWidget, plot
-import sys  # We need sys so that we can pass argv to QApplication
-import os
-from random import randint
 import serial  # import Serial Library
-import numpy  # Import numpy
 
 tempC = [0]
 pressure = [0]
-arduinoData = serial.Serial('COM5', 9600)  # Creating our serial object named arduinoData
+arduinoData = serial.Serial('COM5', 9600)  # Change the COMX here to the one your device uses to communicate
 
 
 class TempSensor(QWidget):
