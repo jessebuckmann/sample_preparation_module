@@ -7,6 +7,6 @@
 |paint| free (used leftover) |
 |rail| 3.29 |
 |slat| 4.59 |
-|ductape| |
-|retractable pipe||
-|pvc pipe||
+|ductape|  |
+|retractable pipe|  |
+|pvc pipe|  |

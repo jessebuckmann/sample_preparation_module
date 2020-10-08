@@ -1,6 +1,6 @@
 ### Testing airflow
 We tested the airflow of the box by using an anemometer.
-Pascal provided us with 3 kinds of anemometers, one from [travel&co](https://git.science.uu.nl/j.i.buckmann/experiment-design-2020/-/blob/master/projects/SamplePreparationModule_by_Roos_and_Jesse/Photos/Travel_co_anemometer.jpeg), one from [testo](https://git.science.uu.nl/j.i.buckmann/experiment-design-2020/-/blob/master/projects/SamplePreparationModule_by_Roos_and_Jesse/Photos/testo_anemometer.jpeg) and a [kaindl windmaster 2](https://git.science.uu.nl/j.i.buckmann/experiment-design-2020/-/blob/master/projects/SamplePreparationModule_by_Roos_and_Jesse/Photos/kaindl_anemometer.jpeg). 
+Pascal provided us with 3 kinds of anemometers, one from [travel&co](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SamplePreparationModule_by_Roos_and_Jesse/Photos/Travel_co_anemometer.jpeg), one from [testo](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SamplePreparationModule_by_Roos_and_Jesse/Photos/testo_anemometer.jpeg) and a [kaindl windmaster 2](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SamplePreparationModule_by_Roos_and_Jesse/Photos/kaindl_anemometer.jpeg). 
 The testo anemometer was the most accurate one and was therefore used for most of the measurements.
 In the table underneath you can find the values for the windspeed we measured.
 When the anemometer was in place, we waited a bit until the value for the windspeed stabalized a bit. 
