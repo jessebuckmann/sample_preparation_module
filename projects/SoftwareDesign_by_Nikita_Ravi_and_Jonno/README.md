@@ -14,7 +14,7 @@ Our plans are to write one simple rule-them-all program, which consists of diffe
 
 The files in this directory contain most of the information about what the software team is doing. To start, you can check the [Programs](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs) folder which contains all the code we wrote so far.
 
-[Installation guide](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Installation%20guide.md) contains all necessary instructions how to install everything and the [README](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs/README.md) in the Programs folder gets you up and running. 
+[Installation guide](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Installation_guide.md) contains all necessary instructions how to install everything and the [README](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs/README.md) in the Programs folder gets you up and running. 
 
 The files in the main directory will be updated as we progress in our work and the important messages will be listed [in updates](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/UPDATES.md).
 
@@ -22,7 +22,7 @@ The [program specifications](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Pr
 
 If people working on other parts of the project want to see what do we need from them, it is written in the [Canvas file:resources required section](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Canvas.md#resources-required) as well as the other problems we want to tackle. Also in the Programs forder there is a [CONTRIBUTING](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs/CONTRIBUTING.md) file on how to contribute.
 
-Btw, if someone is interested what exactly we are doing and what our plans are, [Project goals](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/"Project&#32goals.md") file is your first place to go.
+Btw, if someone is interested what exactly we are doing and what our plans are, [Project goals](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/"Project_goals.md") file is your first place to go.
 
 #### How to report issues/bugs/compliments/complaints
 
