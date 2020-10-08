@@ -1,6 +1,6 @@
 *Utrecht Experiment Design 2020*
 
-# Weekly mentor meeting 24/9/2020
+# Weekly mentor meeting 1/10/2020
 
 ### POP
 
