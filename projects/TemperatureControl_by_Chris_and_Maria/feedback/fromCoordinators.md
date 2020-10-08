@@ -13,3 +13,7 @@ Team Maria, Chris
 + create a demonstration system and show application of your system in that 
 + be deliberate in setting the conditions for the other parts of the grand project when necessary
 + try to communicate using the common tools like teams and gitlab
+
+### on Readme (timestamp: 7/10/2020 ~18h)
+☆☆☆☆☆
+I wish there was one. it is a bit dark here despite knowing there is quite some work done!
