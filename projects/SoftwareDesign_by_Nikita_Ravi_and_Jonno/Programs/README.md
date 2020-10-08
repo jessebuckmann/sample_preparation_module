@@ -1,0 +1,1 @@
+In this folder the will be the code and python files and images used for our project.
