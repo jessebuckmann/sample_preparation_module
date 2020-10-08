@@ -18,7 +18,7 @@ The files in this directory contain most of the information about what the softw
 
 The files in the main directory will be updated as we progress in our work and the important messages will be listed [in updates](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/UPDATES.md).
 
-The [program specifications](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/ProgramSpecifications.md) file is the table of components of our program with detailed requirements for each of them. If you want to see more functionality of any component, contact us. [test](/.Canvas.md)
+The [program specifications](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/ProgramSpecifications.md) file is the table of components of our program with detailed requirements for each of them. If you want to see more functionality of any component, contact us. [test](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Canvas.md)
 
 If people working on other parts of the project want to see what do we need from them, it is written in the [Canvas file:resources required section](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Canvas.md#resources-required) as well as the other problems we want to tackle. Also in the Programs forder there is a [CONTRIBUTING](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs/Contributing.md) file on how to contribute.
 
