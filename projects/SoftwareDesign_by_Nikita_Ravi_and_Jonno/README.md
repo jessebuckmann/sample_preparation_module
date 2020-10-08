@@ -14,11 +14,9 @@ Our plans are to write one simple rule-them-all program, which consists of diffe
 
 The files in this directory contain most of the information about what the software team is doing. To start, you can check the [Programs](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs) folder which contains all the code we wrote so far.
 
-[Installation guide](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Installation%20guide.md) contains all necessary instructions how to install everything and get it running. Also may be somewhere will appear a "How to contribute" file.
+[Installation guide](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Installation%20guide.md) contains all necessary instructions how to install everything and the [README](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs/README.md) in the Programs folder gets you up and running. Also in the Programs forder the is a [Contributing](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs/Contributing.md) file on how to contribute.
 
-The files in that directory will be updated as we progress in our work and the important messages will be listed [in updates](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/UPDATES.md).
-
-Our current [planning and subgoals](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Planning%20and%20subgoals.md) describes(for now not really) our short-time tasks and plans for week.
+The files in the main directory will be updated as we progress in our work and the important messages will be listed [in updates](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/UPDATES.md).
 
 The [program specifications](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/ProgramSpecifications.md) file is the table of components of our program with detailed requirements for each of them. If you want to see more functionality of any component, contact us. 
 
