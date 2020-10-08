@@ -2,7 +2,7 @@
 *An example title would be: Bug, program does not start*
 
 ## **What would you like to report?**
-* Tell us here what the issue was. For example bug/compliment/complaint/advice/etc... *
+*Tell us here what the issue was. For example bug/compliment/complaint/advice/etc...*
 
 
 ## **What was the exact issue?**
