@@ -26,6 +26,8 @@ Btw, if someone is interested what exactly we are doing and what our plans are, 
 
 #### How to report issues/bugs/compliments/complaints
 
+In order to be able to track all of your feedback, we would like you to open a new issue stating what you would like to share with us. We want to keep everything clear and concise so please adhere to the format given [here](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Issue_template.md). Just copy and paste this when opening a new issue and fill in the details. To make sure it get to us, please assign your issue to Nikita, Ravi or Jonno. 
+
 #### How to reach us:
 
 - ~~MS-Teams is a nobrainer~~ Preferred mode of communication: (direct) messaging on [MS-Teams](https://teams.microsoft.com/l/channel/19%3a17671f7d35194c9aa6a368c449fd96fe%40thread.tacv2/grand%2520project?groupId=b36d7aae-63c5-44c9-a860-073e4ffd37ae&tenantId=d72758a0-a446-4e0f-a0aa-4bf95a4a10e7). If urgent, WhatsApp is the way.
@@ -34,4 +36,6 @@ Btw, if someone is interested what exactly we are doing and what our plans are, 
 
 #### Suggestions are very welcome!
 
-Please communicate all your suggestions to one of the members of a team and do not make changes to this document without prior consultation.
+Please communicate all your suggestions to one of the members of the team. Do not hesitate to tell us if the READMEs or the installation guide were unclear (using the issue template ofcourse)! 
+
+Please do not make changes to this document without prior consultation.
