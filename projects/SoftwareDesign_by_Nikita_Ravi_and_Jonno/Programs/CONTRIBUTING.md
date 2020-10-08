@@ -1,5 +1,6 @@
 Dear Contributor, we appreciate you showing your willingness to contribute! If you want to report a bug or suggest a change please adhere to the steps in this [README](https://git.science.uu.nl/r.deberg/experiment-design-2020/-/tree/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno#how-to-report-issuesbugscomplimentscomplaints)
 
+##Adding your own tab!
 The easiest way to contribute is by adding new tabs with programs to the BIMBO_Interface.
 The way to this is creating a QDialog. Just make a new python file and start with the following class:
 
@@ -53,4 +54,9 @@ class YourWidget(QWidget):
 ```
 Use you creativity to make amazing buttons that can change the world! Good luck with contributing to the project.
 
-If you feel really experienced and up to a challenge, you can try to implement the overview tab. The idea of this tab is that is shows you the current values of all measured quantities, such that you can take a quick look and see how your experiment is going.
+
+##Implementing new features
+If you feel really experienced and up to a challenge, you can try to implement one of the usefull planned features. See the list below!
+
+1. **An Overview tab**
+The idea of this tab is that is shows you the current values of all measured quantities, such that you can take a quick look and see how your experiment is going.
