@@ -14,4 +14,13 @@ Note that the percentages here are based on the concentration that is available 
 Prepare the samples by using a Finn pipet. For instructions on how to use a Finn pipet click [here](https://git.science.uu.nl/j.i.buckmann/experiment-design-2020/-/blob/master/projects/SamplePreparationModule_by_Roos_and_Jesse/peer_instructions/intructions.md) Keep in mind to always add the acid to the water and before dropping it onto the wood stir it with a pasteur pipet (simpler version of a Finn pipet). Take a clean pasteur pipet after each time you dripped some acid onto the wood to avoid messing up your concentrations.
 Also leave these samples on the wood for approximately 5 minutes and the remove them with an pasteur pipet.
 
-Finally [aqua regia](https://git.science.uu.nl/j.i.buckmann/experiment-design-2020/-/blob/master/projects/SamplePreparationModule_by_Roos_and_Jesse/peer_instructions/intructions.md) has been prepared and dropped onto the wood. This has only been done for the 100 % concentration, since it contains both nitric and hydrochloric acid.
+Finally [aqua regia](https://git.science.uu.nl/j.i.buckmann/experiment-design-2020/-/blob/master/projects/SamplePreparationModule_by_Roos_and_Jesse/peer_instructions/intructions.md) has been prepared and dropped onto the wood. This has only been done for the 100 % concentration, since it contains both Nitric and Hydrochloric acid.
+
+### Conclusion
+#### Visual
+When looking at the wood after 24 hours we can only see damage where 100 % Nitric acid and Aqua Regia have been. These were also already visible after having the acid on the coating for 24 hours. In the [picture](https://git.science.uu.nl/j.i.buckmann/experiment-design-2020/-/blob/master/projects/SamplePreparationModule_by_Roos_and_Jesse/Photos/results_acid_test.jpg) the damage is also visible.
+
+#### Feel test
+None of the Hydrochloric acid concentrations had any effect on the coating. For the Nitric acid only the 100 % feels slightly different. It feels a bit smoother. Ethanol didn't have an effect on the coating, nor did toluene. For acetone it is hard to say, the wood feels slightly smoother here, which may be the result of the test, but it may also just be a smoother area. 
+The region where Aqua Regia has been also feels smoother.
+Most importantly though is that while the coating is slightly smoother or has a different colour none of the acids or solvents actually destroyed the wood. Maybe spilling a lot of acid is not a good idea, especially on the long term, but you don't have to worry about the workspace being unusable after have spilled something several times.
