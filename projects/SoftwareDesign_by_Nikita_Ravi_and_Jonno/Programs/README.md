@@ -1,6 +1,6 @@
 Hi honorable User!
 
-There are three options to use the program.
+There are four options to use the program.
 1. Measure using a real Arduino and Analog Discovery 2
 2. Measure using a real Arduino and a simulated Analog Discovery 2
 3. Only use a real Analog Discovery 2
