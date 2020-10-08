@@ -52,3 +52,5 @@ class YourWidget(QWidget):
         print("Hello")
 ```
 Use you creativity to make amazing buttons that can change the world! Good luck with contributing to the project.
+
+If you feel really experienced and up to a challenge, you can try to implement the overview tab. The idea of this tab is that is shows you the current values of all measured quantities, such that you can take a quick look and see how your experiment is going.
