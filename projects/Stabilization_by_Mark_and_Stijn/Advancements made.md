@@ -12,6 +12,33 @@ We connected our Arduino Due to our accelerometer. However, we weren't able to g
 
 We were however able to gain the measurements from the inner box (thus the minimal space needed for the Cavendish-Experiment). Hopefully tomorrow, we'll be able to gain the measurements from the outer box, so that we can calculate how much space we have for our spring-system.
 
-InnerBox - Width: 30, Length: 50, Hight: 35 /// OuterBox - Width: , Length: , Hight: 
+Later this day, we gained the minimal dimensions needed in order to fit the experiments.
+InnerBox - Width: 30, Length: 50, Hight: 35
 
-22-9:
+**22-9:**
+
+Mark did the Yaw, Pitch and Role measurements, in order to see if this part of the accelerometer was a viable option to measure the level of the final setup. Though the accelerometer produces decent values, we can't use this part of the accelerometer to calculate the level, because it calculates it's Yaw, Pitch and Role from the g's (gravitational vectors in x, y and z direction) and thus resets every time you start up a new measurement. This would mean that, in order to use the Yaw, Pitch and Role for the leveling system, we would need to always keep the accelerometer on and measuring, which isn't a viable option (since this would mean that our box would always have to give electricity to this part of our system).
+
+**28-9:**
+
+We did all of the measuremnts we wanted to do, to test if the gravitational vectors were precise enough to measure small vibrations and see if simple systems would already be good enough to filter out frequencies. 
+
+To see our full setup, see our "AccelerationTest"-folder. What we did was put a bass-shaker onto a board, put our accelerometer on a mass and connect it to an oscilloscoop. We then had the bass-shaker vibrate in different frequencies, and check if different systems would indeed look differently. 
+
+Around 6-ish, we saw the news and noticed that a lot of extra measures were taken because of corona. Because we weren't certain that we would be able to actually ever we allowed back onto the university, we ended up staying till around a quarter past 8 in the evening, to make certain that we had all the measurements needed from our experiments. We ate noodles.
+
+A problem that we encountered, is that we weren't able to actually show low frequencies, because the bass-shaker didn't put out enough vibration then. Because of this, we were only able to check our systems for frequencies higher than 20 Hz. 
+
+**1-10:**
+
+Stijn made the "bode-plots" of the data that we gathered on monday. This was done using python and they can be found in the "AccelerationTest"-folder.
+
+
+**5-10:**
+
+To be more precize, we added error bars to our graphs.
+
+To be updated
+
+
+

@@ -18,7 +18,11 @@ STUDENT NAME: Jakob Schröder
 
 
 ## Mid-course review of goals (fill this mid-course)
-*Note what skills you have learned so far, whether you are hitting your own targets and if you need to modify them. State if the course structure allows you to attain your goals.*
+
+- The project coordination is working smoothly right now
+- The communication with other subgroups could be more
+- Programming skills are not important to my project
+- I refreshed the basics in electronics, but time constraints push us to use ready made solutions so we cannot do anything complicated ourselves.
 
 
 ## Final review of goals (fill at the end of the course)

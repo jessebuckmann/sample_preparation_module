@@ -30,7 +30,20 @@ Members: **Johanna**, **Frank** and **Floris**
 
 _________________________________________________________________________________________________________
 
-Mid-course review of goals (fill this mid-course)
+**I. Review of goals** 
+
+- Provide the hardware for data transfer/display​ of the measurements with an adequate number of inputs and components the software group can run their program on
+- Provide the software group with a small data set/ transfer to test their code
+- Combine Arduinos and their outputs, such that the software group can readout only one Arduino
+- Find a possibility to easily store the data 
+
+*How to achieve them*
+- Outline the parts of the experiment(s): figure out how many Arduinos and what file type they will send
+- Connect maximal number of slaves or even direct sensors to one master
+- Use dummy experiments and work with the software group to verify how well the data is transferred/stored
+
+_______________________________________________________________________________________________________
+(fill this mid-course)
 Note your progress and re-adjust your goals such that you can deliver at the end
 
 Final review of goals (fill at the end of the course)

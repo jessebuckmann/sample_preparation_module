@@ -2,6 +2,14 @@ Week 21-27: Hopefully be able to solder the accelerometer to an breadboard, as w
     
     Mentor meeting with Rinske (21-9-2020// 16:00)
 
-Week 28-04: Start building the box itself, as well as perhaps the pully-system. Also decide on what materials to use for the box, the pully-system, and the leveling-system (also still need to get sensors for this part). We will have look 
+Week 28-04: Start measuring the vibrations of different systems. We do this by making different bodeplots (and writing code). We will also ask Ravi how we go from the arduino to them. 
 
-Week 05-11: Start building the box itself, as well as perhaps the pully-system.
+The different setups that we are going to test are:
+- Only springs under
+- Spring under, external demper (rubber spring)
+- Spring under, oil bath with plunger
+- Spring under, foam under
+- Spring under, rasta to the side
+- Any other combination
+
+Week 05-11: Lot of typing will be done today. We can't really do an experiment, cause we took down the system. However, we would like to test if we can actually send our gained data to the other systems (software and hardware).
