@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome! :sun:
 
 Welcome to the Prep The Box project folder! In this folder you can find all the information concerning our project. We could 
 
