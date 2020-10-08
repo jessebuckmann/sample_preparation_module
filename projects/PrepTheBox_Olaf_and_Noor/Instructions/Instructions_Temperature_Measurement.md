@@ -19,7 +19,11 @@ The first measurement has The Box™ completely sealed off. First, all sides but
 
 The second measurement has two opposite panels of The Box™ slightly ajar, and thus has a passive ventilation channel. Apart from that, the experiments are the same.
 
+![The sealed off Box™](./images/BoxSeal.jpeg)
 
+![The passive ventilation setup](./images/PassiveVentilation.jpeg)
+
+![The insides of the Box™](./images/BoxInsides.jpeg)
 
 ## Results
 
