@@ -1,7 +1,5 @@
 The following steps will guide you how to get everything running from scratch (reading [Possible problems](#Possible problems) section recommended)
 
-
-
 ### Windows installation
 
 1. Go to https://github.com/SanliFaez/labphew
@@ -10,10 +8,8 @@ The following steps will guide you how to get everything running from scratch (r
    2. Extract the zip into a place of your choosing
 
    Another variant how you can get the copy of this repo:
-
-   ​	1. Open the command prompt. You can open the command prompt by searching "powershell" or "cmd" in windows search. Or type Win+R, type "powershell" or "cmd" and press Enter
-
-    	2. Type **git clone https://github.com/SanliFaez/labphew** . This command will make a copy of this repo in your current folder without need to zip/unzip the repo. You need to have Git installed on your system
+   1.  Open the command prompt. You can open the command prompt by searching "powershell" or "cmd" in windows search. Or type Win+R, type "powershell" or "cmd" and press Enter
+   2.  Type **git clone https://github.com/SanliFaez/labphew** . This command will make a copy of this repo in your current folder without need to zip/unzip the repo. You need to have Git installed on your system
 
 2. Install anaconda from: https://www.anaconda.com/products/individual
 
@@ -37,8 +33,6 @@ The following steps will guide you how to get everything running from scratch (r
    3. Open the BIMBO_Interface.py in the Programs folder using Spyder or PyCharm or any other IDE and run the file. You can move the Programs folder to wherever you want
    4. Enjoy the program
 
-
-
 ### Linux installation
 
 ! Sadly, currently the Linux version on the program doesn't work. Everything is fine until the very last step 4.3 !
@@ -52,19 +46,13 @@ myappid = 'BIMBO'
 ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(myappid)
 ```
 
-
-
 ### MacOS installation
 
 Well, you is going to be the first person who try to run this on mac. This [guide](https://reference.digilentinc.com/learn/instrumentation/tutorials/analog-discovery-2-getting-started) will show you how to install the Waveforms software, other steps are the same as in Windows.
 
-
-
 ### Android and IOS
 
 Just install Windows
-
-
 
 ## Possible problems
 

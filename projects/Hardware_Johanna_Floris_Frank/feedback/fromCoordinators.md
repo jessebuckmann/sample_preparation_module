@@ -13,3 +13,9 @@ Team Johanna, Frank, Floris
 + be deliberate on assigning tasks
 + separate your demonstration from the service you will provide the grand project
 + focus on the process and not the final product
+
+
+### on Readme (timestamp: 7/10/2020 ~16h)
+⭐⭐⭐☆☆
+Motivated me to read further and had at least one link how to get involved, but not all the elements were linked so I quickly got lost. The big picture of the project is there, but i cannot see any detail of where to start learning and what is the latest state.
+use of emoji's is 🔥 
