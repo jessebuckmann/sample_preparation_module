@@ -15,3 +15,7 @@ Team Noor, Olaf
 + Feedback: time limitations cause frustrations, coordination with the grand project can
 + Suggestion: focus on the process instead of the final product
 
+
+### on Readme (timestamp: 7/10/2020 ~15h)
+⭐☆☆☆☆
+not much to learn here (at this moment) but good to learn there is the intention for it

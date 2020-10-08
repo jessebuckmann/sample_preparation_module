@@ -12,7 +12,9 @@ Our plans are to write one simple rule-them-all program, which consists of diffe
 
 #### Long description
 
-The files in this directory contain most of the information about what the software team is doing. To start, you can check the [Programs](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs) folder which contains all the code we wrote so far and will contain all necessary scripts and instructions how to install everything and get it running. Also may be there will appear a "How to contribute" file.
+The files in this directory contain most of the information about what the software team is doing. To start, you can check the [Programs](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs) folder which contains all the code we wrote so far.
+
+[Installation guide](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Installation%20guide.md) contains all necessary instructions how to install everything and get it running. Also may be somewhere will appear a "How to contribute" file.
 
 The files in that directory will be updated as we progress in our work and the important messages will be listed [in updates](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/UPDATES.md).
 
@@ -22,7 +24,7 @@ The [program specifications](https://git.science.uu.nl/ued2020/experiment-design
 
 If people working on other parts of the project want to see what do we need from them, it is written in the [Canvas file:resources required section](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Canvas.md#resources-required) as well as the other problems we want to tackle.
 
-Btw, if someone is interested what we are doing, [Project goals](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Project%20goals.md) file is your first place to go.
+Btw, if someone is interested what exactly we are doing and what our plans are, [Project goals](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Project%20goals.md) file is your first place to go.
 
 
 

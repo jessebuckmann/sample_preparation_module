@@ -23,9 +23,21 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________
 
-*Mid-course review of goals* (fill this mid-course)
-Note what skills you have learned so far, whether you are hitting your own targets and if you need to modify them. State if the course structure allows you to attain your goals.
+*I. review of goals* (fill this mid-course)
 
+*I learned for so far*
+- That the size of a gruop makes the communication more difficult
+- What an Arduino is and how to get some measurments done with it
+- 2 sentences in dutch (with bad accent)
+
+The course structure did not influence my personal goals - but the goals of my group.
+It would be nice if you either coordinate the whole course or stop destroying all progress that we made in the first days. This sounds horrible :fearful: , but it leads to a new personal goal :grin:
+
+- I shoul work on my patience to maintaine a good group atmosphere - Sorry guys :wink:
+- For the subproject I have to learn way more about Arduino libraries electronics and data transfer
+- I should learn more useful sentences in ducht :smile:
+
+______________________________________________________________________________________________
 *Final review of goals* (fill at the end of the course)
 
 Review the course from your personal point of view and whether it met your expectations. State how you could have done better and suggest changes that can make the course better.*

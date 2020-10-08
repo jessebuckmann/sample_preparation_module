@@ -12,4 +12,4 @@ The different setups that we are going to test are:
 - Spring under, rasta to the side
 - Any other combination
 
-Week 05-11: Start building the box itself, as well as the leveling-system. Another possibility is letting someone else make the box.... ?!
+Week 05-11: Lot of typing will be done today. We can't really do an experiment, cause we took down the system. However, we would like to test if we can actually send our gained data to the other systems (software and hardware).

@@ -1,0 +1,1 @@
+In this directory you can find instructions on how to use the box.
