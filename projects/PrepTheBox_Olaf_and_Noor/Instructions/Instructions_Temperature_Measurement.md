@@ -19,12 +19,28 @@ The first measurement has The Box™ completely sealed off. First, all sides but
 
 The second measurement has two opposite panels of The Box™ slightly ajar, and thus has a passive ventilation channel. Apart from that, the experiments are the same.
 
+Below, a few images can be seen. The first one shows the completely sealed off Box™, the second one shows the passive ventilation setup, and the third one shows the insides of The Box™.
+
 ![The sealed off Box™](./images/BoxSeal.jpeg)
 
 ![The passive ventilation setup](./images/PassiveVentilation.jpeg)
 
 ![The insides of the Box™](./images/BoxInsides.jpeg)
 
+## Safety Measurements
+
+There are a few safety measurements for this experiment. Things to watch out for:
+
+- The edges of The Box™ are sharp, do not cut yourself when adding or removing the panels;
+- The Box™ is quite heavy. Do not let it run over your feet, for example;
+- You are working with boiling water. Do not burn yourself.
+
 ## Results
 
+The measurement ran for 20 minutes, with every 10 second a measurement point. We have made a plot of the two data sets:
+
+![tempplot](./images/tempplot.jpeg)
+
 ## Discussion and conclusion
+
+As you can see, we were indeed correct with our hypothesis: the temperature in the sealed off Box™ keeps rising, whereas the temperature in the passively ventilated Box™ stays at a somewhat constant line. We do therefor need some kind of ventilation in The Box™. The bump in the sealed off Box™ cannot be explained by us. We think it comes from fluctuations in the temperature sensor, or maybe some water damped down on the sensor itself. Apart from that, we think the measurement also contains some uncertainties due to the fact that the sensor was at the top compartment, and heat rises. 
