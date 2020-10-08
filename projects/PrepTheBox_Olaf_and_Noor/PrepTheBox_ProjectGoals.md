@@ -23,6 +23,19 @@
 
 ## Mid-course review of goals (fill this mid-course)
 *Note your progress and re-adjust your goals such that you can deliver at the end*
+Update related to the previous goals:
++ Box is designed to be watertight by putting dukttape on the gaps when an experiment is about to be ran. Has to be tested.
++ Door is not going to be added, instead we keep the setup with three plates being able to be removed (they stick to the box with magnets)
++ Compartments have been made, and are separated from one another with a wooden plates
++ Roof is scrapped during our discussions with the power supply group
++ We have added an support bar for the railing system
++ Screen is scrapped during our discussions with the hardware/software teams
+
+
+Goals for now:
++ Quantitatively test physical aspects of the box (test level, test temperature in box, test watertightness)
++ Add the railing system to the bar
++ Add the legs to the added bars for the level requirement
 
 
 ## Final review of goals (fill at the end of the course)
