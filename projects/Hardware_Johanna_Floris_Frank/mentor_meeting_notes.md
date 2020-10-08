@@ -70,6 +70,7 @@ Week no.: 4
 - Make one person responible for taking notes during mentor meeting (and rotate weekly)
 ____________________________________________________________________________________________________________
 Week no.: 5
+
 **Agenda**
 1) Evaluation of findings from past week
 2) What to do for the deadline on Monday:
@@ -87,7 +88,8 @@ Week no.: 5
 - Piece of code to help us :)
 
 ____________________________________________________________________________________________________________
-Week no.: 6 (16:00)
+Week no.: 6 (Friday 16:00)
+
 **Agenda**
 1) Share notes of the progress from Monday, Tuesday and Thursday
 1.1) Discuss problems and find solutions for the data transfer (Digital or Analog)
