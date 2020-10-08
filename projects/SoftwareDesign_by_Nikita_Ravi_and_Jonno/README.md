@@ -14,7 +14,7 @@ Our plans are to write one simple rule-them-all program, which consists of diffe
 
 The files in this directory contain most of the information about what the software team is doing. To start, you can check the [Programs](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs) folder which contains all the code we wrote so far.
 
-[Installation guide](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/"Installation guide.md") contains all necessary instructions how to install everything and the [README](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs/README.md) in the Programs folder gets you up and running. 
+[Installation guide](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Installation guide.md) contains all necessary instructions how to install everything and the [README](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs/README.md) in the Programs folder gets you up and running. 
 
 The files in the main directory will be updated as we progress in our work and the important messages will be listed [in updates](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/UPDATES.md).
 
