@@ -1,4 +1,4 @@
-import sys, AD2Sensor, Overview, ArduinoWidget
+import sys, AD2Sensor, Overview, ArduinoWidget #Remove the ArduinoWidget if you do not have an Arduino, add ArduinoWidget if you do want to use it and it is not there
 from PyQt5 import QtGui
 from PyQt5.QtCore import pyqtSlot
 import pyqtgraph as pg   # used for additional plotting features
@@ -67,8 +67,8 @@ class TabWidget(QDialog):
         opr = Operator(instrument)
         opr.load_config()
 
-        tabwidget.addTab(ArduinoWidget.TempSensor(), 'Temperature')
-        tabwidget.addTab(ArduinoWidget.PresSensor(), 'Pressure')
+        tabwidget.addTab(ArduinoWidget.TempSensor(), 'Temperature') #If you do not have an Arduino comment out this line
+        tabwidget.addTab(ArduinoWidget.PresSensor(), 'Pressure') #If you do not have an Arduino comment out this line
         tabwidget.addTab(AD2Sensor.Sensor1(opr), 'Analog Discovery 2')
 
         vbox = QVBoxLayout()

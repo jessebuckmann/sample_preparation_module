@@ -11,7 +11,7 @@ import numpy  # Import numpy
 
 tempC = [0]
 pressure = [0]
-arduinoData = serial.Serial('COM5', 9600)  # Creating our serial object named arduinoData
+arduinoData = serial.Serial('COM5', 9600)  #Rename the 'COMX' here to whatever COM is used by your device.
 class TempSensor(QWidget):
     def __init__(self, parent=None):
         super().__init__(parent)
