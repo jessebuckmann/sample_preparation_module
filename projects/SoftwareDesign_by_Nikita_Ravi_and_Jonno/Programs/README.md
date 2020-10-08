@@ -6,7 +6,8 @@ There are three options to use the program.
 3. Only use a real Analog Discovery 2
 4. Only use a simulated Analog Discovery 2
 
-1. Arduino + real Analog Discovery 2
+
+**1. Arduino + real Analog Discovery 2**
 - [ ] In the BIMBO_Interface.py add the ArduinoWidget import to line 1 if it is not there
 - [ ] Uncomment the import from line 16 where the real controller is imported
 - [ ] Comment the import from line 17 where the simulated controller is imported
@@ -18,7 +19,7 @@ There are three options to use the program.
 
 You are all set to go, just run the BIMBO_Interface.py!
 
-2. Arduino + simulated Analog Discovery 2
+**2. Arduino + simulated Analog Discovery 2**
 - [ ] In the BIMBO_Interface.py add the ArduinoWidget import to line 1 if it is not there
 - [ ] Comment the import from line 16 where the real controller is imported
 - [ ] Uncomment the import from line 17 where the simulated controller is imported
@@ -30,7 +31,7 @@ You are all set to go, just run the BIMBO_Interface.py!
 
 You are all set to go, just run the BIMBO_Interface.py!
 
-3. Only real Analog Discovery 2
+**3. Only real Analog Discovery 2**
 - [ ] In the BIMBO_Interface.py remove the ArduinoWidget import from line 1
 - [ ] Uncomment the import from line 16 where the real controller is imported
 - [ ] Comment the import from line 17 where the simulated controller is imported
@@ -39,7 +40,7 @@ You are all set to go, just run the BIMBO_Interface.py!
 
 You are all set to go, just run the BIMBO_Interface.py!
 
-4. Only simulated Analog Discovery 2
+**4. Only simulated Analog Discovery 2**
 - [ ] In the BIMBO_Interface.py remove the ArduinoWidget import from line 1
 - [ ] Comment the import from line 16 where the real controller is imported
 - [ ] Uncomment the import from line 17 where the simulated controller is imported
