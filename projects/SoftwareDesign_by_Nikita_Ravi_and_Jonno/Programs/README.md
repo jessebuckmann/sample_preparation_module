@@ -6,6 +6,7 @@ There are four options to use the program.
 3. Only use a real Analog Discovery 2
 4. Only use a simulated Analog Discovery 2
 
+Once you get the BIMBO up and running, you can navigate through the tabs and press the start/stop buttons to start measuring. When pressing scan, a window pops out which allows you to scan the data and save it over time. See below on how to set up each one of the four options.
 
 **1. Arduino + real Analog Discovery 2**
 - [ ] In the BIMBO_Interface.py add the ArduinoWidget import to line 1 if it is not there
@@ -47,5 +48,3 @@ You are all set to go, just run the BIMBO_Interface.py!
 - [ ] Comment lines 71 and 72 where the tabs for the Arduino are added 
 
 You are all set to go, just run the BIMBO_Interface.py!
-
-
