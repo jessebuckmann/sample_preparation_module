@@ -1,8 +1,10 @@
 The following steps will guide you how to get everything running from scratch (reading [Possible problems](#Possible problems) section recommended)
+NOTE: If you already have labphew working skip straight to the installation of waveforms (step 3 in the windows installation). 
+
 
 ### Windows installation
 
-1. Go to https://github.com/SanliFaez/labphew
+**1. Go to https://github.com/SanliFaez/labphew**
 
    1. Download the zip archive after pressing the "Code" button
    2. Extract the zip into a place of your choosing
@@ -11,7 +13,7 @@ The following steps will guide you how to get everything running from scratch (r
    1.  Open the command prompt. You can open the command prompt by searching "powershell" or "cmd" in windows search. Or type Win+R, type "powershell" or "cmd" and press Enter
    2.  Type **git clone https://github.com/SanliFaez/labphew** . This command will make a copy of this repo in your current folder without need to zip/unzip the repo. You need to have Git installed on your system
 
-2. Install anaconda from: https://www.anaconda.com/products/individual
+**2. Install anaconda from: https://www.anaconda.com/products/individual**
 
    1. Open the anaconda prompt by searching "anaconda prompt" in windows
    2. Navigate to your copied repository folder "master-labphew" in the anaconda prompt using ***cd C:/path/to/dir/.../master-labphew*** (you can go up a folder using **cd ..**). Or just copy the path from file explorer and type **cd** and then insert the path
@@ -24,9 +26,9 @@ The following steps will guide you how to get everything running from scratch (r
    2. Type ***pip install -e .*** and press Enter
    3. (Do only if use Spyder IDE) Type ***pip install pyqtwebengine*** and press enter *twice* (the second time after the first one is done). This package is needed only for Spyder IDE, without it it won't start
 
-3. Download and install Waveforms program from: https://mautic.digilentinc.com/asset/110:waveforms-windows-64-bit-download. Agree to default options. The detailed guide(on Windows you don't need it) is [there](https://reference.digilentinc.com/learn/instrumentation/tutorials/analog-discovery-2-getting-started)
+**3. Download and install Waveforms program from: https://mautic.digilentinc.com/asset/110:waveforms-windows-64-bit-download. Agree to default options. The detailed guide(on Windows you don't need it) is [there](https://reference.digilentinc.com/learn/instrumentation/tutorials/analog-discovery-2-getting-started)**
 
-4. Go to https://git.science.uu.nl/ued2020/experiment-design-2020
+**4. Go to https://git.science.uu.nl/ued2020/experiment-design-2020**
 
    1. Download a zip of the repository. Extract the zip. Or you can do the same via Git as with labphew
    2. Go to experiment-design-2020/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs/ folder
