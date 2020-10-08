@@ -19,13 +19,15 @@ Import YourFILE
 Now you can add a new line of code to the BIMBO_Interface.py in the function StartProgram after the line tabwidget = QTabWidget():
 
 ```python
-*tabwidget.addTab(YourFILE.YourWidget(), 'Choose a fun name here')*
+tabwidget.addTab(YourFILE.YourWidget(), 'Choose a fun name here')
 ```
 Now a new tab should appear in the BIMBO_Interface.
 Now you can use all of PyQt5 to add new stuff to your widget! The complete documentation can be found [here](https://pypi.org/project/PyQt5/).
 A quick example would be to add a button by 
 
 ```python
+from PyQt5.QtWidgets import *
+
 class YourWidget(QWidget):
     def __init__(self):
         super().__init__()
@@ -36,12 +38,17 @@ class YourWidget(QWidget):
 This will display a button that does not yet do anything. In order to give let the button execute a function called YourFunction you can do
 
 ```python
+from PyQt5.QtWidgets import *
+
 class YourWidget(QWidget):
     def __init__(self):
         super().__init__()
         myButton = QPushButton('A useless button', self)
-        myButton.resize(100, 32)
+        myButton.resize(200, 32)
         myButton.move(50, 50)
         myButton.clicked.connect(self.YourFunction)
+    
+    def YourFunction(self):
+        print("Hello")
 ```
 Use you creativity to make amazing buttons that can change the world! Good luck with contributing to the project.
