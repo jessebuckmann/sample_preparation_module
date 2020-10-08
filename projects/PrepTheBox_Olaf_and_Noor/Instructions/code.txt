@@ -57,13 +57,13 @@ void loop() {
  float T = read_Temperature();
  //if (T<L_D or T> H_D){danger();}
  
- if (T<T_H){
-    activate_cooler();  }
+ //if (T<T_H){
+    //activate_cooler();  }
  
- else if (T>T_L){
-    activate_heater();}
+ //else if (T>T_L){
+    //activate_heater();}
  
- else{ deactivate();}
+ //else{ deactivate();}
   
  Serial.println(T);  
  delay(10000) ;
