@@ -8,6 +8,17 @@ The experiment we chose to carry out is one that will test whether The Box™ ne
 
 ## Experiment setup
 
+The setup consisted of:
+- The Box™;
+- Two glass beakers;
+- The Arduino-temperature setup from the Temperature Controle Group;
+- Dukttape;
+- A laptop supporting the Arduino software.
+
+The first measurement has The Box™ completely sealed off. First, all sides but one are taped off and thus made waterproof. Water is cooked, and put in the two beakers. The beakers are then placed in the box, in the lower compartment (because this one has the steadiest flooring, and we don't want water pouring over the laptop and/or Arduino). Once the initial steam cloud is gone, the laptop and the temperature sensor are placed inside, and the last panel is sealed off. The sensor writes to the Arduino IDE every ten seconds. After 20 minutes of measurement, the box is opened again, data is retrieved and put in Excel.
+
+The second measurement has two opposite panels of The Box™ slightly ajar, and thus has a passive ventilation channel. Apart from that, the experiments are the same.
+
 
 
 ## Results
