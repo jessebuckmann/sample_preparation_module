@@ -22,7 +22,7 @@ The [program specifications](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Pr
 
 If people working on other parts of the project want to see what do we need from them, it is written in the [Canvas file:resources required section](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Canvas.md#resources-required) as well as the other problems we want to tackle. Also in the Programs forder there is a [CONTRIBUTING](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs/CONTRIBUTING.md) file on how to contribute.
 
-Btw, if someone is interested what exactly we are doing and what our plans are, [Project goals](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/"Project_goals.md") file is your first place to go.
+Btw, if someone is interested what exactly we are doing and what our plans are, [Project goals](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Project_goals.md) file is your first place to go.
 
 #### How to report issues/bugs/compliments/complaints
 
