@@ -85,5 +85,16 @@ Week no.: 5
 - Include library also in master (for the future: also check the library to see what is possible)
 - Thinking about ´converting float into bit
 - Piece of code to help us :)
+
+____________________________________________________________________________________________________________
+Week no.: 6 (16:00)
+**Agenda**
+1) Share notes of the progress from Monday, Tuesday and Thursday
+1.1) Discuss problems and find solutions for the data transfer (Digital or Analog)
+2) Outline the report for Monday and find a better communication for that  
+3) Set Agenda for the next week/Distribute the project files for updates
+4) Receive and discuss mentor feedback
+
+**Meeting feedback**
 			
 
