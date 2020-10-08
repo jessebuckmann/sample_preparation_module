@@ -1,6 +1,6 @@
 # Instructions
 
-## purpose and overview
+## purpose and theory
 
 
 ## safety recommendations
@@ -21,6 +21,8 @@ Measure the voltage between the poles of the battery the battery using a multime
 Check if it is increasing in the range 12.0-13.8 V.
 This means it is charging.
 Compare that with the charging curve in the battery [datasheet](https://asset.conrad.com/media10/add/160267/c1/-/en/000250916DS01/datablad-250916-conrad-energy-12-v-12-ah-loodaccu-12-v-12-ah-loodvlies-agm-b-x-h-x-d-151-x-95-x-98-mm-kabelschoen-635-mm-onderhouds.pdf) 
+Measure the open-circuit voltage of the solar panel.
+For that, temporarily disattach the cables from the CC and connect them with the multimeter.
 
 
 
@@ -41,9 +43,14 @@ This is the stand-by current of the DC/DC converter.
 
 ## Results
 
-- battery voltage: 
-- powerbank current: (1.01 +- 0.01) A
-- stand-by current DC/DC: (0.05 +- 0.01) A
+| Quantitiy | Result |
+| --- | --- |
+| battery voltage |  - |
+| solar panel open-circuit voltage| - | 
+| powerbank current | (1.01 +- 0.01) A |
+| stand-by current DC/DC | (0.05 +- 0.01) A |
+| R1 | 19.9 kOhm |
+| R2 | 4.7 kOhm |
 
 
 ## outlook (what can be improved)
