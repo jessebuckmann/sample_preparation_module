@@ -8,7 +8,7 @@ There are four options to use the program.
 
 Once you get the BIMBO up and running, you can navigate through the tabs and press the start/stop buttons to start measuring. When pressing scan, a window pops out which allows you to scan the data and save it over time. See below on how to set up each one of the four options.
 
-If you would like to use an Arduino. Please make sure it outputs the data in the format: time,temperature,pressure. If you would like to load a simulation onto your Arduino, you can upload the [exampleArduino.ino](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs/exampleArduino.ino) to your arduino!
+If you would like to use an Arduino. Please make sure it outputs the data in the format: time,temperature,pressure. If you would like to load a simulation onto your Arduino, you can upload the [simulation_for_arduino.ino](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs/simulation_for_arduino.ino) to your arduino!
 
 **1. Arduino + real Analog Discovery 2**
 - [ ] In the BIMBO_Interface.py add the ArduinoWidget import to line 1 if it is not there
