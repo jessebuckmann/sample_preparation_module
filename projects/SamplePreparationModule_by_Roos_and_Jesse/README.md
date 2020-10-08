@@ -9,9 +9,9 @@ Typically a fumehood is a very expensive lab component. Looking at the [cost](ht
 For the general construction of the fumehood the [building progress](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SamplePreparationModule_by_Roos_and_Jesse/project_details/building_progress.md) is available, along with several [photos](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master/projects/SamplePreparationModule_by_Roos_and_Jesse/Photos) of the various stages of construction. While this construction might not live up to the features of a real fumehood, it does offer a degree of protection and a good working environment for the prepartion of some typical samples that are used in experiments.
 
 
-Main planned features:
-- ventilated, to carry away fumes
-- spill proof, make the worksurface chemical resistant
-- air tight, making sure the fumes will only go out through the pipe
+Main features:
+- [ventilated](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SamplePreparationModule_by_Roos_and_Jesse/Testing/testing_airflow.md), to carry away fumes
+- [spill proof](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SamplePreparationModule_by_Roos_and_Jesse/Testing/testing_coating.md), the workspace has high chemical resistance.
+- [air tight](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SamplePreparationModule_by_Roos_and_Jesse/Testing/testing_airflow.md), ensure that the fumes will only go out through the pipe.
 
 
