@@ -1,4 +1,4 @@
-Dear Contributor, we appreciate you showing your willingness to contribute!
+Dear Contributor, we appreciate you showing your willingness to contribute! If you want to report a bug or suggest a change please adhere to the steps in this [README:How to report bug](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/README.md)
 
 The easiest way to contribute is by adding new tabs with programs to the BIMBO_Interface.
 The way to this is creating a QDialog. Just make a new python file and start with the following class:
