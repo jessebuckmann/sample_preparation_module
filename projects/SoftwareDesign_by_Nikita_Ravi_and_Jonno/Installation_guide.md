@@ -30,7 +30,7 @@ The following steps will guide you how to get everything running from scratch (r
 
    1. Download a zip of the repository. Extract the zip. Or you can do the same via Git as with labphew
    2. Go to experiment-design-2020/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs/ folder
-   3. Now you are all set to go to the [README](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs/README.md) on how to use the program!
+   3. Now you are all set to go to the [README](/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs/README.md) on how to use the program!
 
 ### Linux installation
 
