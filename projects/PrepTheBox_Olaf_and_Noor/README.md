@@ -23,12 +23,9 @@ In this section we will shortly describe the content of all the folders in this 
 - Instructions: This folder contains all the necessary information if you would like to repeat some of the experiments we conducted during the design of the box
 - Mentor_Meetings: This folder contains the summaries of the meetings we had with our mentor, Dante Killian, and other experts.
 - Personal_Files: This folder contains the personal files of us both, such as our personal goals.
--Roadmap_map: This folder contains information on the development of our project during the course. Think of files such as our schedule, our project canvas and our project goals. But also things such as celebration art pieces
+-Roadmap_map: This folder contains information on the development of our project during the course. Think of files such as our schedule, our project canvas and our project goals. But also things such as a sketch of the box and celebration art pieces.
+-Technical_Details: This folder contains the technical details of our project such as a list of components and the dimensions of the box.
 
 ## Information on repeating measurements
 
-This will be the readme file of the Prep the Box project
-
-All information and instructions regarding this project will be placed in this file
-
-Noor ten Veen & Olaf Massen
+During this project many descisions had to be made concerning the design of the box. All of these were made after consulting the other project groups and some experts on the subject. For one design desicion we performed an experiment to see what the most effective solution would be. We performed an experiment to see if ventilation would be necessary in the box. To test this we measured the temperature inside the box after placing two beakers with boiling water inside, once without ventilation and once with passive ventilation. If one would want to repeat this experiment, the instructions can be found in the [Instructions folder]().
