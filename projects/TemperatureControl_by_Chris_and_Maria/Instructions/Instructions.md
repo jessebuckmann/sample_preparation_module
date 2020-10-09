@@ -1,6 +1,6 @@
 In this project you have to make a circuit which will measure the temperature of the box and using a peltier control it in a range you can define. Here are the steps you need to follow in order to achieve this:
 
-## Part 1: Downloading and Installing Arduino
+### Part 1: Downloading and Installing Arduino
 
 Go to [](https://www.arduino.cc/en/Main/software) and choose which suits for you depending on your operating system [here](https://git.science.uu.nl/m.lekou/experiment-design-2020/-/blob/master/projects/TemperatureControl_by_Chris_and_Maria/Instructions/Downloading_Arduino.jpg)
 
@@ -16,7 +16,7 @@ Re-open the Arduino, Go to tools -> Board “Arduino Yun” -> Arduino Due (Prog
 
 Now you are ready to copy-paste the [code](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/TemperatureControl_by_Chris_and_Maria/documantation/data/code.txt)!
 
-##Part 2: Making the circuit
+### Part 2: Making the circuit
 
 First, notice that you have all the required items:
 1 Arduino Due
@@ -41,10 +41,14 @@ The sensor has to be also connected with the PIN Ao and at 3.3V of Arduino.
 
 [This](https://git.science.uu.nl/m.lekou/experiment-design-2020/-/blob/master/projects/TemperatureControl_by_Chris_and_Maria/Instructions/Mosfet.png) picture will help you to understand when you see a MOSFET which side is the source, gate and drain.
 
-**MOSFET 1**
+**Mosfet 1**
+
 Gate connected with:
-•	PIN 10 of Arduino
-•	Gate of Mosfet 3
+
+- PIN 10 of Arduino
+
+- Gate of Mosfet 3
+
 Drain connected with 
 •	Gate of Mosfet 2
 Source connected with 
