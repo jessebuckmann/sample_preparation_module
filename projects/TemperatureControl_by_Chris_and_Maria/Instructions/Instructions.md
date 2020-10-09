@@ -1,6 +1,6 @@
 In this project you have to make a circuit which will measure the temperature of the box and using a peltier control it in a range you can define. Here are the steps you need to follow in order to achieve this:
 
-`##Part 1: Downloading and Installing Arduino`
+## Part 1: Downloading and Installing Arduino
 
 Go to [](https://www.arduino.cc/en/Main/software) and choose which suits for you depending on your operating system [here](https://git.science.uu.nl/m.lekou/experiment-design-2020/-/blob/master/projects/TemperatureControl_by_Chris_and_Maria/Instructions/Downloading_Arduino.jpg)
 
