@@ -98,5 +98,7 @@ Week no.: 6 (Friday 16:00)
 4) Receive and discuss mentor feedback
 
 **Meeting feedback**
-			
+- Focus on serial library	
+- No printing inside loops
+- Available during the weekend to help with the code **Thank You**
 
