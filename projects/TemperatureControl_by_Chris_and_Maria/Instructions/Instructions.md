@@ -19,12 +19,19 @@ Now you are ready to copy-paste the [code](https://git.science.uu.nl/ued2020/exp
 ### Part 2: Making the circuit
 
 First, notice that you have all the required items:
+
 1 Arduino Due
+
 1 BreadBoard
+
 1 sensor PTA 100
+
 150 Ohm Resistor
+
 4 Mosfets
+
 1 Peltier
+
 Couple of Wires
 
 During this part it will really help you to have open the [schematic](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/TemperatureControl_by_Chris_and_Maria/documantation/data/schematic.pdf). 
