@@ -50,32 +50,46 @@ Gate connected with:
 - Gate of Mosfet 3
 
 Drain connected with 
-•	Gate of Mosfet 2
-Source connected with 
-•	One side of Peltier(1)
-•	Drain of Mosfet 4
 
-**MOSFET 2**
+- Gate of Mosfet 2
+
+Source connected with 
+
+- One side of Peltier(1)
+
+- Drain of Mosfet 4
+
+**Mosfet 2**
+
 Source  connected with
-•	Other side of Peltier(2)
-•	Drain of Mosfet 3
+
+- Other side of Peltier(2)
+
+- Drain of Mosfet 3
+
 Gate  connected with
-•	Gate of Mosfet 4
+
+- Gate of Mosfet 4
 
 **Mosfet 3**
-Source connected with
-•	Ground
 
-**Mosfet 4
-**
-Gate connected with
-•	PIN 2 of Arduino
 Source connected with
-•	Ground
+
+- Ground
+
+**Mosfet 4**
+
+Gate connected with
+
+- PIN 2 of Arduino
+
+Source connected with
+
+- Ground
 
 [This](https://git.science.uu.nl/m.lekou/experiment-design-2020/-/blob/master/projects/TemperatureControl_by_Chris_and_Maria/Instructions/CoolingHeating.jpg) picture will help you have a better understanding of the above part.
 
-##Part 3: Connecting the code with the arduino
+### Part 3: Connecting the code with the arduino
 
 Connect the computer with the Arduino using a wire.
 Open the program at your computer with the code and press upload.
