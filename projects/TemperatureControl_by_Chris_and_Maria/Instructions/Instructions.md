@@ -2,7 +2,7 @@ In this project you have to make a circuit which will measure the temperature of
 
 ### Part 1: Downloading and Installing Arduino
 
-Go to [](https://www.arduino.cc/en/Main/software) and choose which suits for you depending on your operating system [here](https://git.science.uu.nl/m.lekou/experiment-design-2020/-/blob/master/projects/TemperatureControl_by_Chris_and_Maria/Instructions/Downloading_Arduino.jpg)
+Go to [this site](https://www.arduino.cc/en/Main/software) and choose which suits for you depending on your operating system [here](https://git.science.uu.nl/m.lekou/experiment-design-2020/-/blob/master/projects/TemperatureControl_by_Chris_and_Maria/Instructions/Downloading_Arduino.jpg)
 
 Then you can easily install the program.
 
