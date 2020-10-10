@@ -1,0 +1,1 @@
+In this directory you can find photos that were taken during the process of building and testing the project

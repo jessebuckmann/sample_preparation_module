@@ -12,19 +12,21 @@ Our plans are to write one simple rule-them-all program, which consists of diffe
 
 #### Long description
 
-The files in this directory contain most of the information about what the software team is doing. To start, you can check the [Programs](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs) folder which contains all the code we wrote so far and will contain all necessary scripts and instructions how to install everything and get it running. Also may be there will appear a "How to contribute" file.
+The files in this directory contain most of the information about what the software team is doing. To start, you can check the [Programs](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs) folder which contains all the code we wrote so far.
 
-The files in that directory will be updated as we progress in our work and the important messages will be listed [in updates](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/UPDATES.md).
+[Installation guide](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Installation_guide.md) contains all necessary instructions how to install everything and the [README](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs/README.md) in the Programs folder gets you up and running. 
 
-Our current [planning and subgoals](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Planning%20and%20subgoals.md) describes(for now not really) our short-time tasks and plans for week.
+The files in the main directory will be updated as we progress in our work and the important messages will be listed [in updates](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/UPDATES.md).
 
-The [program specifications](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/ProgramSpecifications.md) file is the table of components of our program with detailed requirements for each of them. If you want to see more functionality of any component, contact us. 
+The [program specifications](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/ProgramSpecifications.md) file is the table of components of our program with detailed requirements for each of them. If you want to see more functionality of any component, contact us.
 
-If people working on other parts of the project want to see what do we need from them, it is written in the [Canvas file:resources required section](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Canvas.md#resources-required) as well as the other problems we want to tackle.
+If people working on other parts of the project want to see what do we need from them, it is written in the [Canvas file:resources required section](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Canvas.md#resources-required) as well as the other problems we want to tackle. Also in the Programs forder there is a [CONTRIBUTING](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs/CONTRIBUTING.md) file on how to contribute.
 
-Btw, if someone is interested what we are doing, [Project goals](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Project%20goals.md) file is your first place to go.
+Btw, if someone is interested what exactly we are doing and what our plans are, [Project goals](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Project_goals.md) file is your first place to go.
 
+#### How to report issues/bugs/compliments/complaints
 
+In order to be able to track all of your feedback, we would like you to open a new issue stating what you would like to share with us. We want to keep everything clear and concise so please adhere to the format given [here](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Issue_template.md). Just copy and paste this when opening a new issue and fill in the details. To make sure it get to us, please assign your issue to Nikita, Ravi or Jonno. 
 
 #### How to reach us:
 
@@ -34,4 +36,6 @@ Btw, if someone is interested what we are doing, [Project goals](https://git.sci
 
 #### Suggestions are very welcome!
 
-Please communicate all your suggestions to one of the members of a team and do not make changes to this document without prior consultation.
+Please communicate all your suggestions to one of the members of the team. Do not hesitate to tell us if the READMEs or the installation guide were unclear (using the issue template ofcourse)! 
+
+Please do not make changes to this document without prior consultation.

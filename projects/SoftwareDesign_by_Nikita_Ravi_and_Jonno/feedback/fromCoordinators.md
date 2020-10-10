@@ -12,3 +12,8 @@ Team Nikita, Ravi, Jonno
 ### Conversation on the progress status
 
 + document you communication with the other groups as much as possible, and make these communications referenceable
+
+### on Readme (timestamp: 7/10/2020 ~17h)
+⭐⭐⭐⭐⭐
+nice compilation, clearly considerate of the reader and a very good landing page.
+I only have a minor suggestion: perhaps also suggest how people can follow up on the existing issues, how to report bugs, and how to share their experiences after going through your guidelines. e.g. have a template issue. 
