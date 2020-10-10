@@ -19,7 +19,7 @@ void setup() {
 
 // the loop routine runs over and over again forever:
 void loop() {
-  double R1 = 19.9; // resistance of resistor in voltage divider
+  double R1 = 19.9; // resistance of resistor in voltage divider in kOhms
   double R2 = 4.7;
   double factor = (R1+R2)/R2; //ratio to go from measured voltage to actual voltage of battery
   // read the input on analog pin 0:
