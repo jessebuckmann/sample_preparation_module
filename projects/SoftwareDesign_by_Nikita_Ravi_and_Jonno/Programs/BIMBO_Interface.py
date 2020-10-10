@@ -64,7 +64,7 @@ class TabWidget(QDialog):
         #getting the instrument for AD2
         instrument = DfwController()
         opr = Operator(instrument)
-        opr.load_config()
+        opr.load_config('./config.yml')
 
         #adding tabs to our tabwidget
         #tabwidget.addTab(Overview.Overview(), 'Overview') #this widget still needs to be implemented

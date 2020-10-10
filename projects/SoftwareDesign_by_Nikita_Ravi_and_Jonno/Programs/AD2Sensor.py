@@ -7,12 +7,15 @@ from labphew.core.tools.gui_tools import set_spinbox_stepsize, ValueLabelItem, S
 from labphew.core.base.general_worker import WorkThread
 from labphew.core.base.view_base import ScanWindowBase
 from labphew.model.analog_discovery_2_model import Operator
+import yaml
+import csv
 
 class Sensor1(QWidget):
-    def __init__(self, operator,parent=None):
+    def __init__(self, operator, parent=None):
         super().__init__(parent)
 
         self.operator = operator
+        #setattr(self.operator, 'save_scan_to_csv', save_scan_to_csv)
         self.scan_windows = {}
         self.logger = logging.getLogger(__name__)
 
@@ -24,31 +27,6 @@ class Sensor1(QWidget):
 
         # Layout for left hand controls
         control_layout = QVBoxLayout()
-
-        ### Analog Out
-        box_ao = QGroupBox('Analog Out')
-        layout_ao = QFormLayout()
-        box_ao.setLayout(layout_ao)
-        control_layout.addWidget(box_ao)
-
-        self.ao1_spinbox = QDoubleSpinBox()
-        self.ao1_spinbox.setSuffix('V')
-        self.ao1_spinbox.setMinimum(-100)  # limits are checked by the Operator
-        self.ao1_spinbox.valueChanged.connect(self.ao1_value)
-        self.ao1_spinbox.setDecimals(3)
-        self.ao1_spinbox.setSingleStep(0.001)
-
-        self.ao2_spinbox = QDoubleSpinBox()
-        self.ao2_spinbox.setSuffix('V')
-        self.ao2_spinbox.setMinimum(-100)  # limits are checked by the Operator
-        self.ao2_spinbox.valueChanged.connect(self.ao2_value)
-        self.ao2_spinbox.setDecimals(3)
-        self.ao2_spinbox.setSingleStep(0.001)
-
-        self.ao1_label = QLabel()
-        self.ao2_label = QLabel()
-        layout_ao.addRow(self.ao1_label, self.ao1_spinbox)
-        layout_ao.addRow(self.ao2_label, self.ao2_spinbox)
 
         ### Monitor
         box_monitor = QGroupBox('Monitor')
@@ -63,9 +41,9 @@ class Sensor1(QWidget):
 
         self.time_step_spinbox = QDoubleSpinBox()
         self.time_step_spinbox.setSuffix('s')
-        self.time_step_spinbox.setMinimum(.01)
+        self.time_step_spinbox.setMinimum(.02)
         self.time_step_spinbox.valueChanged.connect(self.time_step)
-        self.time_step_spinbox.setSingleStep(0.01)
+        self.time_step_spinbox.setSingleStep(0.05)
         layout_monitor_form.addRow(QLabel('Time step'), self.time_step_spinbox)
 
         self.plot_points_spinbox = QSpinBox()
@@ -80,7 +58,7 @@ class Sensor1(QWidget):
         self.stop_button = QPushButton('Stop')
         self.stop_button.clicked.connect(self.stop_monitor)
 
-        #button for opening the scan function
+        # button for opening the scan function
         self.scan_button = QPushButton('Scan')
         self.scan_button.clicked.connect(self.open_scan)
 
@@ -88,7 +66,7 @@ class Sensor1(QWidget):
         layout_monitor_buttons.addWidget(self.stop_button)
         layout_monitor_buttons.addWidget(self.scan_button)
 
-        ### Graphs:
+        # Graphs:
         self.graph_win = pg.GraphicsWindow()
         self.graph_win.resize(1000, 600)
 
@@ -102,6 +80,7 @@ class Sensor1(QWidget):
         self.graph_win.addItem(self.label_1)
 
         self.graph_win.nextRow()
+
         self.plot2 = self.graph_win.addPlot()
         self.plot2.setLabel('bottom', 'time', units='s')
         self.plot2.setLabel('left', 'voltage', units='V')
@@ -109,6 +88,7 @@ class Sensor1(QWidget):
         self.label_2 = ValueLabelItem('--', color='c', siPrefix=True, suffix='V', siPrecision=4,
                                       averageTime=text_update_time, textUpdateTime=text_update_time)
         self.graph_win.addItem(self.label_2)
+
         self._last_values_update_time = time()
 
         # Add an empty widget at the bottom of the control layout to make layout nicer
@@ -130,19 +110,15 @@ class Sensor1(QWidget):
 
         self.setLayout(central_layout)
 
-
     def open_scan(self):
 
         self.ui = ScanWindow(self.operator)
         self.ui.show()
 
-
     def apply_properties(self):
         """
         Apply properties dictionary to gui elements.
         """
-        self.ao1_label.setText(self.operator.properties['ao'][1]['name'])
-        self.ao2_label.setText(self.operator.properties['ao'][2]['name'])
 
         self.time_step_spinbox.setValue(self.operator.properties['monitor']['time_step'])
         self.plot_points_spinbox.setValue(self.operator.properties['monitor']['plot_points'])
@@ -284,14 +260,14 @@ class ScanWindow(ScanWindowBase):
 
         # create thread and timer objects for scan
         self.scan_timer = QTimer(timeout=self.update_scan)
-        self.scan_thread = WorkThread(self.operator.do_scan)
+        self.scan_thread = WorkThread(self.operator.do_scan_modified)
 
     def set_UI(self):
         """
         Code-based generation of the user-interface based on PyQT
         """
 
-        self.setWindowTitle('Digilent AD2 Scan example')
+        self.setWindowTitle('Digilent AD2 Scan')
         # display statusbar
         self.statusBar()
         ### The menu bar:
@@ -321,18 +297,13 @@ class ScanWindow(ScanWindowBase):
         layout_scan_buttons = QHBoxLayout()
         layout_scan.addLayout(layout_scan_buttons)
 
-        self.scan_start_spinbox = QDoubleSpinBox(suffix='V', minimum=-100, singleStep=0.001, valueChanged=self.scan_start_value)
-        # self.scan_start_spinbox.valueChanged.connect(self.scan_start_value)
+        self.scan_duration_spinbox = QDoubleSpinBox(suffix='S', minimum=0, singleStep=0.01,valueChanged=self.scan_duration_value)
 
-        self.scan_stop_spinbox = QDoubleSpinBox(suffix='V', minimum=-100, singleStep=0.001, valueChanged=self.scan_stop_value)
+        self.scan_step_spinbox = QDoubleSpinBox(suffix='S', minimum=0.01, singleStep=0.01, valueChanged=self.scan_step_value)
 
-        self.scan_step_spinbox = QDoubleSpinBox(suffix='V', minimum=-100, singleStep=0.001, valueChanged=self.scan_step_value)
-
-        self.scan_start_label = QLabel('start')
-        self.scan_stop_label = QLabel('stop')
+        self.scan_duration_label = QLabel('duration')
         self.scan_step_label = QLabel('step')
-        layout_scan_form.addRow(self.scan_start_label, self.scan_start_spinbox)
-        layout_scan_form.addRow(self.scan_stop_label, self.scan_stop_spinbox)
+        layout_scan_form.addRow(self.scan_duration_label, self.scan_duration_spinbox)
         layout_scan_form.addRow(self.scan_step_label, self.scan_step_spinbox)
 
         self.start_button = QPushButton('Start', clicked=self.start_scan)
@@ -347,7 +318,7 @@ class ScanWindow(ScanWindowBase):
         layout_scan_buttons.addWidget(self.stop_button)
         layout_scan_buttons.addWidget(self.kill_button)
 
-        self.saver = SaverWidget(self.operator.save_scan)
+        self.saver = SaverWidget(self.operator.save_scan_modified)
         layout_scan.addWidget(self.saver)
 
         ### Graphs:
@@ -355,6 +326,10 @@ class ScanWindow(ScanWindowBase):
         self.graph_win.resize(1000, 600)
         self.plot1 = self.graph_win.addPlot()
         self.curve1 = self.plot1.plot(pen='y')
+
+        self.graph_win.nextRow()
+        self.plot2 = self.graph_win.addPlot()
+        self.curve2 = self.plot2.plot(pen='c')
 
         # Add an empty widget at the bottom of the control layout to make layout nicer
         dummy = QWidget()
@@ -380,49 +355,71 @@ class ScanWindow(ScanWindowBase):
         Apply properties dictionary to gui elements.
         """
         self.logger.debug('Applying config properties to gui elements')
-        self.operator._set_scan_start(self.operator.properties['scan']['start'])  # this optional line checks validity
-        self.scan_start_spinbox.setValue(self.operator.properties['scan']['start'])
 
-        self.operator._set_scan_stop(self.operator.properties['scan']['stop'])  # this optional line checks validity
-        self.scan_stop_spinbox.setValue(self.operator.properties['scan']['stop'])
+        self.operator._set_scan_duration(self.operator.properties['scan']['duration'])  # this optional line checks validity
+        self.scan_duration_spinbox.setValue(self.operator.properties['scan']['duration'])
 
         self.operator._set_scan_step(self.operator.properties['scan']['step'])  # this optional line checks validity
         self.scan_step_spinbox.setValue(self.operator.properties['scan']['step'])
 
-        if 'title' in self.operator.properties['scan']:
-            self.box_scan.setTitle(self.operator.properties['scan']['title'])
-            self.plot1.setTitle(self.operator.properties['scan']['title'])
+        if 'title1' in self.operator.properties['scan']:
+            self.box_scan.setTitle(self.operator.properties['scan']['title1'])
+            self.plot1.setTitle(self.operator.properties['scan']['title1'])
+            self.plot2.setTitle(self.operator.properties['scan']['title2'])
 
         self.plot1.setLabel('bottom', self.operator.properties['scan']['x_label'], units=self.operator.properties['scan']['x_units'])
         self.plot1.setLabel('left', self.operator.properties['scan']['y_label'], units=self.operator.properties['scan']['y_units'])
-        self.plot1.setXRange(self.operator.properties['scan']['start'], self.operator.properties['scan']['stop'])
+        self.plot1.setXRange(0, self.operator.properties['scan']['stop'])
+
+        self.plot2.setLabel('bottom', self.operator.properties['scan']['x_label'], units=self.operator.properties['scan']['x_units'])
+        self.plot2.setLabel('left', self.operator.properties['scan']['y_label'], units=self.operator.properties['scan']['y_units'])
+        self.plot2.setXRange(0, self.operator.properties['scan']['stop'])
 
         if 'filename' in self.operator.properties['scan']:
             self.saver.filename.setText(self.operator.properties['scan']['filename'])
 
-    def scan_start_value(self):
+    def apply_properties_modified(self):
+        """
+        Apply properties dictionary to gui elements.
+        """
+        self.logger.debug('Applying config properties to gui elements')
+        self.operator._set_scan_duration(self.operator.properties['scan']['duration'])  # this optional line checks validity
+        self.scan_duration_spinbox.setValue(self.operator.properties['scan']['duration'])
+
+        self.operator._set_scan_step(self.operator.properties['scan']['step'])  # this optional line checks validity
+        self.scan_step_spinbox.setValue(self.operator.properties['scan']['step'])
+
+        if 'title1' in self.operator.properties['scan']:
+            self.box_scan.setTitle(self.operator.properties['scan']['title1'])
+            self.plot1.setTitle(self.operator.properties['scan']['title1'])
+            self.plot2.setTitle(self.operator.properties['scan']['title2'])
+
+        self.plot1.setLabel('bottom', self.operator.properties['scan']['x_label'],
+                            units=self.operator.properties['scan']['x_units'])
+        self.plot1.setLabel('left', self.operator.properties['scan']['y_label'],
+                            units=self.operator.properties['scan']['y_units'])
+        self.plot1.setXRange(0, self.operator.properties['scan']['duration'])
+
+        self.plot2.setLabel('bottom', self.operator.properties['scan']['x_label'],
+                            units=self.operator.properties['scan']['x_units'])
+        self.plot2.setLabel('left', self.operator.properties['scan']['y_label'],
+                            units=self.operator.properties['scan']['y_units'])
+        self.plot2.setXRange(0, self.operator.properties['scan']['duration'])
+
+        if 'filename' in self.operator.properties['scan']:
+            self.saver.filename.setText(self.operator.properties['scan']['filename'])
+
+    def scan_duration_value(self):
         """
         Called when Scan Start spinbox is modified.
         Updates the parameter using a method of operator (which checks validity and also fixes the sign of step) and
         forces the (corrected) parameter in the gui elements
         """
-        self.operator._set_scan_start(self.scan_start_spinbox.value())
-        self.scan_start_spinbox.setValue(self.operator.properties['scan']['start'])
+        self.operator._set_scan_duration(self.scan_duration_spinbox.value())
+        self.scan_duration_spinbox.setValue(self.operator.properties['scan']['duration'])
         self.scan_step_spinbox.setValue(self.operator.properties['scan']['step'])
-        set_spinbox_stepsize(self.scan_start_spinbox)
-        self.plot1.setXRange(self.operator.properties['scan']['start'], self.operator.properties['scan']['stop'])
-
-    def scan_stop_value(self):
-        """
-        Called when Scan Stop spinbox is modified.
-        Updates the parameter using a method of operator (which checks validity and also fixes the sign of step) and
-        forces the (corrected) parameter in the gui elements
-        """
-        self.operator._set_scan_stop(self.scan_stop_spinbox.value())
-        self.scan_stop_spinbox.setValue(self.operator.properties['scan']['stop'])
-        self.scan_step_spinbox.setValue(self.operator.properties['scan']['step'])
-        set_spinbox_stepsize(self.scan_stop_spinbox)
-        self.plot1.setXRange(self.operator.properties['scan']['start'], self.operator.properties['scan']['stop'])
+        set_spinbox_stepsize(self.scan_duration_spinbox)
+        self.plot1.setXRange(0, self.operator.properties['scan']['duration'])
 
     def scan_step_value(self):
         """
@@ -441,8 +438,7 @@ class ScanWindow(ScanWindowBase):
         self.pause_button.setText('Pause')
         self.pause_button.setEnabled(False)
         self.stop_button.setEnabled(False)
-        self.scan_start_spinbox.setEnabled(True)
-        self.scan_stop_spinbox.setEnabled(True)
+        self.scan_duration_spinbox.setEnabled(True)
         self.scan_step_spinbox.setEnabled(True)
         # Reset all flow control flags
         self.operator._busy = False
@@ -465,8 +461,7 @@ class ScanWindow(ScanWindowBase):
             # self.operator._stop = False  # enable operator monitor loop to run
             self.scan_thread.start()  # start the operator monitor
             self.scan_timer.start(self.operator.properties['scan']['gui_refresh_time'])  # start the update timer
-            self.scan_start_spinbox.setEnabled(False)
-            self.scan_stop_spinbox.setEnabled(False)
+            self.scan_duration_spinbox.setEnabled(False)
             self.scan_step_spinbox.setEnabled(False)
 
     def pause_scan(self):
@@ -512,7 +507,10 @@ class ScanWindow(ScanWindowBase):
         """
         if self.operator._new_scan_data:
             self.operator._new_scan_data = False
-            self.curve1.setData(self.operator.scan_voltages, self.operator.measured_voltages)
+            #self.curve1.setData(self.operator.scan_voltages, self.operator.measured_voltages)
+            #self.curve2.setData(self.operator.scan_voltages, self.operator.measured_voltages)
+            self.curve1.setData(self.operator.current_time_scale, self.operator.ch1_scan_results)
+            self.curve2.setData(self.operator.current_time_scale, self.operator.ch2_scan_results)
         if self.scan_thread.isFinished():
             self.logger.debug('Scan thread is finished')
             self.scan_timer.stop()
