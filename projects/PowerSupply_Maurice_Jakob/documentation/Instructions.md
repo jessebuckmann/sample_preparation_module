@@ -119,7 +119,9 @@ immediately put the safety caps back on once you remove the cable.
 
 ### Step 1: Set up Charge controller
 1. Put the Charge controller (CC) in an upright position (see picture)
-![picture](./images/ChargeController.jpg)
+
+<img src="./images/ChargeController.jpg"  width="1000" height="662">
+
 2. Connect the battery to the CC by first connecting the red cable (containing a fuse) to the positive pole of the CC, then the black to the negative.
 Images on the CC indicate which 2 connections are for the battery (eg. the the in the middle).
 3. In the same order, connect the solar panel to the CC.
