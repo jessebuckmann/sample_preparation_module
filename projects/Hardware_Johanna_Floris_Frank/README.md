@@ -15,12 +15,17 @@ This message may then be printed by the master.
 Secondly, a very simple set-up was designed in which a single master Arduino reads out a BME/BMP280 environmental dummy sensor using the [Adafruit sensor library](https://github.com/adafruit/Adafruit_Sensor).
 (link)
 
-The aformentioned two slaves, i.e. a sensor and a slave sending a text message, were combined into a single-master dual-slave set-up, so that the master receives both measurement values and the 
+The aformentioned two slaves, i.e. a sensor and a slave sending a text message, were combined into a single-master dual-slave set-up, so that the master receives both measurement values and the text message.
 (link)
 
-As a dummy circuit, it was attempted to connect a master Arduino to a slave
-As of now, this set-up does not work yet because .
-If this is 
+To simulate an experiment Arduino connected to the central master Arduino, a single slave reading out the BME/BMP280 was connected to the master.
+It was attempted to have 
+This set-up did not end up working properly, presumably because the connection of the analog pins somehow leads to the sensor being recognized by the master. (maybe describe the error in more detail)
+(link)
+
+Considering the failure of the previously mentioned set-up, communication between the two Arduino's via the digital port was attempted.
+A simple text-based I2C communication protocol between two Arduino's via the digital pins using the [SofwareSerial library](https://www.arduino.cc/en/Reference/SoftwareSerial) was achieved, altough as of yet they are poorly synchronized since the reading and printing my the master is much slower compared to the slave sending the message. (link)
+If this is fixed, it should be possible to transfer sensor data between sensor and master upon request of the master. After that, a generalization to a connection with multiple (two for a start) masters may be made.
 
 Let's get this started :fire: !
 
