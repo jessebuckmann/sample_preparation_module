@@ -24,7 +24,7 @@ void loop() {
   double factor = (R1+R2)/R2; //ratio to go from measured voltage to actual voltage of battery
   // read the input on analog pin 0:
   int sensorValue = analogRead(A0);
-  double voltage = factor * sensorValue * 3.3 /1024;//latter factor is to turn a digital value into a voltage
+  double voltage = factor * sensorValue * 3.3 /1024;// 3.3/1024 is to convert to a voltage, where 3.3 is the max voltage the arduino can measure. (3.3 for Due, 5.0 for most others)
   // print out the value you read:
   Serial.println(voltage);
   delay(1);        // delay in between reads for stability
