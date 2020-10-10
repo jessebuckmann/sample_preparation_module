@@ -19,4 +19,4 @@ A load-switch and monitoring system will provide the safety and communication wi
 It is further expanded with a solar panel to charge the station remotely.
 
 ### Our first milestone
-![milstone](./documentation/images/milestone.jpeg)
+![milestone](./documentation/images/milestone.jpeg)
