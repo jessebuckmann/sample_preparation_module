@@ -10,7 +10,7 @@ The loads of the science station can in principle run on DC or AC current and at
 
 ### A comparison of different strategies
 
-in the scope of electronics, there are a thousand different ways to construct what you want, with additional options left and right.
+In the scope of electronics, there are a thousand different ways to construct what you want, with additional options left and right.
 We narrowed it down to three different categories.
 The two extremes are ready-made solutions and a full DIY plan of building the setup.
 In between is the use ready-made parts that fullfill certain sub-tasks with some hand-made solutions and connections.
@@ -19,7 +19,7 @@ A full list with examples of parts can be found [here](Comparison_powerbank_DIY.
 
 Ready-made solutions are easily available for small scale projects.
 Think of powerbanks with a solar panel attached that can be put on a backpack.
-These are intended to charge a phone or laptap while on a hike for instance.
+These are intended to charge a phone or laptop while on a hike for instance.
 The major advantage is that its a very simple solution, it provides a 5V USB output that is used by many small-scale devices and some of the more advanced powerbanks ever have 230V AC output.
 A disadvantage is that they are not modular at all, you get what you buy with very limited or no options to modify to your needs.
 In order to get more options, very expesive systems are required and even then are limited to 50W output power most of the time.
@@ -59,7 +59,7 @@ The 5V USB connection are the most convenient and widely used for small electron
 Some other devices might need a higher voltage or even an alternating current.
 This is easier to achieve with a 12V lead-acid battery, as it can suffice a higher output power.
 
-The next step is a way to charge both the batteries independantly of the grid.
+The next step is a way to charge both the batteries independently off the grid.
 A solar panel can supply power anywhere it is, even some at cloudy days.
 Each battery has its own pattern of charging.
 Luckily, 12V lead-acid batteries are commonly combined with solar panels as off-grid or self-sustaining setups.
@@ -164,8 +164,8 @@ The goal is to use this to keep an eye on the battery capacity and send a messag
 
 | Quantitiy | Result |
 | --- | --- |
-| battery voltage |  - |
-| solar panel open-circuit voltage| - | 
+| battery voltage |  12.0-13.8 V |
+| solar panel open-circuit voltage| depends on irradiation | 
 | powerbank current | (1.01 +- 0.01) A |
 | stand-by current DC/DC | (0.05 +- 0.01) A |
 | R1 | 19.9 kOhm |
@@ -173,4 +173,9 @@ The goal is to use this to keep an eye on the battery capacity and send a messag
 
 
 ## outlook (what can be improved)
-- switches
+
+The voltage measurement using the Arduino can be expanded.
+By choosing a minimal and maximal voltage value informed by the discharge characteristic of the [datasheet](https://asset.conrad.com/media10/add/160267/c1/-/en/000250916DS01/datablad-250916-conrad-energy-12-v-12-ah-loodaccu-12-v-12-ah-loodvlies-agm-b-x-h-x-d-151-x-95-x-98-mm-kabelschoen-635-mm-onderhouds.pdf) one can infer wether the battery is over– or discharged or malfunctioning in another manner.
+This can then either be displayed in the science station software GUI and dealt with by the user by manually switching off the loads or an automatic load switch can be implemented.
+Swtiches in general would improve the flexibility of the power supply.
+They would enable (dis–)connecting any desired device in the circuit which is right now hard–wired.
