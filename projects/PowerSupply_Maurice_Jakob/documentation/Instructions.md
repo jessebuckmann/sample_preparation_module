@@ -10,7 +10,7 @@
 
 ### Step 1: Set up Charge controller
 1. Put the Charge controller (CC) in an upright position (see picture)
-[picture]
+![picture](./images/ChargeController.jpg)
 2. Connect the battery to the CC by first connecting the red cable (containing a fuse) to the positive pole of the CC, then the black to the negative.
 3. In the same order, connect the solar panel to the CC.
 Use the solar cable with MC4 connectors attached to one side.
