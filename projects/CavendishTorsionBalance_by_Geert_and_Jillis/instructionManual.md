@@ -4,7 +4,7 @@ This document assumes the reader has read the [context and theory](https://git.s
 The setup consists of 3 main parts; the torsion balance, the control mechanism and the detection suite.
 
 ## Torsion balance
-The torsion balance consists of a round baseplate, a turningtable with holders for large balls, an insulated holder for the torsion balance and the torsion balance itself. The holder can be rotated at the base for finetuning. In the holder a Halter(or barbell) is suspended by a thin rectangular wire. This can be adjusted in height and angle at the top. **If it is necessary to adjust with this part of the setup, please be extremely careful.** It is a quite delicate piece of equipment, the wire is valuable and easily broken. During the measurement it should not be necessary to interface directly with any of these components torsion balance. 
+The torsion balance consists of a round baseplate, a turningtable with holders for large balls, an insulated and grounded holder for the torsion balance and the torsion balance itself. The holder can be rotated at the base for finetuning. In the holder a Halter(or barbell) is suspended by a thin rectangular wire. This can be adjusted in height and angle at the top. **If it is necessary to adjust with this part of the setup, please be extremely careful.** It is a quite delicate piece of equipment, the wire is valuable and easily broken. During the measurement it should not be necessary to interface directly with any of these components torsion balance. 
 
 ## Control mechanism
 The setup is controlled by a continuous servo attached to an Arduino Due.
