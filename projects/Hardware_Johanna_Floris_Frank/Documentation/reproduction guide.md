@@ -1,10 +1,15 @@
+**General remarks**
+
+- Since this projects is basically just connecting some Arduino's with some wires and running sketches on there, there are no special safety concerns inherent to the set-up
+- Necesarry items are all found in our project box (along with a few redundant items you can leave in peace).
+
 **Setting up Arduino software**
 
 - If you haven't already, download the Arduino [IDE](https://www.arduino.cc/en/Main/Software) software for your relevant operating system
 - Open the Arduino program. Within the program, open the library manager (sketch -> include library -> manage library, or press Ctrl+Shift+I), look for the Adafruit_BME280 library
 - Install the Adafruit_BME280 library. The program should request to also install other libraries necessary for the Adafruit_BME280 library to function. Accept this request.
 - Check if the Wire, SoftwareSerial and Adafruit_Sensor libraries are installed. The first two should be installed by default, the last one should be included if you have correctly followed the previous step. If any of them are, for some reason, not yet installed, do so.
-- The links in this document link to Arduino sketches directly. In our experience, Arduino sketches need to be saved in a separate folder with the same name as the sketch itself (except for the .io format denoter) for them to work.
+- The links in this document link to Arduino sketches directly. In our experience, Arduino sketches need to be saved in a separate folder with the same name as the sketch itself (except for the .ino format denoter) for them to work.
 
 **Hardware required**
 
