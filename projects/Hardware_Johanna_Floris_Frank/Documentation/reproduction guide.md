@@ -14,7 +14,7 @@
 **Hardware required**
 
 - Two Arduino UNO (other Arduino types would work, but the connection pins will be different than described here) with USB connecting cables
-- Breadboard
+- Breadboard (For absolute certainty: to connect two wires, they must be placed in the same row of the breadboard)
 - GybMep BME/BMP280 sensor
 - Connecting wires
 - PC with USB port (preferably 2, but one is also possible)
