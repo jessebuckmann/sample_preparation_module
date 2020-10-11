@@ -10,8 +10,8 @@
 In this subproject considerations and the design of a power supply that suffices for the needs required are made.
 The goals of this project are briefly presented in the [canvas](./documentation/project_canvas_ps.pptx) and further elaborated in this [report](./documentation/report_context_theory.md).
 
-A comparison between different levels of DIY can be found [here](./documentation/Comparison_powerbank_DIY.md).
-Where the major difference is the level of knowledge regarding electronics required to build it.
+To settle on the right approach a comparison between different levels of DIY was made which can be found [here](./documentation/Comparison_powerbank_DIY.md).
+The major difference is the level of knowledge regarding electronics required to build it.
 
 A current list of parts for this project can be found [here](./documentation/list_of_components.md).
 The current plan consist of a powerbank (5V), 12V lead acid and inverter to provide all the needs specified.
