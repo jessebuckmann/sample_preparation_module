@@ -17,9 +17,9 @@
 
 - If you do not receive a signal following these instructions, it is possible this is due to a non-function wire. This can be checked using a multimeter with two cables with alligator clip connections attached. With the multimeter in diode mode and the clips are not into contact, the multimeter should read a voltage of typically 2-3 V. Clamping each connecting end of the wire in one of the clips, the voltage difference should vanish (like what happens if you directly hold the clamps together). If it doesn't 
 
-Single master-single slave text-based I2C communication via analog ports
+**Single master-single slave text-based I2C communication via analog ports**
 - If you only have a single USB port, connect the 5V power output pin on your master Arduino with the Vin pin on the slave Arduino
 
-Multi-slave single-master set-up for receiving seperate text-based messages and sensor data
+**Multi-slave single-master set-up for receiving seperate text-based messages and sensor data**
 
-Single master-single slave text-based I2C communication via digital ports
+**Single master-single slave text-based I2C communication via digital ports**
