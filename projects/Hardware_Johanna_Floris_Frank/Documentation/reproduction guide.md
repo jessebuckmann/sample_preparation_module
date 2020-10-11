@@ -3,7 +3,8 @@
 - If you haven't already, download the Arduino [IDE](https://www.arduino.cc/en/Main/Software) software for your relevant operating system
 - Open the Arduino program. Within the program, open the library manager (sketch -> include library -> manage library, or press Ctrl+Shift+I), look for the Adafruit_BME280 library
 - Install the Adafruit_BME280 library. The program should request to also install other libraries necessary for the Adafruit_BME280 library to function. Accept this request.
-- Check if the Wire, SoftwareSerial and Adafruit_Sensor libraries are installed. The first two should be installed by default, the last one should be included if you have correctly followed the previous step. If any of them are not installed, do so.
+- Check if the Wire, SoftwareSerial and Adafruit_Sensor libraries are installed. The first two should be installed by default, the last one should be included if you have correctly followed the previous step. If any of them are, for some reason, not yet installed, do so.
+- The links in this document link to Arduino sketches directly. In our experience, Arduino sketches need to be saved in a separate folder with the same name as the sketch itself (except for the .io format denoter) for them to work.
 
 **Hardware required**
 
@@ -22,8 +23,8 @@
 - Pick one Arduino as the slave, the other as the master
 - Connect the (analog) ground pins and the analog A4 and A5 pins on one Arduino to the same pins on the other Arduino
 - Open the [master sketch](link) and the [slave sketch](link), verify them (the v on the top left) and upload to the relevant Arduino (the arrow next to the verify button). The USB port to which the program is uploaded can be changed under tools -> port, and checked on the bottom right.
-- Read out the master by opening the Serial monitor under tools, or press Ctrl + Shift + M (be sure you select the correct baud rate, which is given in the Arduino sketch)
-- Feel free to change around the delay in the master sketch or the print message in the slave sketch 
+- Read out the master by opening the Serial monitor under tools, or press Ctrl + Shift + M (be sure you select the correct baud rate, which is given in the Arduino sketch as an argument of the Serial.begin() functionality, typically set at 9600)
+- Feel free to change around the delay in the master sketch or the print message in the slave sketch. After updating, the altered sketch (naturally) has to be verified and uploaded to the corresponding Arduino again.
 - If you only have a single USB port, connect the 5V power output pin on your master Arduino with the Vin pin on the slave Arduino. Use the one USB port to first upload the slave sketch, and then connect the master to the USB port to power it, upload the master sketch and read out the master output.
 
 **Multi-slave single-master set-up for receiving seperate text-based messages and sensor data**
