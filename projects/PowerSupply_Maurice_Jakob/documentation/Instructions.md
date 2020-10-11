@@ -178,4 +178,5 @@ The voltage measurement using the Arduino can be expanded.
 By choosing a minimal and maximal voltage value informed by the discharge characteristic of the [datasheet](https://asset.conrad.com/media10/add/160267/c1/-/en/000250916DS01/datablad-250916-conrad-energy-12-v-12-ah-loodaccu-12-v-12-ah-loodvlies-agm-b-x-h-x-d-151-x-95-x-98-mm-kabelschoen-635-mm-onderhouds.pdf) one can infer wether the battery is over– or discharged or malfunctioning in another manner.
 This can then either be displayed in the science station software GUI and dealt with by the user by manually switching off the loads or an automatic load switch can be implemented.
 Swtiches in general would improve the flexibility of the power supply.
-They would enable (dis–)connecting any desired device in the circuit which is right now hard–wired.
+They would enable (dis–)connecting any desired device in the circuit without the need of (un)screwing connections.
+This would greatly improve overall usage of the system within the science station.
