@@ -27,5 +27,10 @@
 - If you only have a single USB port, connect the 5V power output pin on your master Arduino with the Vin pin on the slave Arduino. Use the one USB port to first upload the slave sketch, and then connect the master to the USB port to power it, upload the master sketch and read out the master output.
 
 **Multi-slave single-master set-up for receiving seperate text-based messages and sensor data**
+- Connect the two Arduino's as in the previous subsection
+- Using the breadboard, connect SDA, SCL, Vin and GND (ground) of the BME/BMP280 sensor to the SDA, SCL 5V and GND pins on the master Arduino
+- Open the [master sketch](link) and the [slave sketch](link), verify them (the v on the top left) and upload to the relevant Arduino (the arrow next to the verify button). The USB port to which the program is uploaded can be changed under tools -> port, and checked on the bottom right.
+- Read out the master by opening the Serial monitor under tools, or press Ctrl + Shift + M (be sure you select the correct baud rate, which is given in the Arduino sketch)
+- Feel free to again change the master delay or the slave message, or to rub you hands and touch the sensor to see the temperature rise
 
 **Single master-single slave text-based I2C communication via digital ports**
