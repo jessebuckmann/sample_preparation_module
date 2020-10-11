@@ -1,4 +1,4 @@
-This document assumes the reader has read the [context and theory](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/CavendishTorsionBalance_by_Geert_and_Jillis/ContextAndTheory.md) file, and thus knows roughly the aim of the experiment and has some idea of the setup.
+This document assumes the reader has read the [context and theory](ContextAndTheory.md) file, and thus knows roughly the aim of the experiment and has some idea of the setup.
 
 # Setup
 The setup consists of 3 main parts; the torsion balance, the control mechanism and the detection suite.
@@ -8,7 +8,7 @@ The torsion balance consists of a round baseplate, a turningtable with holders f
 
 ## Control mechanism
 The setup is controlled by a continuous servo attached to an Arduino Due.
-The Arduino needs an external power source, as the servo needs a higher voltage than USB can provide. It is necessary to first connect the power source and **then** connect the USB to the Arduino. Otherwise the wrong power supply is used. On the Arduino a program can be run to control the position of the turningtable with the big masses. ADD LINK TO PROGRAM
+The Arduino needs an external power source, as the servo needs a higher voltage than USB can provide. It is necessary to first connect the power source and **then** connect the USB to the Arduino. Otherwise the wrong power supply is used. On the Arduino a [program](Arduino_Controll) can be run to control the position of the turningtable with the big masses.
 
 <img src="./Images/schematicController.png"  width="750"> 
 
@@ -16,24 +16,35 @@ The Arduino needs an external power source, as the servo needs a higher voltage 
 The detection suite comprises a laser, a lightposition detector, a modulator and amplifier and the Digilent Analog Discovery 2. 
 The laser and detector are connected to the modulator to isolate the signal from other light effects which might be picked up by the detector. 
 The outputs of the modulator are connected to the oscilloscope channels on the Digilent Analog Discovery 2.
-To read out the signal of the oscilloscope it is necessary to download either the [Waveforms package from Digilent](https://store.digilentinc.com/waveforms-download-only/) or the package that is being written by the [Software group](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno).
+To read out the signal of the oscilloscope it is necessary to download either the [Waveforms package from Digilent](https://store.digilentinc.com/waveforms-download-only/) or the package that is being written by the [Software group](../SoftwareDesign_by_Nikita_Ravi_and_Jonno). The modulator outputs two voltages which are based on the position of the brightest spot on the detector.
 
-### measurements
+<img src="./Images/schematicMeasurer.png"  width="750"> 
+
+## measurements of the setup
 | part | measure |
 | ------ | ------ |
 | small balls | 6.33 g and 6.29 g |
 | big balls | 1214.0 g and 1214.8 g |
 | full barbell (including mirror, balls, rod, connector to wire, ...) | 31.7 g |
-| barbell length | 12 cm? |
+| barbell length | 12 cm |
 | diameter big balls | 5.09 cm |
 | Thickness box | 3.75 cm |
 | distance box - dectector | 17.2 cm |
-
-<img src="./Images/schematicMeasurer.png"  width="750"> 
 
 
 # Method
 To find a value for G it is needed to measure 2 values of the rest angle $`\phi_0`$,
  one where the balls are both clockwise close to the balance and one where the balls are counterclockwise close to the balance.
-From the difference in these equilibrium positions the torque of the gravitational force can be inferred. The torsion constant is determined by measuring the oscillation frequency of the halter.
+From the difference in these equilibrium positions the torque of the gravitational force can be inferred. The torsion constant is determined by measuring the oscillation frequency of the halter.  
+For this several steps need to be taken;
+1. Align the reflected laser onto the detector (if not already done)
+2. Make sure the big masses/balls are in the center between the two extreme positions
+3. Connect both the Arduino and the Analog Discovery 2 to a computer
+4. Start the Waveforms software and the [Arduino program](Arduino_Controll)
+5. Start the measurement in the Waveforms software
+6. Move the balls to one of the extremes using the Arduino
+7. Wait for about one hour
+8. Move the balls to the opposite extreme
+9. Repeat steps 7.  and 8. several times
+10. Stop the measurement and fit the model given in the [theory](ContextAndTheory.md) to the data collected. It might be beneficial to divide the two output channels to lower the noise in the signal.
 
