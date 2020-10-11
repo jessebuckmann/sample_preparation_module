@@ -8,4 +8,4 @@ The turningtable is controlled by sending single characters to the arduino; E, L
 - S will turn the turningtable from the neutral position to one of the measurement positions
 - E will turn the turningtable from one of the measurement positions to the neutral position
 - L or R will turn the turningtable from one to the other measurement position
-- l and r will turn the turningtable slightly in the same direction as L and R respectively
+- l or r will turn the turningtable slightly in the same direction as L and R respectively
