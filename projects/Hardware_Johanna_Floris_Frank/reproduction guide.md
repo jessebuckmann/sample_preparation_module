@@ -34,3 +34,8 @@
 - Feel free to again change the master delay or the slave message, or to rub you hands and touch the sensor to see the temperature rise
 
 **Single master-single slave text-based I2C communication via digital ports**
+- Cross-connected digital pins 2 and 3 on both Arduino's (so one wire from pin 2 on Arduino one tp pin 3 in Arduino 2, and vice versa)
+Open the [master sketch](link) and the [slave sketch](link), verify them (the v on the top left) and upload to the relevant Arduino (the arrow next to the verify button). The USB port to which the program is uploaded can be changed under tools -> port, and checked on the bottom right.
+- Read out the master by opening the Serial monitor under tools, or press Ctrl + Shift + M (be sure you select the correct baud rate, which is given in the Arduino sketch)
+
+**Is it necessary to describe the (analog) Arduino-Arduino-Sensor coupling?**
