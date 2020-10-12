@@ -21,4 +21,8 @@ Team Maurice, Jakob
 ### on Readme (timestamp: 7/10/2020 ~16h)
 ⭐⭐⭐☆☆
 very nice minimalist readme, good to see links are there. it is a bit dry for an openning page.
-I could not find any highlights that keeps me engaged. It seems to be set up for a very specific reader and the rest, I imagine, might feel a bit unwelcome.  
+I could not find any highlights that keeps me engaged. It seems to be set up for a very specific reader and the rest, I imagine, might feel a bit unwelcome.
+
+### on Instruction (timestamp: 12/10/2020 ~15h)
+⭐⭐☆☆☆
+The instructions are easy to find and are very extensive instructions. Mentioning the design philosophy was perhaps not needed to achieve reproducibility but gave a nice touch. Without a full list of components, reproducing might be hard. The safety considerations section could have been expanded a bit more. For example; no consideration is given to the solar panel and the power it generates while exposed to sunlight and no voltage was mentioned which makes it hard for the starting user to gauge whether there is any danger.
