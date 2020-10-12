@@ -66,6 +66,7 @@ It is not accomplished because the data from the sensor could not reach the seco
 4.	What do you recommend to the project owners to improve their complete package?  
 It seems that the problem in the Hybrid codes comes from the fact that a float-type has to be cast to a byte-type and this is not done explicitly.
 It might be that [this](https://forum.arduino.cc/index.php?topic=577373.0) web-page can help with this.
+The master arduino does send output when wiring incorrectly (SCL-A4 slave-A4 master, SDA-A5 slave-A5 master), maybe this helps in solving the problem, it did not send output when wiring correctly, as indicated by one of the owners of the project.
 It would be nice to create a wiring diagram/pictures of the final setup.
 It would be nice to include some documentation for people who did not yet work with an Arduino yet.
 
