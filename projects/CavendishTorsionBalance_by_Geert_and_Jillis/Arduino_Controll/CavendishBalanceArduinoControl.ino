@@ -14,7 +14,6 @@ int stateBalls = 0;   // 0 for center, 1 for fully left, -1 for fully right
 
 void setup()
 {
-  smallServo.attach(2);
   bigServo.attach(3);
   // Open serial communications and wait for port to open:
   Serial.begin(9600);

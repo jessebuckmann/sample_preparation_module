@@ -1,5 +1,7 @@
 This document assumes the reader has read the [context and theory](ContextAndTheory.md) file, and thus knows roughly the aim of the experiment and has some idea of the setup.
 
+**The setup is placed on a optical table. This is to minimize the amount of interference of vibrations in the environment. To preserve your sanity, do not touch the optical table (while measuring, nor at any other moment) unless your are sure you need to realign the laser.**
+
 # Setup
 The setup consists of 3 main parts; the torsion balance, the control mechanism and the detection suite.
 
@@ -26,10 +28,12 @@ To read out the signal of the oscilloscope it is necessary to download either th
 | small balls | 6.33 g and 6.29 g |
 | big balls | 1214.0 g and 1214.8 g |
 | full barbell (including mirror, balls, rod, connector to wire, ...) | 31.7 g |
-| barbell length | 12 cm |
+| barbell length | (12.0 ± 0.2) cm |
 | diameter big balls | 5.09 cm |
-| Thickness box | 3.75 cm |
-| distance box - dectector | 17.2 cm |
+| Thickness box | (3.0 ± 0.1) cm |
+| distance box - dectector | (25.0 ± 0.5) cm | 
+ 
+Other uncertainties are 0.5 times the last digit given.
 
 
 # Method
@@ -40,11 +44,12 @@ For this several steps need to be taken;
 1. Align the reflected laser onto the detector (if not already done)
 2. Make sure the big masses/balls are in the center between the two extreme positions
 3. Connect both the Arduino and the Analog Discovery 2 to a computer
-4. Start the Waveforms software and the [Arduino program](Arduino_Controll)
-5. Start the measurement in the Waveforms software
-6. Move the balls to one of the extremes using the Arduino
+4. Start and setup the [Waveforms software](WaveformsSetup.md) and the [Arduino program](Arduino_Controll)
+5. Move the balls to one of the extremes using the Arduino
+6. Start a new measurement in the Waveforms software
 7. Wait for about one hour
-8. Move the balls to the opposite extreme
-9. Repeat steps 7.  and 8. several times
-10. Stop the measurement and fit the model given in the [theory](ContextAndTheory.md) to the data collected. It might be beneficial to divide the two output channels to lower the noise in the signal.
+8. Store the data from the Waveforms software
+9. Move the balls to the opposite extreme
+10. Repeat steps 6. through 9. several times
+11. Fit the model given in the [theory](ContextAndTheory.md) to the data collected. It might be beneficial to divide the two output channels to lower the noise in the signal.
 
