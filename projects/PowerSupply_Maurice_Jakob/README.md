@@ -19,7 +19,7 @@ A load-switch and monitoring system will provide the safety and communication wi
 It is further expanded with a solar panel to charge the station remotely.
 
 How to put everything together is documented in the [instructions](./documentation/Instructions.md). 
-There is also a separate [documentation](./documentation/Arduino/Arduino_Instructions.md) about monitoring the battery voltage.
+There is also a separate [documentation](./documentation/Arduino/Arduino_Instructions.md) about monitoring the battery voltage with the use of an arduino.
 
 ### Our first milestone
 ![milestone](./documentation/images/milestone.jpeg)

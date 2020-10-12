@@ -168,8 +168,8 @@ The goal is to use this to keep an eye on the battery capacity and send a messag
 | solar panel open-circuit voltage| depends on irradiation | 
 | powerbank current | (1.01 +- 0.01) A |
 | stand-by current DC/DC | (0.05 +- 0.01) A |
-| R1 | 19.9 kOhm |
-| R2 | 4.7 kOhm |
+| R1 | 19.902 kOhm |
+| R2 | 4.717 kOhm |
 
 
 ## outlook (what can be improved)
