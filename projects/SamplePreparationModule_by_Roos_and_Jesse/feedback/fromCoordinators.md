@@ -20,3 +20,7 @@ Team Roos, Jesse
 good that contributors are clear and some elements of the plan are identified.
 dissapoiting a bit for the reader who want so engage, as if she is not welcome to read further!
 what can the reader gain from engaging? why did you choose these goals? are you excited at all about what you're doing. These are the question I asked myself when opening your folder and was left with no answer.  
+
+### on Instructions (timestamp: 12/10/2020 ~15h)
+⭐⭐☆☆☆
+Instructions are not so easy to find (not mentioned in the main project Readme). Documentation is spread along many files and it is not so easy to determine which the authors find the most important or to find a file that "covers it all". When some digging is done, there is a lot of files, both describing the building process and the instructions for use of the final product.
