@@ -32,9 +32,9 @@ First, notice that you have all the required items:
 
 1 Peltier with 1 heatsink 
 
-The box
+[The box](https://git.science.uu.nl/m.lekou/experiment-design-2020/-/blob/master/projects/TemperatureControl_by_Chris_and_Maria/Instructions/the_box.jpg) (the arrow shows where you can put the peltier)
 
-Extra Power Supply
+Extra [Power Supply](https://git.science.uu.nl/m.lekou/experiment-design-2020/-/blob/master/projects/TemperatureControl_by_Chris_and_Maria/Instructions/power_supply.jpg)
 
 Couple of Wires
 
@@ -98,7 +98,7 @@ Source connected with
 
 - Ground
 
-Also you will connect the two sides of Peltier with the Power Supply and you will turn it on to 12V
+Also you will connect the Power Supply with the drain of Mosfet 2 and Mosfet 3  and you will turn it on to 12V.
 
 [This](https://git.science.uu.nl/m.lekou/experiment-design-2020/-/blob/master/projects/TemperatureControl_by_Chris_and_Maria/Instructions/CoolingHeating.jpg) picture will help you have a better understanding of the above part.
 
