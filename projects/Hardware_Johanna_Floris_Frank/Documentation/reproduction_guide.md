@@ -6,7 +6,7 @@
 **Hardware required**
 
 - Two Arduino UNO (other Arduino types would work, but the connection pins will be different than described here) with USB connecting cables
-- 2 x Breadboard (For absolute certainty: to connect two wires, they must be placed in the same row of the breadboard)
+- Breadboard (For absolute certainty: to connect two wires, they must be placed in the same row of the breadboard)
 - GybMep BME/BMP280 sensor
 - Connecting wires
 - PC with USB port (preferably 2, but one is also possible)
@@ -45,8 +45,8 @@
 - Open the [BME sketch](https://git.science.uu.nl/experiment-design-2020/-/tree/master/projects/Hardware_Johanna_Floris_Frank/Arduino_code/BME.ino),
 
 *Multi-slave single-master set-up for receiving seperate text-based messages and sensor data*
-- Using the 1. breadboard: connect Vin and GND (ground) of the BME/BMP280 sensor directly to the 5V and GND pins on the slave Arduino.
-- Using the 2. breadboard: connect the  SDA, SCL from the sensor with the slave and further with the master SDA, SCL in one line.
+- Using the breadboard: connect Vin and GND (ground) of the BME/BMP280 sensor directly to the 5V and GND pins on the slave Arduino.
+- Using the breadboard: connect the  SDA, SCL from the sensor with the slave and further with the master SDA, SCL in one line.
 - Ground the slave to the master via the ground next to the SCL/SDA pins
 - Open the [master sketch](https://git.science.uu.nl/experiment-design-2020/-/tree/master/projects/Hardware_Johanna_Floris_Frank/Arduino_code/Hybrid_Master.ino) and the [slave sketch](https://git.science.uu.nl/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/Arduino_code/Hybrid_Slave.ino)
 
