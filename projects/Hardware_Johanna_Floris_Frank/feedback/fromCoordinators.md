@@ -19,3 +19,8 @@ Team Johanna, Frank, Floris
 ⭐⭐⭐☆☆
 Motivated me to read further and had at least one link how to get involved, but not all the elements were linked so I quickly got lost. The big picture of the project is there, but i cannot see any detail of where to start learning and what is the latest state.
 use of emoji's is 🔥 
+
+
+### on Instructions (timestamp: 12/10/2020 ~15h)
+⭐⭐⭐⭐☆
+Very point-by-point. Clear attention for safety considerations. Project seems to consist of 3 different parts which are discussed seperately. The required wiring is sometimes a bit vague. It was easy to find the instructions.
