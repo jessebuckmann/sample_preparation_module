@@ -1,6 +1,10 @@
 In this ReadMe-file, we will place the manual for our folders, as well as our experiments. 
 
-The purpose of our experiment was to be able to both see/filter out vibrations, as well as get/keep the experiment level.
+<img src = "Celebration_TheArt.jpeg" width="400" height= "400" >
+
+The purpose of our experiment was to be able to both see/filter out vibrations, as well as get/keep the experiment level (see our [canvas](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/Stabilization_by_Mark_and_Stijn/project_canvas_-_Stijn_Mark.pptx)).
+
+First off, before you start, we would advice you to get a cup of coffee. You got that? Good, time for the experiments then. 
 
 **Leveling:**
 We firstly thought that, in order to get the experiment level, we could use to yaw, pitch and roll (which is something the acceleromotor is able to measure). In the end, you'll find that there is a big problem with trying to do it this way, which is that it resets everytime you restart the acceleromotor. However, it's a good experiment to do, because you will find that this part of the acceleromotor is very precize. 
@@ -26,4 +30,16 @@ In our case, that something that creates vibrations became a bass-speaker. This 
 
 The Full Setup that we used can be found in the ["SetUp2"-folder](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master/projects/Stabilization_by_Mark_and_Stijn/TestRuns/AccelerationTest/SetUp). We als made a ["MaterialsUsed"-file](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/Stabilization_by_Mark_and_Stijn/TestRuns/MaterialsUsed.md) where you can find all the materials that we used.
 
-The rest of the data and graphs that we gained, can be found in the ["AccelerationTest"-folder](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master/projects/Stabilization_by_Mark_and_Stijn/TestRuns/AccelerationTest).
+The rest of the data and graphs that we gained, can be found in the ["RawSignals"-folder](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master/projects/Stabilization_by_Mark_and_Stijn/TestRuns/AccelerationTest/RawSignals) and the ["FFT"-folder](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master/projects/Stabilization_by_Mark_and_Stijn/TestRuns/AccelerationTest/FFT).
+
+
+**Hazards:**
+- If the people after us decide to also use a machinist’s division table (on the mill), keep in mind that you are working with heavy machinery. So first off, don't be drunk, but also make sure the machine is turned off when you are changing the settings manually.
+- Don't shake the acceleromotor to much (nor the arduino), since this is fine equipment. 
+- If you use a bass-shaker, keep in mind that it can vibrate off the worksurface, as well as overheat. 
+
+**Contact Information:**
+
+Stijn Helsloot, s.helsloot@students.uu.nl
+
+Mark Waterlaat, m.m.a.waterlaat@uu.nl
