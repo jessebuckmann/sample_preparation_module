@@ -2,7 +2,7 @@
 
 - Since this projects is basically just connecting some Arduino's with some wires and running sketches on there, there are no special safety concerns inherent to the set-up
 - Necesarry items are all found in our project box (along with a few redundant items you can leave in peace).
-- Here you can also find the ![Arduino Uno layout](https://git.science.uu.nl/experiment-design-2020/-/tree/master/projects/Hardware_Johanna_Floris_Frank/Documentation/Inkedarduino_LI.jpg)
+- Here you can also find the ![Arduino Uno layout](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/Documentation/Inkedarduino_LI.jpg)
 
 **Hardware required**
 
