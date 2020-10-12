@@ -33,8 +33,8 @@ The rotational equivalent of Newton's second law yields
 ```math
 I \frac{d^2\phi}{d t^2} = \sum\tau = -D(\phi-\phi_0) - B\frac{d\phi}{dt},
 ```
-here $`B`$ is the damping coefficient for the torsion balance. 
-Such that the solution is a damped oscilation
+here $`B`$ is the damping coefficient for the torsion balance, $`I`$ the moment of inertia.
+The solution is a damped oscilation
 ```math
 \phi(t) = A \exp{\left(-\frac{B}{2I}t\right)}\ \sin\left(\sqrt{\omega_0^2-\left(\frac{B}{2I}\right)^2}\right) + \phi_0.
 ```
