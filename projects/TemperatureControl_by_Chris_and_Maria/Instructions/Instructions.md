@@ -30,7 +30,11 @@ First, notice that you have all the required items:
 
 4 Mosfets
 
-1 Peltier
+1 Peltier with 1 heatsink 
+
+The box
+
+Extra Power Supply
 
 Couple of Wires
 
@@ -93,6 +97,8 @@ Gate connected with
 Source connected with
 
 - Ground
+
+Also you will connect the two sides of Peltier with the Power Supply and you will turn it on to 12V
 
 [This](https://git.science.uu.nl/m.lekou/experiment-design-2020/-/blob/master/projects/TemperatureControl_by_Chris_and_Maria/Instructions/CoolingHeating.jpg) picture will help you have a better understanding of the above part.
 
