@@ -19,15 +19,15 @@ Jillis and Roos
 
 3.	How helpful is the documentation for reproducing the measurement?
 
-*Not very helpful. The mention what they measured but not how.*
+*Not very helpful. They mention what they measured but not how. They also didn't mention where they got the setup.*
 
 4.	Did you get stuck at some point? What extra help did you need to proceed?
 
-*Yes, we got stuck in the first 15 minutes. First we had to ask where the components were. They didn't mention they borrowed most of their materials, and thus were not availlable to us. We came to the decision that we only wanted to test the accelerometer, but when we tried this we found out that there was no ready code in their project folder. We eventually needed their assistence and their computer to test the arduino accelerometer.*
+*Yes, we already got stuck in the first 15 minutes. First we had to ask where the components were. They didn't mention they borrowed most of their materials, so these were not availlable to us. We came to the decision that we only wanted to test the accelerometer, but when we tried this we found out that there was no ready code in their project folder. We eventually needed their assistence and their computer to test the arduino accelerometer.*
 
 5.	Are you guided to reproduce previous measurements? How easily could you navigate through the project documentation?
 
-*First of all, most of the essential components were missing. After communication we found out these components were borrowed from a staff member and were not availlable in short term. The only thing that was accesible was the arduino with the accelerometer, which was not used for their own experiment.
+*First of all, most of the essential components were missing. After communication we found out these components were borrowed from a staff member and were not availlable in short term. The only thing that was accesible was the arduino with the accelerometer, which was not used for their own experiment. They used a different accelerometer for their measurements that had to be returned quickly.
 When trying to get the arduino working, we found out there was no code in their project folder. They did reference a library but did not mention which files of the library they used. They did not give any instructions on how they got the arduino working. In the end we used one of their laptops to test the accelerometer.
 The project documentation was badly organised. Important documents were not easily accesible. The instruction on how to use the setup and the code were missing.* 
 
@@ -39,7 +39,7 @@ The project documentation was badly organised. Important documents were not easi
 
 1.	Can you operate the setup with the provided instructions? 
 
-*No. The instructions on how to operate the setup were not included. Let alone the setup itself or how to make it. Pictures alone do not suffice.*
+*No. The instructions on how to operate the setup were not included, let alone the setup itself or how to make it. Pictures alone do not suffice.*
 
 2.	How close were the results you obtain to the previously reported results?
 
@@ -51,7 +51,7 @@ The project documentation was badly organised. Important documents were not easi
 
 4.	Is the setup robust and safe to operate? 
 
-*We don't know because the setup was not availlable to us.*
+*We don't know this because the setup was not availlable to us.*
 
 5.	Did you encounter any issues? Could you troubleshoot those without contacting the owners?
 
@@ -59,7 +59,7 @@ The project documentation was badly organised. Important documents were not easi
 
 6.	What part of the measurement procedure did you appreciate most?
 
-*The only thing we did was test the arduino. It was nice to see the position of the accelerometer change in real time but we soon reaslized the accelerometer was not sensitive enough, which was a big dissapointment.*
+*The only thing we did was test the arduino. It was nice to see the position of the accelerometer change in real time but we soon realized the accelerometer was not sensitive enough, which was a big dissapointment.*
 
 ### Interactions:
 
@@ -69,7 +69,7 @@ The project documentation was badly organised. Important documents were not easi
 
 2.	Which instructions did you need from the owners on top of the written files?
 
-*We needed to know where the rest of the setup was, who they contacted to do their measurements, where they found the code and how they used it. *
+*We needed to know where the rest of the setup was, who they contacted to do their measurements, where they found the code and how they used it.*
 
 3.	Does the experiment accomplish its stated purpose?
 
@@ -77,7 +77,8 @@ The project documentation was badly organised. Important documents were not easi
 
 4.	What do you recommend to the project owners to improve their complete package?
 
-*In order to get the experiment working, they could buy a more sensitive accelerometer. However, we can imagine this is expensive and takes too long. We reccomend applying the acoustic isolation foam to the modular experiment box to try to eliminate as much of the noise as possible, even though we don't know how effective this will be.*
+*In order to get the experiment working, they could buy a more sensitive accelerometer. However, we can imagine this is expensive and takes too long. We reccomend applying the acoustic isolation foam to the modular experiment box to try to eliminate as much of the noise as possible, even though we don't know how effective this will be. 
+We also reccomend to add more structure to your repository. Make some more directories and also add more descriptive files.*
 
 
 
