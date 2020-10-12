@@ -65,9 +65,12 @@ Mikita, Floris
 |inside hood right below fan| 0.66|0.40|
 |inside hood side of fan| 0.52|(4)|
 
-(1) We did not feel comfortable taking the ductape off, so this measurement was not repeated. Also not clear where in the box.
+(1) We did not feel comfortable taking the ductape off, so this measurement was not repeated. 
+
 (2) Instructions not clear if the window is to be open or to be closed during measurements
+
 (3) Sensor not present
+
 (4) Location not clear
 
 3.	Can you understand and explain the analysis procedure to a third person?
