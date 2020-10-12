@@ -11,7 +11,7 @@
 
 | Component | Models | Remarks |
 | ------ | ------ | ------ |
-| Power bank | [1](https://www.conrad.nl/p/anker-powercore-26800-powerbank-li-ion-26800-mah-a1277011-1672847) | - |
+| Power bank | [powerbank](https://www.conrad.nl/p/anker-powercore-26800-powerbank-li-ion-26800-mah-a1277011-1672847) | - |
 | 12V lead battery | [12 aH](https://www.conrad.nl/p/conrad-energy-12-v-12-ah-loodaccu-12-v-12-ah-loodvlies-agm-b-x-h-x-d-151-x-95-x-98-mm-kabelschoen-635-mm-onderhouds-250916) | - |
 | 20A fuse | 2x [holder](https://www.conrad.nl/p/tru-components-tc-r3-32b1-zekeringhouder-geschikt-voor-buiszekering-63-x-32-mm-20-a-32-vdc-1-stuks-1587916) + 6x [fuse](https://www.conrad.nl/p/eska-140031-buiszekering-x-l-63-mm-x-32-mm-20-a-32-v-snel-f-inhoud-1-stuks-527658) | - |
 
@@ -34,9 +34,9 @@
 
 ### Solar
 
-| Component | Models | Remarks |
+| Component | Models | Remarks | 
 | ------ | ------ | ------ |
 | cell | cell | cell |
 | Solar panel |  [solar outlet](https://www.solar-outlet.nl/q-cells-duo-320-black.html) + [set MC4 connector](https://www.solar-outlet.nl/mc4-connector-set.html) | - |
-| Charging controller | [1](https://www.conrad.nl/p/steca-solarix-prs-2020-solar-laadregelaar-serie-12-v-24-v-20-a-110704) | 48V to 12V converter and charge controller for lead-acid battery |
-| DC/DC converter | [1](https://www.conrad.nl/p/dcdc-omvormers-mean-well-sd-15a-5-3-a-1292699) | 12V to 5V converter |
+| Charging controller | [solar CC](https://www.conrad.nl/p/steca-solarix-prs-2020-solar-laadregelaar-serie-12-v-24-v-20-a-110704) | 48V to 12V converter and charge controller for lead-acid battery |
+| DC/DC converter | [converter](https://www.conrad.nl/p/dcdc-omvormers-mean-well-sd-15a-5-3-a-1292699) | 12V to 5V converter |

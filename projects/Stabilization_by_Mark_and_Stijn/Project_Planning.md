@@ -13,3 +13,5 @@ The different setups that we are going to test are:
 - Any other combination
 
 Week 05-11: Lot of typing will be done today. We can't really do an experiment, cause we took down the system. However, we would like to test if we can actually send our gained data to the other systems (software and hardware).
+
+Week 12-11: Finalizing the final step, which is to finish up so that the next team can try to reproduce our results.

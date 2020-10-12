@@ -11,14 +11,14 @@ The following concentrations have been measured:
 - 50 % obtained by adding 5ml of acid (100 %) to 5ml of demiwater.
 - 100 % taken from container that is available in the lab.
 Note that the percentages here are based on the concentration that is available in the lab. We have used the standard university concentrations which are about 40 %, according to the lab assistant.
-Prepare the samples by using a Finn pipet. For instructions on how to use a Finn pipet click [here](https://git.science.uu.nl/j.i.buckmann/experiment-design-2020/-/blob/master/projects/SamplePreparationModule_by_Roos_and_Jesse/peer_instructions/intructions.md) Keep in mind to always add the acid to the water and before dropping it onto the wood stir it with a pasteur pipet (simpler version of a Finn pipet). Take a clean pasteur pipet after each time you dripped some acid onto the wood to avoid messing up your concentrations.
+Prepare the samples by using a Finn pipet. For instructions on how to use a Finn pipet click [here](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SamplePreparationModule_by_Roos_and_Jesse/peer_instructions/intructions.md) Keep in mind to always add the acid to the water and before dropping it onto the wood stir it with a pasteur pipet (simpler version of a Finn pipet). Take a clean pasteur pipet after each time you dripped some acid onto the wood to avoid messing up your concentrations.
 Also leave these samples on the wood for approximately 5 minutes and the remove them with an pasteur pipet.
 
-Finally [aqua regia](https://git.science.uu.nl/j.i.buckmann/experiment-design-2020/-/blob/master/projects/SamplePreparationModule_by_Roos_and_Jesse/peer_instructions/intructions.md) has been prepared and dropped onto the wood. This has only been done for the 100 % concentration, since it contains both Nitric and Hydrochloric acid.
+Finally [aqua regia](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SamplePreparationModule_by_Roos_and_Jesse/peer_instructions/intructions.md) has been prepared and dropped onto the wood. This has only been done for the 100 % concentration, since it contains both Nitric and Hydrochloric acid.
 
 ### Conclusion
 #### Visual
-When looking at the wood after 24 hours we can only see damage where 100 % Nitric acid and Aqua Regia have been. These were also already visible after having the acid on the coating for 24 hours. In the [picture](https://git.science.uu.nl/j.i.buckmann/experiment-design-2020/-/blob/master/projects/SamplePreparationModule_by_Roos_and_Jesse/Photos/results_acid_test.jpg) the damage is also visible.
+When looking at the wood after 24 hours we can only see damage where 100 % Nitric acid and Aqua Regia have been. These were also already visible after having the acid on the coating for 24 hours. In the [picture](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SamplePreparationModule_by_Roos_and_Jesse/Photos/results_acid_test.jpg) the damage is also visible.
 
 #### Feel test
 None of the Hydrochloric acid concentrations had any effect on the coating. For the Nitric acid only the 100 % feels slightly different. It feels a bit smoother. Ethanol didn't have an effect on the coating, nor did toluene. For acetone it is hard to say, the wood feels slightly smoother here, which may be the result of the test, but it may also just be a smoother area. 
