@@ -4,6 +4,8 @@ Set the board/port dropdown to "Arduino Due" and open the Serial Monitor from th
 You can send the code to the arduino by clicking on the arrow next to the board/port dropdown, the arduino will send a "hello world" message when the initiallization has worked.
 More information on the arduino web editor can be found [here](https://create.arduino.cc/projecthub/Arduino_Genuino/getting-started-with-arduino-web-editor-on-various-platforms-4b3e4a)
 
+
+The controller assumes the balls are in a neutral position at the start, they are midway between both measurement positions.
 The turningtable is controlled by sending single characters to the arduino; E, L, R, S, l and r.
 - S will turn the turningtable from the neutral position to one of the measurement positions
 - E will turn the turningtable from one of the measurement positions to the neutral position
