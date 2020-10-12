@@ -17,8 +17,13 @@ BIMBO can only be run once per spyder instance, only restarting spyder enables t
 replugging arduino does the job as well, or use a different IDE. Doesn't happen on MAC
 
 the fixes for arduino read-out are using: 
+
 In command prompt: 
+
 ls /dev/*
+
 To find the com port in the form /dev/tty.usbmodem* where * is the number. 
+
 Change in the ArduinoWidget line 17: 
+
 arduinoData = serial.Serial(port='/dev/tty.usbmodem14201', baudrate=9600)  #Rename the 'COMX' here to whatever COM is used by your device.
