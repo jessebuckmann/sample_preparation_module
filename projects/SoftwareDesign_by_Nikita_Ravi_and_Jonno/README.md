@@ -20,7 +20,7 @@ The files in the main directory will be updated as we progress in our work and t
 
 The [program specifications](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/ProgramSpecifications.md) file is the table of components of our program with detailed requirements for each of them. If you want to see more functionality of any component, contact us.
 
-If people working on other parts of the project want to see what do we need from them, it is written in the [Canvas file:resources required section](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Canvas.md#resources-required) as well as the other problems we want to tackle. Also in the Programs forder there is a [CONTRIBUTING](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs/CONTRIBUTING.md) file on how to contribute.
+If people working on other parts of the project want to see what do we need from them, it is written in the [Canvas file:resources required section](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Canvas.md#resources-required) as well as the other problems we want to tackle. Also in the Programs folder there is a [CONTRIBUTING](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs/CONTRIBUTING.md) file on how to contribute. A list of features to be implemented in the future is also there.
 
 Btw, if someone is interested what exactly we are doing and what our plans are, [Project goals](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Project_goals.md) file is your first place to go.
 

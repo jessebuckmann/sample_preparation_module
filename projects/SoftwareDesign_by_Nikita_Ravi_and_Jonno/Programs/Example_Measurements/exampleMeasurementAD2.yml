@@ -1,0 +1,44 @@
+ao:
+  1:
+    lower_limit: -5.4
+    name: Channel 1
+    upper_limit: 5.4
+  2:
+    lower_limit: -5.4
+    name: Channel 2
+    upper_limit: 5.4
+config_file: ./config.yml
+monitor:
+  time_step: 0.05
+  plot_points: 110
+  1:
+    name: AI Channel 1
+    xlabel: time
+  2:
+    name: AI Channel 2
+  gui_refresh_time: 0.01
+  text_update_time: 0.5
+  stop_timeout: 1
+scan:
+  ai_channel: 2
+  ai_channel1: 1
+  ai_channel2: 2
+  ao_channel: 2
+  duration: 10.0
+  filename: C:\Users\nikza\Desktop\something.csv
+  gui_refresh_time: 0.01
+  integration_time: 0.1
+  stabilize_time: 0.001
+  start: 0
+  step: 0.04
+  stop: 5
+  stop_timeout: 3
+  test: false
+  test2: true
+  title: Scan
+  title1: AI Channel 1
+  title2: AI Channel 2
+  x_label: Time
+  x_units: S
+  y_label: Measured voltage
+  y_units: V

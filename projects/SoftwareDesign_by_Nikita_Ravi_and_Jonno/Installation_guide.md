@@ -1,4 +1,4 @@
-The following steps will guide you how to get everything running from scratch (reading [Possible problems](#Possible problems) section recommended). 
+The following steps will guide you how to get everything running from scratch (reading [Possible problems](#Possible problems) section recommended).
 
 
 ### Windows installation
@@ -14,8 +14,8 @@ The following steps will guide you how to get everything running from scratch (r
 
 **2. Go to https://git.science.uu.nl/ued2020/experiment-design-2020**
 
-   1. Download a zip of the repository. Extract the zip. Or you can do the same via Git as with labphew in the following step
-   2. Go to experiment-design-2020/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs/ folder
+   1. Download a zip of the repository. Extract the zip. Or you can do the same via Git as with labphew in the previous step
+   2. In your local files, go to experiment-design-2020/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs
    3. Find the file analog_discovery_2_model.py. You will need it in the following step.
 
 **3. Install anaconda from: https://www.anaconda.com/products/individual**
@@ -23,14 +23,15 @@ The following steps will guide you how to get everything running from scratch (r
    1. Open the anaconda prompt by searching "anaconda prompt" in windows
    2. Navigate to your copied repository folder "master-labphew" in the anaconda prompt using ***cd C:/path/to/dir/.../master-labphew*** (you can go up a folder using **cd ..**). Or just copy the path from file explorer and type **cd** and then insert the path
    3. Now when you are in the labphew project folder go to subfolder /labphew/model and find file analog_discovery_2_model.py. Yeah, it has the same name as the file in experiment design repository. And now replace this file in labphew repository with the file we asked you to remember in step 2.3. When done, return back to labphew project folder.
-   4. Type ***pip install -e .*** and press Enter
+   4. Type "***pip install -e .***" (make sure to include the dot at the end) and press Enter
    5. (Do only if use Spyder IDE) Type ***pip install pyqtwebengine*** and press enter *twice* (the second time after the first one is done). This package is needed only for Spyder IDE, without it it won't start
+   6. Type ***pip install pyqtgraph*** and press enter
 
-   Or you can do all the same but without installing heavy and slow anaconda. The main benefit which anaconda gives is that it installs Python to you computer. But if you already have Python installed, you probably want to go without anaconda.
+   **Or** you can do all the same but without installing heavy and slow anaconda. The main benefit which anaconda gives is that it installs Python to your computer. But if you already have Python installed, you probably want to go without anaconda.
 
    1. Navigate to your copied repository folder "master-labphew" in the command prompt (watch 1 step) using ***cd C:/path/to/dir/.../master-labphew*** (you can go up a folder using **cd ..**). Or just copy the path from file explorer and type **cd** and then insert the path
    2. Now when you are in the labphew project folder go to subfolder /labphew/model and find file analog_discovery_2_model.py. Yeah, it has the same name as the file in experiment design repository. And now replace this file in labphew repository with the file we asked you to remember in step 2.3. When done, return back to labphew project folder.
-   3. Type ***pip install -e .*** and press Enter
+   3. Type ***pip install -e .*** and press Enter (if you had already installed it, be sure to uninstall and reinstall with the new file. We recommend to do the install from scratch however)
    4. (Do only if use Spyder IDE) Type ***pip install pyqtwebengine*** and press enter *twice* (the second time after the first one is done). This package is needed only for Spyder IDE, without it it won't start
 
 **4. Download and install Waveforms program from: https://mautic.digilentinc.com/asset/110:waveforms-windows-64-bit-download. Agree to default options. The detailed guide(on Windows you don't need it) is [there](https://reference.digilentinc.com/learn/instrumentation/tutorials/analog-discovery-2-getting-started)**
@@ -65,3 +66,7 @@ Just install Windows
 It is important to watch where you install your packages. When you open the file in IDE and run it, you do that using some version of Python. If you have only one version of Python in the system, that's the easiest variant, all packages you install will be pinned to this Python version. But if you have multiple versions, the packages you install in one Python version won't be available in another. Why so? When installing packages, Python uses special module called pip. With each version of Python comes it's own pip module. And each pip module installs packages only for it's own version of Python. That's why if you install package in Python 3.6, you won't be able to use it in Python 3.7. Well, technically you probably can by finding in file system all the files of the package and copying them to the folder of another python version and doing something else, but that's a hassle, so we won't consider that.
 
 The possible problem is that when you install Anaconda, it installs its own Python version with it. And you need to ensure that you install packages to the same Python version, which you will use in your IDE to run the python file. This can be easily done by typing command **pip -V** in the terminal, which gives you the full path to your pip module so you can see to which Python version you will install packages with it.
+
+A list of known bugs can be found [here](/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs/Bugs.md).
+
+If you really get stuck, you can ask for Ravi's laptop where everything is installed and working. This is only a last resort though.
