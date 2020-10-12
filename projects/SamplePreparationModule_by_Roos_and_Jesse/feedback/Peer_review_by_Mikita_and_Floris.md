@@ -48,7 +48,7 @@ Mikita, Floris
 - As of Monday (12/10), we were not able to repeat the coating testing since we did not have access to a chemical lab. The indicated contact person (Jesper Moes) was contacted on , and we will try to repeat the experiment before Thursday 15/10.
 - Below are our air flow measurements compared to the ones reported by the project owners. As mentioned, sometimes the details were not entirely clear, and one of the anemonitors was not present. As may be seen, results largely agree, with significant deviation at a handful of measurement spots. This may also be due to aforementioned confusion on the exact nature of the measurements
 
-|position|windspeed (m/s) provided by experiment|windspeed (m/s) measured by 
+|position|windspeed (m/s) provided by experiment group|windspeed (m/s) measured by peer reviewers|
 | ------ | -------- | -------- |
 |in the room we were measuring in| 0.00|0.00|
 |sides of the box without ductape| 0.00|(1)|
