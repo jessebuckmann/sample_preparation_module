@@ -14,7 +14,7 @@ Now you are ready to copy-paste the [code](https://git.science.uu.nl/ued2020/exp
 
 First, notice that you have all the required items:
 
-1 Arduino Due
+1 Arduino Uno
 
 1 BreadBoard
 
