@@ -63,3 +63,10 @@ If you feel really experienced and up to a challenge, you can try to implement o
 1. **An Overview tab**
 
 The idea of this tab is that is shows you the current values of all measured quantities, such that you can take a quick look and see how your experiment is going.
+
+2. **A button that can rotate the balls for the Cavendish experiment**.
+
+This button just rotates the balls. They already have the program, just needs to be implemented.
+
+### Fixing bugs
+A list of known bugs can be found [here](/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs/Bugs.md).
