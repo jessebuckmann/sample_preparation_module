@@ -20,7 +20,7 @@ Mikita, Floris
 
 3.	How helpful is the documentation for reproducing the measurement?
 - Starting from the readme, it is not so clear where to begin with the peer-reviewing. In the readme, perhaps it's good to explicitly link to the instuction file.
-- The measurement description
+- The measurement description itself is perfectly suited for repeating the measurments, it is just a bit unclear how to get the necessities (both the battery and the acces to the chemical lab)
 
 4.	Did you get stuck at some point? What extra help did you need to proceed?
 - The battery needed required to get the fan running, and thus required for the airflow measurments. However, the battery was in use for the peer-reviewing power supply group, so that on Monday we were unable to do the airflow measurment. This was not mentioned in the documentation, and an alternative power source (12V battery) was not provided.
