@@ -11,22 +11,36 @@ Mikita, Floris
 ### Documentation:
 
 1.	Could you understand the purpose of the experiment? Explain.
+- The purpose itself is quite clear: make a well-ventilated and chemically resistant box, such that it functions as a small and lower-budget fumehood, which fits in the larger experiment box.
+
 2.	Were the safety instructions clear?
-- Instructions on prevention itself were clear, most notably on the preventive equipment one should wear while working with acids
-- When working with acids (or rather potentially dangerous chemicals in general), one should add instructions on what to do if something goes wrong, e.g. when you spill, specifically when spilling on your skin. Currently, this is missing.
-- Apparently, the safety instructions of the power supply group mentions the possibility of the battery exploding if it is short-circuited. 
+- Instructions on prevention itself were clear, most notably on the preventive equipment one should wear while working with acids.
+- When working with potentially dangerous chemicals, one should add instructions on what to do if something goes wrong, e.g. when you spill on your skin. Currently, this is missing. However, this is presumed to be not a sefety issue since the instructions state these tests need to be carried out under supervision.
+- Apparently, the safety instructions of the power supply group mentions the possibility of the battery exploding if it is short-circuited. When simply connecting the two wires of the fan, we presume the risk of exploding is non-existent if you connect the wires normally, but perhaps it is good to mention this explicitly to avoid suprises.
+
 3.	How helpful is the documentation for reproducing the measurement?
+- Starting from the readme, it is not so clear where to begin with the peer-reviewing. In the readme, perhaps it's good to explicitly link to the instuction file.
+- The measurement description
+
 4.	Did you get stuck at some point? What extra help did you need to proceed?
-- For the battery, it was mentioned the power supply group should be asked. The power supply group had to be asked for a battery.
+- The battery needed required to get the fan running, and thus required for the airflow measurments. However, the battery was in use for the peer-reviewing power supply group, so that on Monday we were unable to do the airflow measurment. This was not mentioned in the documentation, and an alternative power source (12V battery) was not provided.
+
 5.	Are you guided to reproduce previous measurements? How easily could you navigate through the project documentation?
+- Starting from the readme file of the project folder, one is guided more towards an understaning of the project goals. When following the peer-review instructions, one is guided towards the testing documentation, but not towards the building process documentation.
+- The structure of the repository itself is quite simple and therefore easy and pleasant to navigate through, which is further augmented by cross-references from the readme and peer instructions to the  
+
 6.	What can be improved in the documentation?
+- Link to peer instructions in the readme file.
+- Explicitly mention and refer to the documentation on the building process in the instruction.
 
 ### Measurements:
 
 1.	Can you operate the setup with the provided instructions? 
-2.	How close were the results you obtain to the previously reported results?
+- Yes, as soon as the necesarry equipment is required.
 
-Air flow measurement using the testo anemoniter, except when mentioned otherwise:
+2.	How close were the results you obtain to the previously reported results?
+- The required battery was unavailable since the group peer-reviewing the power supply experiment needed it as well
+- Air flow measurement using the testo anemoniter, except when mentioned otherwise:
 
 |position|windspeed (m/s) provided by experiment|windspeed (m/s) measured by 
 | ------ | -------- | -------- |
@@ -45,11 +59,18 @@ Air flow measurement using the testo anemoniter, except when mentioned otherwise
 |inside hood right below fan| 0.66||
 |inside hood side of fan| 0.52||
 
-(1) not possible to take ductape of
+(1) We did not feel comfortable taking the ductape off, so this measurement was not repeated.
 
 3.	Can you understand and explain the analysis procedure to a third person?
+- The analysis processes on chemical resistance and windspeed itself are well-documented and quite simple, so explaining to a third person is very much doable.
+
 4.	Is the setup robust and safe to operate? 
+- The set-up itself is robust and safe to operate.
+- The chemical testing of the coating is safe for someone who also studied chemistry, and safe under adequate supervision for someone who studied only physics.
+
 5.	Did you encounter any issues? Could you troubleshoot those without contacting the owners?
+
+
 6.	What part of the measurement procedure did you appreciate most?
 
 ### Interactions:
