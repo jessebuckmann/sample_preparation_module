@@ -9,7 +9,9 @@ To do the yaw pitch roll measurments, only the arduino uno, MPU6050 and connecto
 
 When the sensor is setup and measuring the table can be rotated around the clock. This is done on increments of 1 degree from 0 < theta  < 10, than 5 degree intervals up to 90 degrees and from this point on only every 10 degrees to complete the circle. Whilst setting the angles it has to be taken in account that there is some mechanical give in the system. This could introduce a new error in the system when not dealt with correctly. To compensate for this give, the knob has to be put onder strain on the same side of each measurement point. This means either at the beginning or end of the give.  On each of the set angle points the yaw pitch and roll have to be manually read out. When all data is collected the points can be plotted in a program of your own choosing.
 
-The Full Setup that we used can be found in the ["SetUp2"-folder](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master/projects/Stabilization_by_Mark_and_Stijn/TestRuns/YawPitchRole/SetUp).
+The Full Setup that we used can be found in the ["SetUp1"-folder](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master/projects/Stabilization_by_Mark_and_Stijn/TestRuns/YawPitchRole/SetUp).
+
+The rest of the data and graphs that we gained, can be found in the ["YawPitchRole"-folder](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master/projects/Stabilization_by_Mark_and_Stijn/TestRuns/YawPitchRole).
 
 
 **Vibrations:**
@@ -23,3 +25,5 @@ In a vibration experiment, one needs 3 things:
 In our case, that something that creates vibrations became a bass-speaker. This bass-speaker has been secured to a woaden board, which we put on some form of dampening substance. This way, the board will start to vibrate. On the other end of the board, we can then put our mass with our measuring device (the acceleromotor). Between the board and the mass, we can then prepare our system (this can be springs, a dampening substance, or in the easiest case: nothing). To see what has been measured, one has to take a look at what kind of acceleromotor one has. For our experiment, we used an acceleromotor that could directly be plugged into an oscilloscope, meaning that we could visualize the waves over there. However, one can also use the computer and the waveforms-programme of digilent, which is also able to visualize waves. The only thing that's left now, is to show how the system that you have taken a look at reacts to a certain frequency. This is done by making a bode plot, which can be done by a very good oscilloscope, but you can also do it by hand (which takes a lot longer).
 
 The Full Setup that we used can be found in the ["SetUp2"-folder](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master/projects/Stabilization_by_Mark_and_Stijn/TestRuns/AccelerationTest/SetUp). We als made a ["MaterialsUsed"-file](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/Stabilization_by_Mark_and_Stijn/TestRuns/MaterialsUsed.md) where you can find all the materials that we used.
+
+The rest of the data and graphs that we gained, can be found in the ["AccelerationTest"-folder](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master/projects/Stabilization_by_Mark_and_Stijn/TestRuns/AccelerationTest).
