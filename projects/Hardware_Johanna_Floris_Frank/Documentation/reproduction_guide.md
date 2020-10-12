@@ -36,19 +36,19 @@
 - Connect both Arduino's  to your PC (on seperarte USB ports) using the USB cables. Make sure you know the adress of the USB port each Arduino is connected to
 - Pick one Arduino as the slave, the other as the master
 - Connect the (analog) ground pins and the analog A4 and A5 pins on one Arduino to the same pins on the other Arduino
-- Open the [master sketch](https://git.science.uu.nl/experiment-design-2020/-/tree/master/projects/projects/Hardware_Johanna_Floris_Frank/Arduino_code/master_reader.io.ino) and the [slave sketch](https://git.science.uu.nl/experiment-design-2020/-/tree/master/projects/Hardware_Johanna_Floris_Frank/Arduino_code/slave_reader.ino)
+- Open the [master sketch](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/Arduino_code/master_reader.io.ino) and the [slave sketch](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/Arduino_code/slave_reader.ino)
 - Feel free to change around the delay in the master sketch or the print message in the slave sketch. After updating, the altered sketch (naturally) has to be verified and uploaded to the corresponding Arduino again.
 - If you only have a single USB port, connect the 5V power output pin on your master Arduino with the Vin pin on the slave Arduino. Use the one USB port to first upload the slave sketch, and then connect the master to the USB port to power it, upload the master sketch and read out the master output.
 
 *Read out the BME/BMP280 Sensor*
 - Connect the *BME sensor* VIN and GND to the corresponding analog Arduino pins (5V, Ground)
 - Connect the SCL and SDA from the sensor to the pins from the Aurduino
-- Open the [BME sketch](https://git.science.uu.nl/experiment-design-2020/-/tree/master/projects/Hardware_Johanna_Floris_Frank/Arduino_code/BME.ino),
+- Open the [BME sketch](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/Arduino_code/BME.ino),
 
 *Multi-slave single-master set-up for receiving seperate text-based messages and sensor data*
 - Using the breadboard: connect Vin and GND (ground) of the BME/BMP280 sensor directly to the 5V and GND pins on the slave Arduino.
 - Using the breadboard: connect the  SDA, SCL from the sensor with the slave and further with the master SDA, SCL in one line.
 - Ground the slave to the master via the ground next to the SCL/SDA pins
-- Open the [master sketch](https://git.science.uu.nl/experiment-design-2020/-/tree/master/projects/Hardware_Johanna_Floris_Frank/Arduino_code/Hybrid_Master.ino) and the [slave sketch](https://git.science.uu.nl/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/Arduino_code/Hybrid_Slave.ino)
+- Open the [master sketch](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/Arduino_code/Hybrid_Master.ino) and the [slave sketch](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/Arduino_code/Hybrid_Slave.ino)
 
 
