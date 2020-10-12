@@ -20,7 +20,7 @@ Mikita, Floris
 
 3.	How helpful is the documentation for reproducing the measurement?
 - Starting from the readme, it is not so clear where to begin with the peer-reviewing. In the readme, perhaps it's good to explicitly link to the instuction file.
-- The measurement description itself is perfectly suited for repeating the measurments, it is just a bit unclear how to get the necessities (both the battery and the acces to the chemical lab)
+- The measurement description itself is perfectly suited for repeating the measurments, it is just a bit unclear how to get the necessities (both the battery and the acces to the chemical lab).
 
 4.	Did you get stuck at some point? What extra help did you need to proceed?
 - The battery needed required to get the fan running, and thus required for the airflow measurments. However, the battery was in use for the peer-reviewing power supply group, so that on Monday we were unable to do the airflow measurment. This was not mentioned in the documentation, and an alternative power source (12V battery) was not provided.
@@ -69,13 +69,25 @@ Mikita, Floris
 - The chemical testing of the coating is safe for someone who also studied chemistry, and safe under adequate supervision for someone who studied only physics.
 
 5.	Did you encounter any issues? Could you troubleshoot those without contacting the owners?
-
+- 
+- Testing of the coating required making an appointment with Jesper, which we were not able to do on Monday
 
 6.	What part of the measurement procedure did you appreciate most?
+- 
 
 ### Interactions:
 
 1.	Could you relate to the stated goal of the project?
+- Yes, see also answer to question 1 under documentation.
+
 2.	Which instructions did you need from the owners on top of the written files?
+- Help on finding the battery in the power supply group box.
+- Finding out if there was a readily available alternative power source in case the battery was in use by the power supply group.
+
 3.	Does the experiment accomplish its stated purpose?
+- Yes, the box is present, and according to measurments by the group itself it is well-ventilated and the coated wood is reasonable resistant to most chemicals studied.
+
 4.	What do you recommend to the project owners to improve their complete package?
+- Find a separate battery/power supply so you're not dependant upon the power supply group and you can do experiments simultaneosly.
+- Alter the readme file of your folder so one is more guided towards reproducing the experiment.
+- Within the instructions, also mention the building process and link to it. Even though it will be a bit far-fetched to repeat the entire building process, it is good to have an idea on e.g. what materials you used in the production of your box.
