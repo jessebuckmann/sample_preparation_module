@@ -44,7 +44,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________
 
-**Week 5**
+**Week 6**
 
 *Monday*
 
@@ -52,6 +52,11 @@ ________________________________________________________________________________
 - **Submit the Issues**
 - Set the week schedule 
 - Work on Arduino project/test the new code
+
+*Tuesday*
+
+- Meet at 13:45/14:00 in person and get the skripts done
+- Setup appointments for meetings and distribute the rules for schedules etc. via Microsoft Teams
 
 *Thursday*
 - (...)

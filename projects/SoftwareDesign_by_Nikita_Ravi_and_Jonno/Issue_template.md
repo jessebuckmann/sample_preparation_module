@@ -1,6 +1,6 @@
-**Title of your issue:** type of issues, tiny summary
+**Title of your issue:** type of issue: tiny summary
 
-*An example title would be: Bug, program does not start*
+*An example title would be: Bug: program does not start*
 
 **What would you like to report?**
 

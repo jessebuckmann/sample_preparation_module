@@ -40,7 +40,7 @@ class Sensor1(QWidget):
         layout_monitor.addLayout(layout_monitor_buttons)
 
         self.time_step_spinbox = QDoubleSpinBox()
-        self.time_step_spinbox.setSuffix('s')
+        self.time_step_spinbox.setSuffix(' s')
         self.time_step_spinbox.setMinimum(.02)
         self.time_step_spinbox.valueChanged.connect(self.time_step)
         self.time_step_spinbox.setSingleStep(0.05)
@@ -297,9 +297,9 @@ class ScanWindow(ScanWindowBase):
         layout_scan_buttons = QHBoxLayout()
         layout_scan.addLayout(layout_scan_buttons)
 
-        self.scan_duration_spinbox = QDoubleSpinBox(suffix='S', minimum=0, singleStep=0.01,valueChanged=self.scan_duration_value)
+        self.scan_duration_spinbox = QDoubleSpinBox(suffix=' s', minimum=0, singleStep=0.01,valueChanged=self.scan_duration_value)
 
-        self.scan_step_spinbox = QDoubleSpinBox(suffix='S', minimum=0.01, singleStep=0.01, valueChanged=self.scan_step_value)
+        self.scan_step_spinbox = QDoubleSpinBox(suffix=' s', minimum=0.01, singleStep=0.01, valueChanged=self.scan_step_value)
 
         self.scan_duration_label = QLabel('duration')
         self.scan_step_label = QLabel('step')
