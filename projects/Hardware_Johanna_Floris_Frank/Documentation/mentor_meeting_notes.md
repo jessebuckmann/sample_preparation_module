@@ -70,6 +70,7 @@ Week no.: 4
 - Make one person responible for taking notes during mentor meeting (and rotate weekly)
 ____________________________________________________________________________________________________________
 Week no.: 5
+
 **Agenda**
 1) Evaluation of findings from past week
 2) What to do for the deadline on Monday:
@@ -85,5 +86,19 @@ Week no.: 5
 - Include library also in master (for the future: also check the library to see what is possible)
 - Thinking about ´converting float into bit
 - Piece of code to help us :)
-			
+
+____________________________________________________________________________________________________________
+Week no.: 6 (Friday 16:00)
+
+**Agenda**
+1) Share notes of the progress from Monday, Tuesday and Thursday
+1.1) Discuss problems and find solutions for the data transfer (Digital or Analog)
+2) Outline the report for Monday and find a better communication for that  
+3) Set Agenda for the next week/Distribute the project files for updates
+4) Receive and discuss mentor feedback
+
+**Meeting feedback**
+- Focus on serial library	
+- No printing inside loops
+- Available during the weekend to help with the code **Thank You**
 
