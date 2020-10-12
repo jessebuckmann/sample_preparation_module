@@ -45,21 +45,24 @@ Mikita, Floris
 |position|windspeed (m/s) provided by experiment|windspeed (m/s) measured by 
 | ------ | -------- | -------- |
 |in the room we were measuring in| 0.00|0.00|
-|sides of the box without ductape| 0.00| (1)|
-|sides of top window|0.00||
-|sides of front window|0.00||
-|end of the pipe (testo)| 1.60||
-|end of the pipe (kaindl)| 1.7||
-|end of the pipe (travel&co)| 1.6||
-|front of sash while fully opened|0.20||
-|front of sash when almost closed|1.12||
-|middle of hood| 0.23||
-|right middle of hood| 0.04||
-|left middle of hood| 0.04||
-|inside hood right below fan| 0.66||
-|inside hood side of fan| 0.52||
+|sides of the box without ductape| 0.00|(1)|
+|sides of top window|0.00|0.00|
+|sides of front window|0.00|0.00|
+|end of the pipe (testo)| 1.60|0.43 (window closed), 1.01 (window open) (2)|
+|end of the pipe (kaindl)| 1.7|(3)|
+|end of the pipe (travel&co)| 1.6|0.50 (window closed), 1.4 (window open) (2)|
+|front of sash while fully opened|0.20|0.19|
+|front of sash when almost closed|1.12|0.94|
+|middle of hood| 0.23|0.07|
+|right middle of hood| 0.04|0.05|
+|left middle of hood| 0.04|0.05|
+|inside hood right below fan| 0.66|0.40|
+|inside hood side of fan| 0.52|(4)|
 
-(1) We did not feel comfortable taking the ductape off, so this measurement was not repeated.
+(1) We did not feel comfortable taking the ductape off, so this measurement was not repeated. Also not clear where in the box.
+(2) Instructions not clear if the window is to be open or to be closed during measurements
+(3) Sensor not present
+(4) Location not clear
 
 3.	Can you understand and explain the analysis procedure to a third person?
 - The analysis processes on chemical resistance and windspeed itself are well-documented and quite simple, so explaining to a third person is very much doable.
@@ -69,8 +72,9 @@ Mikita, Floris
 - The chemical testing of the coating is safe for someone who also studied chemistry, and safe under adequate supervision for someone who studied only physics.
 
 5.	Did you encounter any issues? Could you troubleshoot those without contacting the owners?
-- 
+- The battery necesarry for the airflow measurements was also used by power supply group. In the end we were able to use the battery after the group peer-reviewing the power supply gorup had finished.
 - Testing of the coating required making an appointment with Jesper, which we were not able to do on Monday
+- Some of the locations on the 
 
 6.	What part of the measurement procedure did you appreciate most?
 - 
@@ -91,3 +95,4 @@ Mikita, Floris
 - Find a separate battery/power supply so you're not dependant upon the power supply group and you can do experiments simultaneosly.
 - Alter the readme file of your folder so one is more guided towards reproducing the experiment.
 - Within the instructions, also mention the building process and link to it. Even though it will be a bit far-fetched to repeat the entire building process, it is good to have an idea on e.g. what materials you used in the production of your box.
+- Better describe the locations you measured the airflow.
