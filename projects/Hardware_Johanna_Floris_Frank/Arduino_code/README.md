@@ -12,4 +12,4 @@ BME.ino can be uploaded to a master Arduino connected to a single (BME) sensor a
 
 **Hybrid_Master and Hybrid_Slave**
 
-The hybrid experiment assumes multiple Arduinos being able to send and receive data. Hybrid_Master.ino can be uploaded to an Arduino, which then acts as the master Arduino requesting data from subscriber (slave) Arduinos and showing this data. Hybrid_Slave.ino can be uploaded to Arduinos connected to (BME) sensors. These subscribers then reads the sensors and gives the data to the master upon request.
+The hybrid experiment has a network of multiple Arduinos being able to send data to a master Arduino. Hybrid_Master.ino can be uploaded to an Arduino, which then acts as the master Arduino requesting data from subscriber (slave) Arduinos and shows this data. Hybrid_Slave.ino can be uploaded to Arduinos connected to (BME) sensors. These subscribers then read the sensors and give the data to the master upon request.
