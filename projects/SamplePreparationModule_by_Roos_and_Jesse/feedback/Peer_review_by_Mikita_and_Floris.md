@@ -19,28 +19,34 @@ Mikita, Floris
 - Apparently, the safety instructions of the power supply group mentions the possibility of the battery exploding if it is short-circuited. When simply connecting the two wires of the fan, we presume the risk of exploding is non-existent if you connect the wires normally, but perhaps it is good to mention this explicitly to avoid suprises.
 
 3.	How helpful is the documentation for reproducing the measurement?
-- Starting from the readme, it is not so clear where to begin with the peer-reviewing. In the readme, perhaps it's good to explicitly link to the instuction file.
-- The measurement description itself is perfectly suited for repeating the measurments, it is just a bit unclear how to get the necessities (both the battery and the acces to the chemical lab).
+- Starting from the readme, it is not so clear where to begin with the peer-reviewing. Rather, one has to manually navigate the repo to find the file, altough the folder name
+- The instruction document by itself is not enough to reproduce the experiment, an. 
+- It is quite inconvenient that part of the instructions for the coating testing are in the instruction file (i.e. the pipetting tutorial), and that the other part is in the testing directory (i.e. the details on the chemicals whose influence was examined). However, despite the missing quantities of 'spilled' material that were analyzed, the information in these two files combined gives a good overview of what was done and how it could be reproduced. 
+- For the airflow measurements, details such as the exact location of measurement spots and whether the window should be open or closed were sometimes not so clear (see also question 2 under measurements).
+- The file for the building process is not mentioned in the reproduction guide, such that one has to browse through the repo themselve, while this is imformation is quite important if someone wants to get an idea of what you have been doing (even if the idea is to not redo the entire building process). The building process file itself does give a nice overview of the building process.
+- The measurement description itself is quite suited for repeating the measurments, it is just a bit unclear how to get the necessities (both the battery and the acces to the chemical lab). 
 
 4.	Did you get stuck at some point? What extra help did you need to proceed?
-- The battery needed required to get the fan running, and thus required for the airflow measurments. However, the battery was in use for the peer-reviewing power supply group, so that on Monday we were unable to do the airflow measurment. This was not mentioned in the documentation, and an alternative power source (12V battery) was not provided.
+- The battery from the power supply group was required to get the fan running, and thus required for the airflow measurments. However, the battery was in use for the peer-reviewing power supply group. Eventually, the battery became available so we were able to repeat the measurements. This was not mentioned in the documentation, and an alternative power source (12V battery) was not provided.
+
 
 5.	Are you guided to reproduce previous measurements? How easily could you navigate through the project documentation?
-- Starting from the readme file of the project folder, one is guided more towards an understaning of the project goals. When following the peer-review instructions, one is guided towards the testing documentation, but not towards the building process documentation.
-- The structure of the repository itself is quite simple and therefore easy and pleasant to navigate through, which is further augmented by cross-references from the readme and peer instructions to the  
+- Starting from the readme file of the project folder, one is guided more towards an understaning of the project goals. When following the peer-review instructions, one is guided towards the testing documentation, but not towards the building process documentation. 
+- The structure of the repository itself is quite simple and therefore easy to navigate through, partially helped by the use of cross-references in both the readme and the instruction, altough a link in the former to the latter would make a fine addition.
 
 6.	What can be improved in the documentation?
 - Link to peer instructions in the readme file.
 - Explicitly mention and refer to the documentation on the building process in the instruction.
+- Be sure that measurement details make sense not only to you, but also to the general audience. In the case of measurement spots in the box, an illustration might help clear the view on this point.
 
 ### Measurements:
 
 1.	Can you operate the setup with the provided instructions? 
-- Yes, as soon as the necesarry equipment is required.
+- Mostly yes. The testing of the coating is doable when acces to a lab and adequate supervision is acquired. 
 
 2.	How close were the results you obtain to the previously reported results?
-- The required battery was unavailable since the group peer-reviewing the power supply experiment needed it as well
-- Air flow measurement using the testo anemoniter, except when mentioned otherwise:
+- As of Monday (12/10), we were not able to repeat the coating testing since we did not have access to a chemical lab. The indicated contact person (Jesper Moes) was contacted on , and we will try to repeat the experiment before Thursday 15/10.
+- Below are our air flow measurements compared to the ones reported by the project owners. As mentioned, sometimes the details were not entirely clear, and one of the anemonitors was not present. As may be seen, results largely agree, with significant deviation at a handful of measurement spots. This may also be due to aforementioned confusion on the exact nature of the measurements
 
 |position|windspeed (m/s) provided by experiment|windspeed (m/s) measured by 
 | ------ | -------- | -------- |
@@ -65,19 +71,19 @@ Mikita, Floris
 (4) Location not clear
 
 3.	Can you understand and explain the analysis procedure to a third person?
-- The analysis processes on chemical resistance and windspeed itself are well-documented and quite simple, so explaining to a third person is very much doable.
+- The analysis processes on chemical resistance and windspeed itself (save for some details on the latter) are well-documented and quite simple, so explaining the genral process to a third person is very much doable.
 
 4.	Is the setup robust and safe to operate? 
 - The set-up itself is robust and safe to operate.
-- The chemical testing of the coating is safe for someone who also studied chemistry, and safe under adequate supervision for someone who studied only physics.
+- Based on the reported safety instructions, the chemical testing of the coating is safe for someone who also studied chemistry, and safe under adequate supervision for someone who studied only physics.
 
 5.	Did you encounter any issues? Could you troubleshoot those without contacting the owners?
-- The battery necesarry for the airflow measurements was also used by power supply group. In the end we were able to use the battery after the group peer-reviewing the power supply gorup had finished.
-- Testing of the coating required making an appointment with Jesper, which we were not able to do on Monday
-- Some of the locations on the 
+- The battery necesarry for the airflow measurements was also used by power supply group. We asked the project group if an alternative power source was present, but there was not. In the end we were able to use the battery after the group peer-reviewing the power supply gorup had finished.
+- Testing of the coating required making an appointment with Jesper, which we were not able to do on Monday.
+- Aforementioned uncertainties regarding the details on the airflow measurements. For some of the measurements, we thought of two possible locations/measurements settings. In those cases we tried both and reported the two values if they were significantly different. Three measurements were not retaken, one of which was taken during the prodcution process so not being able to repeat was not considered a problem. We could have asked the project group for more details on the nature of the other two (one where the required anemonitor was missing, one were the measurement location was not clear). Additionally, we could perhaps have asked the project group where to find the third anemonitor. 
 
 6.	What part of the measurement procedure did you appreciate most?
-- 
+- It is nice that the ventillation results are largely reproducible.
 
 ### Interactions:
 
@@ -85,14 +91,13 @@ Mikita, Floris
 - Yes, see also answer to question 1 under documentation.
 
 2.	Which instructions did you need from the owners on top of the written files?
-- Help on finding the battery in the power supply group box.
-- Finding out if there was a readily available alternative power source in case the battery was in use by the power supply group.
+- See question 5 under measurements.
 
 3.	Does the experiment accomplish its stated purpose?
-- Yes, the box is present, and according to measurments by the group itself it is well-ventilated and the coated wood is reasonable resistant to most chemicals studied.
+- Yes, the box is present, and according to measurments by the project group it is well-ventilated and the coated wood is reasonable resistant to most chemicals studied. This was confirmed by the peer-reviewers, as the air flow measurements were largely reproduced and the piece of coated wood used for the testing coating by the project group was still available for examination.
 
 4.	What do you recommend to the project owners to improve their complete package?
 - Find a separate battery/power supply so you're not dependant upon the power supply group and you can do experiments simultaneosly.
 - Alter the readme file of your folder so one is more guided towards reproducing the experiment.
 - Within the instructions, also mention the building process and link to it. Even though it will be a bit far-fetched to repeat the entire building process, it is good to have an idea on e.g. what materials you used in the production of your box.
-- Better describe the locations you measured the airflow.
+- Make sure all the relevant details of your measurements, particularly the airflow measurments, are well-documented.
