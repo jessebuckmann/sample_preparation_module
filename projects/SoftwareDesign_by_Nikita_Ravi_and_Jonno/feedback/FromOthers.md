@@ -4,9 +4,9 @@ complicated with the installation files, could be prepackaged in a zip
 
 labphew installation caused many issues, but we managed to get it working on one machine.
 
-Then a secon readme about the usage start with "once you get the BIMBO up and running", it feels like some intermediate steps are missing that connect the two files.
+Then a second readme about the usage start with "once you get the BIMBO up and running", it feels like some intermediate steps are missing that connect the two files.
 
-Could use some additional steps for the installation of the arduino or ake it clear if its necesary or not, given the pre-installed arduino
+Could use some additional steps for the installation of the arduino or make it clear if its necesary or not, given the pre-installed arduino
 
 Steps for finding COM port are seperated, even though they are a single step. was slightly confusing.
 
@@ -14,5 +14,5 @@ unclear where the savefile goes for AD2, it says a path, which does not exist on
 when trying to save to a new path by writing it, it gets permission denied or no such file or directory.
 
 BIMBO can only be run once per spyder instance, only restarting spyder enables to run the script again.
-replugging arduino does the job as well, or use a different IDE.
+replugging arduino does the job as well, or use a different IDE. Doesn't happen on MAC
 
