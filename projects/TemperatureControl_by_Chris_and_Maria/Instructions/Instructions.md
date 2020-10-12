@@ -6,13 +6,7 @@ Go to [this site](https://www.arduino.cc/en/Main/software) and choose which suit
 
 Then you can easily install the program.
 
-As we will be using Arduino Due, you have to make an additional step:
-Open the program
--> Go to tools -> Board “Arduino Yun” -> Board Manager-> Select:<< Arduino SAM Boards (32-bits ARM Cortex-M3) by Arduino>> as you can see [here](https://git.science.uu.nl/m.lekou/experiment-design-2020/-/blob/master/projects/TemperatureControl_by_Chris_and_Maria/Instructions/Installing_Arduino_Due.jpg)
-
-Press Install and you are almost ready! (If you need more detailed description you can simply watch this [video](https://www.youtube.com/watch?v=ogXQIYnI8qE))
-
-Re-open the Arduino, Go to tools -> Board “Arduino Yun” -> Arduino Due (Programming Port)
+Open the Arduino, Go to tools -> Board “Arduino Yun” -> Arduino Uno
 
 Now you are ready to copy-paste the [code](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/TemperatureControl_by_Chris_and_Maria/documantation/data/code.txt)!
 
@@ -20,7 +14,7 @@ Now you are ready to copy-paste the [code](https://git.science.uu.nl/ued2020/exp
 
 First, notice that you have all the required items:
 
-1 Arduino Due
+1 Arduino Uno
 
 1 BreadBoard
 
