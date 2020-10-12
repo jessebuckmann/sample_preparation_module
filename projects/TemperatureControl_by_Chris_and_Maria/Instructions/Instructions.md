@@ -6,13 +6,7 @@ Go to [this site](https://www.arduino.cc/en/Main/software) and choose which suit
 
 Then you can easily install the program.
 
-As we will be using Arduino Due, you have to make an additional step:
-Open the program
--> Go to tools -> Board “Arduino Yun” -> Board Manager-> Select:<< Arduino SAM Boards (32-bits ARM Cortex-M3) by Arduino>> as you can see [here](https://git.science.uu.nl/m.lekou/experiment-design-2020/-/blob/master/projects/TemperatureControl_by_Chris_and_Maria/Instructions/Installing_Arduino_Due.jpg)
-
-Press Install and you are almost ready! (If you need more detailed description you can simply watch this [video](https://www.youtube.com/watch?v=ogXQIYnI8qE))
-
-Re-open the Arduino, Go to tools -> Board “Arduino Yun” -> Arduino Due (Programming Port)
+Open the Arduino, Go to tools -> Board “Arduino Yun” -> Arduino Uno
 
 Now you are ready to copy-paste the [code](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/TemperatureControl_by_Chris_and_Maria/documantation/data/code.txt)!
 
@@ -30,7 +24,11 @@ First, notice that you have all the required items:
 
 4 Mosfets
 
-1 Peltier
+1 Peltier with 1 heatsink 
+
+[The box](https://git.science.uu.nl/m.lekou/experiment-design-2020/-/blob/master/projects/TemperatureControl_by_Chris_and_Maria/Instructions/the_box.jpg) (the arrow shows where you can put the peltier)
+
+Extra [Power Supply](https://git.science.uu.nl/m.lekou/experiment-design-2020/-/blob/master/projects/TemperatureControl_by_Chris_and_Maria/Instructions/power_supply.jpg)
 
 Couple of Wires
 
@@ -93,6 +91,8 @@ Gate connected with
 Source connected with
 
 - Ground
+
+Also you will connect the Power Supply with the drain of Mosfet 2 and Mosfet 3  and you will turn it on to 12V.
 
 [This](https://git.science.uu.nl/m.lekou/experiment-design-2020/-/blob/master/projects/TemperatureControl_by_Chris_and_Maria/Instructions/CoolingHeating.jpg) picture will help you have a better understanding of the above part.
 
