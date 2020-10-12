@@ -33,10 +33,22 @@ The experimental setup consists of the following equipment:
 - A water cooker;
 - Tools to unscrew the bolts;
 - Dukttape;
-- The Arduino-temperature setup from the Temperature Controle Group with a laptop supporting the Arduino software (The arduino software can be downloaded from the internet and the [code for the arduino](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/PrepTheBox_Olaf_and_Noor/Instructions/code.txt) is posted in this folder);
-- Any other temperature measuring device that can save the data in 10 second intervals will do;
+- An EasyLogger usb (EL-USB-1);
 
-First make sure you have a working temperature measuremening device and that you have a way of plotting your data (e.g. Excel, python or mathematica).
+**Installing the EasyLogger**
+
+1. Install the [EasyLogger usb software](https://www.lascarelectronics.com/software/easylog-software/easylog-usb)
+2. Plug in the easylogger in a usb port.
+3. Click set-up and start USB data logger
+4. Set the time measuring interval at 10 seconds and confirm
+5. Remove logger from laptop, put the cap on and place inside the box.
+6. After the experiment, again plug in the usb logger.
+7. click stop the usb data logger and download data.
+
+You can use this software to create the plots or you can use the .txt files.
+
+
+First make sure you have a working temperature measuremening device and that you have a way of plotting your data.
 If you feel comfortable working with the panels of the box, have a working temperature measurement device and all the equipment you can start the experiment following the instruction below. **First read through them beforme starting.**
 
 ## Step by step instructions for the experiment
@@ -45,18 +57,18 @@ The first thing you need to do is get an idea for the general design of the box.
 
 **No ventilation**
 
-During the first measurement the box will be completely sealed off. First, all sides but one are taped off and thus made waterproof. Water is cooked, and put in the two beakers. The beakers are then placed in the box, in the lower compartment (because this one has the steadiest flooring, and we don't want water pouring over the laptop and/or Arduino). Once the initial steam cloud is gone, the laptop and the temperature sensor are placed inside, and the last panel is sealed off. The sensor writes to the Arduino IDE every ten seconds. After 25 minutes of measurement, the box is opened again, data is retrieved and put in Excel.
+During the first measurement the box will be completely sealed off. First, all sides but one are taped off and thus made waterproof. Water is cooked, and put in the two beakers. The beakers are then placed in the box, in the lower compartment (because this one has the steadiest flooring, and we don't want water pouring over the easy logger). Once the initial steam cloud is gone the easy logger is placed inside and the last panel is sealed off. The sensor measures the temperature every 10 seconds. After 25 minutes of measurement the box is opened again and the data is retrieved.
 
 1. Make sure that all panels are placed at the correct height, sealing the box completely.
 2. Remove the front panel.
 3. Seal of the edges of the panels with dukttape, except for the bottom edges.
 4. Start boiling 1.5 liters of water in the watercooker. While this is warming up start do step 5.
-5. Place the two beakers on the bottom plate of the box and place the laptop and the temperature measurement device on the middle plate of the box. Make sure everything is stable since the middle plate has holes in it.
+5. Place the two beakers on the bottom plate of the box and place EasyLogger on the middle plate of the box. Make sure everything is stable since the middle plate has holes in it.
 6. Once the water has cooked pour 750 mL of water in each beaker and start the temperature measurment.
 7. After 30 seconds or so (to let most of the initial steam escape the box) put the front panel in place and seal its edges using the tape.
 8. Let the setup stand for **25 minutes**. Do **NOT** move the box during the experiment.
 9. While waiting go and talk to other project groups and ask what their requirements are in the functional off-grid measurement station. Consider if the current design of the box meets their requirements or if changes are necesarry. 
-10. After the 25 minutes remove the tape from the front panel and remove the front panel itself. Take the laptop and the temperature measurement setup out of the box, stop the measurement and process the data.
+10. After the 25 minutes remove the tape from the front panel and remove the front panel itself. Take the Easylogger out of the box, stop the measurement and process the data.
 11. Take out the beakers with water (**Caution, the beakers with water can still be very warm**)
 
 **Passive Ventilation**
