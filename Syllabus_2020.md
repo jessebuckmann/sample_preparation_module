@@ -82,7 +82,7 @@ You will also form teams, choose a project, and express your preference for a me
 	+ it will be useful to take a look at the [Nobel lecture of Gerd Binnig](https://www.nobelprize.org/prizes/physics/1986/binnig/lecture/).
 + **Sanli Faez**: On the discovery of superconductivity and Who created the Science factory?
 + On Thursday, September 10th, **Aron Opheij** will teach us how to interface electronic devices using Python 
-    + [lecture slides]()
+    + [lecture slides](./Lectures/Slides/lecture_Aron.pptx)
 	
 ### Cohort meeting
 
@@ -131,7 +131,7 @@ During this week, you will put together the elements of your experiment and try 
 + we will hear about the Bose-Einstein condensation experiment in the International Space Station, from **Peter van der Straten**  
     + Peter's lecture will be based on selected parts from the [Nobel prize lecture of Phillips](https://www.nobelprize.org/prizes/physics/1997/phillips/lecture/) Monday 
 + we will hear about setting up a reproducible project structure by **Barbara Vreede**
-    - [lecture slides]() -> Thursday 11-12
+    - [lecture slides](https://bvreede.github.io/presentations/presentations/2020-09-17_BestPractices-lecture.html) -> Thursday 11-12
 + we will understand the development of electron microscopy by **Gerhard Blab**.
     - based on [TEM chapter](./Lectures/Reading_material/Williams_Carter_TEM_Chapter1.pdf) -> Thursday 10-11
 
@@ -174,7 +174,8 @@ During the online cohort meeting, your peers will play devil's advocates about t
 + [Nobel prize lecture of Phillips](https://www.nobelprize.org/prizes/physics/1997/phillips/lecture/)
 + [Peter's lecture slides](tbs)
 + [Good coding practices](./Lectures/Reading_material/Good_Enough_Practices_PLOS.pdf)
-+ [Electron microscopy slides](tbs)
++ [Electron microscopy slides](./Lectures/Slides/20200917_Experiment_Design_-_Electron_Microscopy.pdf)
++ [Reproducible Code Lecture Slides](https://bvreede.github.io/presentations/presentations/2020-09-17_BestPractices-lecture.html)
 
 ---
 
@@ -189,11 +190,13 @@ Before the start of this Monday's meeting, you have to met your deadlines up to 
 
 + **Allard Mosk** will tell us how to best extract signal from noise 
     - [lecture slides]()
-+ we will learn hear about the role photovoltaics in the energy transition from **Wilfried van Sark**. 
-    - [lecture slides]()
++ we will play a quiz game on lectures of the past 4 weeks.
 + tbc: We will have a tour of the mechanical workshop
 
+
 ### Cohort meeting
+
+During this week, each team will meet with the course coordinators to discuss their progress.
 
 #### Before the cohort meeting:
 
@@ -203,7 +206,7 @@ Before the start of this Monday's meeting, you have to met your deadlines up to 
 #### After the cohort meeting:
 
 + Revise your project goals (under mid-course review) based on your first signal.
-+ In your presonal goals file, list your contacts, check the current state of your value exchanges, and write down your ideal state.
++ In your personal goals file, list your contacts, check the current state of your value exchanges, and write down your ideal state.
 
 
 ### Resources:
@@ -217,8 +220,10 @@ During this week, you write the necessary code for analysing your measured data 
 
 Make a plan, together with your mentor, for fixing the glitches in the measurement setup, your understanding of your experiment and the physics of it. Execute the plan and explain what you have learned so far to your peers.
 
-During this week, each team will meet with the course coordinators to discuss their progress.
- 
+### In this week lectures 
++ we will learn hear about the role photovoltaics in the energy transition from **Wilfried van Sark** (Thursday 9:30). 
+    - [lecture slides](./Lectures/Slides/EDSolar-VanSark.pdf)
+
 ### Cohort meeting
 
 #### Before the cohort meeting:
@@ -249,7 +254,7 @@ Before the start of this Monday's meeting, you have to met your deadlines up to 
 + Explain your project to another group.
 
 #### After the cohort meeting:
-+ Prepare a detailed set of instructions so that another team can perform your experiment and get results **without your help**. Use the [reproducibility feedback](./Coordination/_Templates/reproducibility_review) as a guide.
++ Prepare a detailed set of instructions so that another team can perform your experiment and get results **without your help**. Use the [reproducibility feedback](./Coordination/_Templates/peer_evaluation.md) as a guide.
 
 ---
 
