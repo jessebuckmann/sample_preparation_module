@@ -9,7 +9,7 @@ To do the yaw pitch roll measurments, only the arduino uno, MPU6050 and connecto
 
 When the sensor is setup and measuring the table can be rotated around the clock. This is done on increments of 1 degree from 0 < theta  < 10, than 5 degree intervals up to 90 degrees and from this point on only every 10 degrees to complete the circle. Whilst setting the angles it has to be taken in account that there is some mechanical give in the system. This could introduce a new error in the system when not dealt with correctly. To compensate for this give, the knob has to be put onder strain on the same side of each measurement point. This means either at the beginning or end of the give.  On each of the set angle points the yaw pitch and roll have to be manually read out. When all data is collected the points can be plotted in a program of your own choosing.
 
-The Full Setup that we used can be found in the ["SetUp2"-folder](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master/projects/Stabilization_by_Mark_and_Stijn/TestRuns/AccelerationTest/SetUp).
+The Full Setup that we used can be found in the ["SetUp2"-folder](https://git.science.uu.nl/ued2020/experiment-design-2020/-/tree/master/projects/Stabilization_by_Mark_and_Stijn/TestRuns/YawPitchRole/SetUp).
 
 
 **Vibrations:**
