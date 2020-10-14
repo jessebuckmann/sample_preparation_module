@@ -7,15 +7,20 @@ Stabilization by Mark and Stijn
 Jillis and Roos
 ## Report 
 
+
+### Disclaimer
+We understand this was not an easy project to begin with. On top of that the vibration team was missing essential components. We do think they did their best with what they had. Nevertheless, there are a lot of things that can be improved upon, even without any further measurements. We did our best to give as much feed back as possible and hope it will be usefull. Good luck guys!
+
+
 ### Documentation:
 
 1.	Could you understand the purpose of the experiment?
 
-*Their purpose is to detect and filter out vibrations, as well as levelling a bed. This is a clearly defined objective and we see how this could be useful for some experiments in the modular experiment box.*
+*Their purpose is to detect and filter out vibrations, as well as levelling a bed. This is a clearly defined objective and is essential if we want to carry out sensitive experiments in the modular experiment box.*
 
 2.	Were the safety instructions clear?
 
-*Not being drunk in the lab seems like good advice, could be phrased differently though. Otherwise, all hazerds seem to be adressed.*
+*Not being drunk in the lab seems like good advice, could be phrased differently though. Otherwise, all hazards seem to be adressed.*
 
 3.	How helpful is the documentation for reproducing the measurement?
 
@@ -23,17 +28,17 @@ Jillis and Roos
 
 4.	Did you get stuck at some point? What extra help did you need to proceed?
 
-*Yes, we already got stuck in the first 15 minutes. First we had to ask where the components were. They didn't mention they borrowed most of their materials, so these were not availlable to us. We came to the decision that we only wanted to test the accelerometer, but when we tried this we found out that there was no ready code in their project folder. We eventually needed their assistence and their computer to test the arduino accelerometer.*
+*Yes, we already got stuck in the first 15 minutes. First we had to ask where the components were. They didn't mention they borrowed most of their materials, so these were not availlable to us. We came to the decision that we only wanted to test the accelerometer at hand, but when we tried this we found out that there was no ready code in their project folder. We eventually needed their assistence and their computer to test the arduino accelerometer.*
 
 5.	Are you guided to reproduce previous measurements? How easily could you navigate through the project documentation?
 
-*First of all, most of the essential components were missing. After communication we found out these components were borrowed from a staff member and were not availlable in short term. The only thing that was accesible was the arduino with the accelerometer, which was not used for their own experiment. They used a different accelerometer for their measurements that had to be returned quickly.
+*First of all, most of the essential components were missing. After communication we found out these components were borrowed from a staff member and were not availlable in short term. The exact dimensions and materials used are nowhere specified, which makes it impossible to recreate the experimental setup. The only thing that was accesible was the arduino with an accelerometer, which was not used in their own experimentents. They used a different accelerometer for their measurements that had to be returned quickly.
 When trying to get the arduino working, we found out there was no code in their project folder. They did reference a library but did not mention which files of the library they used. They did not give any instructions on how they got the arduino working. In the end we used one of their laptops to test the accelerometer.
-The project documentation was badly organised. Important documents were not easily accesible. The instruction on how to use the setup and the code were missing.* 
+The project documentation was badly organised. Important documents and files were not easily accessible or missing. For example, instruction on how to use/construct the setup, code, materials used (insulation foam has many varieties, as do springs, nor are any dimesions specified).* 
 
 6.	What can be improved in the documentation?
 
-*First of all, they could have made better descriptive folder names. Also the folders could have been better structured and the files better distributed. They should have included a dedicated instruction file. Also a description of how they setup their experiments and how they obtained their measurements would have been useful. Furthermore, it would have been useful to mention their contact persons.*
+*First of all, they could have made better descriptive folder names. Also the folders could have been better structured and the files better distributed. They should have included a dedicated instruction file. Also a description of how they setup their experiments and how they obtained their measurements would have been useful. A discussion and conclusion on their bodeplots is missing other than relevance towards the modular experiment box, while there is a lot to talk about with all the different configurations tested (which ones act like low/high pass filter, does this fit with theory?). Furthermore, it would have been useful to mention their contacts. *
 
 ### Measurements:
 
@@ -59,26 +64,26 @@ The project documentation was badly organised. Important documents were not easi
 
 6.	What part of the measurement procedure did you appreciate most?
 
-*The only thing we did was test the arduino. It was nice to see the position of the accelerometer change in real time but we soon realized the accelerometer was not sensitive enough, which was a big dissapointment.*
+*The only thing we did was test the arduino. It was nice to see the position of the accelerometer change in real time but we soon realized the accelerometer was not sensitive enough, slow movements by hand were not detected. We can appreciate the amount of work that went into the bode plots, even though we can't varify them.
 
 ### Interactions:
 
 1.	Could you relate to the stated goal of the project?
 
-*Yes, it would indeed have been useful to have vibration control in the modular experiment box. Different experiments need to be free of vibrations/noise and the plan was to eliminate these, which was a good plan.*
+*Yes, it would indeed have been useful to have vibration control and isolation in the modular experiment box. Sensitive experiments need to be free of vibrational noise. To that end, this project seems essential.*
 
 2.	Which instructions did you need from the owners on top of the written files?
 
-*We needed to know where the rest of the setup was, who they contacted to do their measurements, where they found the code and how they used it.*
+*We needed to know the location of the setup, missing parts and who to contact. Given time constraints we decided not to attempt to recreate their original setup. Next we needed their help to get usable arduino code. Lastly they pointed us to some files we completely missed and presumed missing*
 
 3.	Does the experiment accomplish its stated purpose?
 
-*No, we agree with their conclusion that the accelerometer does not have the required sensitivity to perform its duty. With the the more sensitive accelerometer missing they are unable to balance the setup and block the noise.*
+*No, we agree with their conclusion that the accelerometer does not have the required sensitivity to perform its duty. With the the more sensitive accelerometer unaccessible we can't confirm anything else. In its current state this project will not forfill its required role in the modular experiment box.*
 
 4.	What do you recommend to the project owners to improve their complete package?
 
-*In order to get the experiment working, they could buy a more sensitive accelerometer. However, we can imagine this is expensive and takes too long. We reccomend applying the acoustic isolation foam to the modular experiment box to try to eliminate as much of the noise as possible, even though we don't know how effective this will be. 
-We also reccomend to add more structure to your repository. Make some more directories and also add more descriptive files.*
+*In order to get the experiment working, they could buy a more sensitive accelerometer. However, we can imagine this is too expensive. We recommend applying the best foam/spring configuration to the modular experiment box anyway to try. First, to eliminate as much of the noise as possible, even though we don't know how effective this will be. Secondly, to give the Cavendish project and Glovebox project the necessary specifications to create a structural interface. (read: we would like to know how to attach our stuff to your dampening system) 
+We also reccomend to add more structure to your repository. Make some more directories and use more descriptive names, also for files. Adding more links would be usefull aswell. For example, a link to the final rapport of your findings in the readme, and naming that file to something like "Data and discussion" or just "Rapport". And "TestRuns" to "Data" or "Measurements". Names like FirstRapport and Testruns are deceptive, they appear like intermediate results.
 
 
 
