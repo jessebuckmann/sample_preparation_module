@@ -9,7 +9,7 @@ Jillis and Roos
 
 
 ### Disclaimer
-We understand this was not an easy project to begin with. On top of that the vibration team was missing essential components. We do think they did their best with what they had. Nevertheless, there are a lot of things that can be improved upon, even without any further measurements. We did our best to give as much feed back as possible and hope it will be usefull. Good luck guys!
+We understand this was not an easy project to begin with. On top of that the vibration team was missing essential components. We do think they did their best with what they had. Nevertheless, there are some things that can be improved upon, even without any further measurements. We did our best to give as much feed back as possible and hope it will be usefull. Good luck guys!
 
 
 ### Documentation:
