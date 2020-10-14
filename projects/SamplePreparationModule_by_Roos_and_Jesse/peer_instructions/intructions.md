@@ -11,7 +11,13 @@ For repeating the chemical resistance test you should contact Jesper Moes (j.r.m
 ### Safety Instructions
 When testing the chemical resistance of the coated wood, you should wear a lab coat and safety goggles. For some actions you may have to wear acid resistant gloves. The lab supervisor will tell you when you need to wear gloves. A lab coat and safety goggles can be borrowed from the lab. As also mentioned in the coating_testing file, you should always add water to your beaker first and then the acid.
 
-### Aqua Regia
+In the case acid is spilled over your skin wash with (cold) running water immediately for at least 10 minutes.
+In the scenario where you spill acid elsewhere try to remove as much as possible by pipetting it up, if only a bit of acid is left you can dilute it with water and wipe it up with paper.
+Make sure to wash your hands after performing any testing since trace amounts of chemicals may be left on your hands. 
+
+When using the 12V battery there is a small risk of the battery exploding when short-circuiting it. Attaching the wires as described above will not allow you to short-circuit it.
+
+#### Aqua Regia
 Aqua Regia (King's Water) is an acid which is famous for being able to dissolve nobel metals such as gold and platinum, hence the regia in its name. It consists of a 3:1 molar ratio of hydrochloric: nitric acid and is yellow of color. You should ask one of the lab supervisors to make it for you. We asked Naud van Bunningen (a.j.vanbunningen@uu.nl) to help us prepare it.
 
 ### Finn Pipet
