@@ -19,3 +19,7 @@ Team Noor, Olaf
 ### on Readme (timestamp: 7/10/2020 ~15h)
 ⭐☆☆☆☆
 not much to learn here (at this moment) but good to learn there is the intention for it
+
+### on Instructions (timestamp: 7/10/2020 ~15h)
+⭐⭐⭐⭐☆
+Instructions were easy to find (I suppose the ReadMe was improved compared to Sanli's last check of it as well!) Safety is taken into account. The instructions are clear and very elaborate, but not superfluous. Very nice job.

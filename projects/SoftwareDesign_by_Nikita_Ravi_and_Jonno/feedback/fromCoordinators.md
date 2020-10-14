@@ -17,3 +17,7 @@ Team Nikita, Ravi, Jonno
 ⭐⭐⭐⭐⭐
 nice compilation, clearly considerate of the reader and a very good landing page.
 I only have a minor suggestion: perhaps also suggest how people can follow up on the existing issues, how to report bugs, and how to share their experiences after going through your guidelines. e.g. have a template issue. 
+
+### on Instructions (timestamp: 12/10/2020 ~15h)
+⭐⭐⭐⭐⭐
+Instructions are very clear to find. The installation guide is presented step-by-step. Good job! I don't think I have much to add :)
