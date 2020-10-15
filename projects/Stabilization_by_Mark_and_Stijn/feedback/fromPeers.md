@@ -84,7 +84,11 @@ No, we agree with their conclusion that the accelerometer does not have the requ
 
 In order to get the experiment working, they could buy a more sensitive accelerometer. However, we can imagine this is too expensive. We recommend applying the best foam/spring configuration to the modular experiment box anyway to try. First, to eliminate as much of the noise as possible, even though we don't know how effective this will be. Secondly, to give the Cavendish project and future projects the necessary specifications to create a structural interface. (read: we would like to know how to attach our stuff to your dampening system)
 
+The bodeplot is missing some elements like units. We reccomend improving the layout to be more scientific. Also, how did you obtain the error bars? We also reccomend not to include the photos as data but as examples and record the actual data. This makes the data less open for interpretation and errors.
+
 We also reccomend to add more structure to your repository. Make some more directories and use more descriptive names, also for files. Adding more links would be usefull as well. For example, a link to the final rapport of your findings in the readme, and naming that file to something like "Data and discussion" or just "Rapport". And "TestRuns" to "Data" or "Measurements". Names like FirstRapport and Testruns are deceptive, they appear like intermediate results.
+
+
 
 
 
