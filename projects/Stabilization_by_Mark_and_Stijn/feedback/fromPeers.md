@@ -78,7 +78,7 @@ The project documentation was badly organised. Important documents and files wer
 
 3.	Does the experiment accomplish its stated purpose?
 
-*No, we agree with their conclusion that the accelerometer does not have the required sensitivity to perform its duty. With the the more sensitive accelerometer unaccessible we can't confirm anything else. In its current state this project will not forfill its required role in the modular experiment box.*
+*No, we agree with their conclusion that the accelerometer does not have the required sensitivity to perform its duty. With the the more sensitive accelerometer unaccessible we can't confirm anything else. In its current state this project will not forfill its required role in the modular experiment box. However, the measurements do indicate which dampening system works the best. This dampening system can be applied to the box anyway, even though the effect cannot be measured accurately.*
 
 4.	What do you recommend to the project owners to improve their complete package?
 
