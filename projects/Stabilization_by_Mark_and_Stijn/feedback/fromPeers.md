@@ -74,11 +74,11 @@ Yes, it would indeed have been useful to have vibration control and isolation in
 
 2.	*Which instructions did you need from the owners on top of the written files?*
 
-We needed to know the location of the setup, missing parts and who to contact. Given time constraints we decided not to attempt to recreate their original setup. Next we needed their help to get usable arduino code. Lastly they pointed us to some files we completely missed after a thorough search and presumed missing due to misleading naming.
+We needed to know the location of the setup, missing parts and who to contact. Given time constraints we decided not to attempt to recreate their original setup. Next we needed their help to get usable arduino code. Lastly they pointed us to some files we completely missed after a thorough search and presumed missing due to misleading names.
 
 3.	*Does the experiment accomplish its stated purpose?*
 
-No, we agree with their conclusion that the accelerometer does not have the required sensitivity to perform its duty. With the the more sensitive accelerometer unaccessible we can't confirm anything else. In its current state this project will not forfill its required role in the modular experiment box. However, the measurements do indicate which dampening system works the best. This dampening system can be applied to the box anyway, even though the effect cannot be measured accurately.
+No, we agree with their conclusion that the accelerometer does not have the required sensitivity to perform its duty. With the the more sensitive accelerometer unaccessible we can't confirm anything else. In its current state this project will not forfill its required role in the modular experiment box. However, the measurements do indicate dampening within their measured frequency range when using different configurations. This can be applied to the box anyway, even though the effect cannot be measured accurately.
 
 4.	*What do you recommend to the project owners to improve their complete package?*
 
