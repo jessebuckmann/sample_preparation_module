@@ -74,7 +74,7 @@ Yes, it would indeed have been useful to have vibration control and isolation in
 
 2.	*Which instructions did you need from the owners on top of the written files?*
 
-We needed to know the location of the setup, missing parts and who to contact. Given time constraints we decided not to attempt to recreate their original setup. Next we needed their help to get usable arduino code. Lastly they pointed us to some files we completely missed and presumed missing.
+We needed to know the location of the setup, missing parts and who to contact. Given time constraints we decided not to attempt to recreate their original setup. Next we needed their help to get usable arduino code. Lastly they pointed us to some files we completely missed after a thorough search and presumed missing due to misleading naming.
 
 3.	*Does the experiment accomplish its stated purpose?*
 
