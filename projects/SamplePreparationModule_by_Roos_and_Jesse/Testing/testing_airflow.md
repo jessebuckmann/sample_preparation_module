@@ -7,6 +7,7 @@ When the anemometer was in place, we waited a bit until the value for the windsp
 After waiting for a while, the value on the anemometer still fluctuated a lot.
 We think this might be due to the fan not rotating continuously.
 Because of the fluctuations, an error of +- 0.1 should be taken into account for all measurements.
+All measurements were taken with the sash fully opened unless mentioned ontherwise.
 
 #### table 1: Measured windspeed values for different positions in and around the box.
 |position|windspeed (m/s)|
