@@ -4,7 +4,7 @@
 Stabilization by Mark and Stijn
 
 ## Reviewers: 
-Jillis and Roos
+Jillis (Cavendish experiment) and Roos (Sample preperation module)
 ## Report 
 
 
