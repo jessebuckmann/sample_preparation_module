@@ -9,7 +9,7 @@ Jillis and Roos
 
 
 ### Disclaimer
-We understand this was not an easy project to begin with. On top of that the vibration team was missing essential components. We do think they did their best with what they had. Nevertheless, there are some things that can be improved upon, even without any further measurements. We did our best to give as much feed back as possible and hope it will be usefull. Good luck guys!
+We understand this was not an easy project to begin with. On top of that the vibration team was missing essential components, we do think they did their best with what they had and put a lot of time and effort in. Nevertheless, there are some things that can be improved upon, even without any further measurements. We did our best to give as much feed back as possible and hope it will be usefull. Good luck guys!
 
 
 ### Documentation:
@@ -38,7 +38,7 @@ The project documentation was badly organised. Important documents and files wer
 
 6.	What can be improved in the documentation?
 
-*First of all, they could have made better descriptive folder names. Also the folders could have been better structured and the files better distributed. They should have included a dedicated instruction file. Also a description of how they setup their experiments and how they obtained their measurements would have been useful. A discussion and conclusion on their bodeplots is missing other than relevance towards the modular experiment box, while there is a lot to talk about with all the different configurations tested (which ones act like low/high pass filter, does this fit with theory?). Furthermore, it would have been useful to mention their contacts. *
+*First of all, they could have made better descriptive folder names. Also the folders could have been better structured and the files better distributed. They should have included a dedicated instruction file. Also a description of how they setup their experiments and how they obtained their measurements would have been useful. A discussion and conclusion on their bodeplots is missing other than relevance towards the modular experiment box, while there is a lot to talk about with all the different configurations tested (which ones act like low/high pass filter, does this fit with theory?). Furthermore, it would have been useful to mention their contacts.*
 
 ### Measurements:
 
@@ -64,7 +64,7 @@ The project documentation was badly organised. Important documents and files wer
 
 6.	What part of the measurement procedure did you appreciate most?
 
-*The only thing we did was test the arduino. It was nice to see the position of the accelerometer change in real time but we soon realized the accelerometer was not sensitive enough, slow movements by hand were not detected. We can appreciate the amount of work that went into the bode plots, even though we can't varify them.
+*The only thing we did was test the arduino. It was nice to see the position of the accelerometer change in real time but we soon realized the accelerometer was not sensitive enough, slow movements by hand were not detected. We can appreciate the amount of work that went into the bode plots, even though we can't varify them.*
 
 ### Interactions:
 
@@ -74,7 +74,7 @@ The project documentation was badly organised. Important documents and files wer
 
 2.	Which instructions did you need from the owners on top of the written files?
 
-*We needed to know the location of the setup, missing parts and who to contact. Given time constraints we decided not to attempt to recreate their original setup. Next we needed their help to get usable arduino code. Lastly they pointed us to some files we completely missed and presumed missing*
+*We needed to know the location of the setup, missing parts and who to contact. Given time constraints we decided not to attempt to recreate their original setup. Next we needed their help to get usable arduino code. Lastly they pointed us to some files we completely missed and presumed missing.*
 
 3.	Does the experiment accomplish its stated purpose?
 
@@ -82,8 +82,9 @@ The project documentation was badly organised. Important documents and files wer
 
 4.	What do you recommend to the project owners to improve their complete package?
 
-*In order to get the experiment working, they could buy a more sensitive accelerometer. However, we can imagine this is too expensive. We recommend applying the best foam/spring configuration to the modular experiment box anyway to try. First, to eliminate as much of the noise as possible, even though we don't know how effective this will be. Secondly, to give the Cavendish project and Glovebox project the necessary specifications to create a structural interface. (read: we would like to know how to attach our stuff to your dampening system) 
-We also reccomend to add more structure to your repository. Make some more directories and use more descriptive names, also for files. Adding more links would be usefull aswell. For example, a link to the final rapport of your findings in the readme, and naming that file to something like "Data and discussion" or just "Rapport". And "TestRuns" to "Data" or "Measurements". Names like FirstRapport and Testruns are deceptive, they appear like intermediate results.
+*In order to get the experiment working, they could buy a more sensitive accelerometer. However, we can imagine this is too expensive. We recommend applying the best foam/spring configuration to the modular experiment box anyway to try. First, to eliminate as much of the noise as possible, even though we don't know how effective this will be. Secondly, to give the Cavendish project and future projects the necessary specifications to create a structural interface. (read: we would like to know how to attach our stuff to your dampening system)*
+
+*We also reccomend to add more structure to your repository. Make some more directories and use more descriptive names, also for files. Adding more links would be usefull as well. For example, a link to the final rapport of your findings in the readme, and naming that file to something like "Data and discussion" or just "Rapport". And "TestRuns" to "Data" or "Measurements". Names like FirstRapport and Testruns are deceptive, they appear like intermediate results.*
 
 
 
