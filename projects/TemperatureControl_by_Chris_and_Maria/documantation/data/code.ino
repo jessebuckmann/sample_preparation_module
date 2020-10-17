@@ -64,7 +64,8 @@ void loop() {
     activate_heater();}
  
  else{ deactivate();}
-  
- Serial.println(T);  
+ Serial.print("Temperature = ");
+ Serial.println(T); 
+ Serial.println ("*C");
  delay(20000) ;
 }
