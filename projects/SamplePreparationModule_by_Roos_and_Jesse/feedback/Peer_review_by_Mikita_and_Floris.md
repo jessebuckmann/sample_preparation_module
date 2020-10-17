@@ -43,7 +43,7 @@ Mikita, Floris
 - Mostly yes. Setting up the box for measurment is straightforward and adequetly described. The testing of the coating was deemed very much possible when acces to a lab and adequate supervision is acquired. Repetition of air flow measurements was also possible, save for some details that were not entirely resolved. While not attempted, it was deemed possible to build the box itself based purely on the building process description.
 
 2.	How close were the results you obtain to the previously reported results?
-- As of Monday (12/10), we were not able to repeat the coating testing since we did not have access to a chemical lab. The indicated contact person (Jesper Moes) was contacted on this Monday, and we will try to repeat the experiment before Thursday 15/10.
+- As of Monday (12/10), we were not able to repeat the coating testing since we did not have access to a chemical lab. The indicated contact person (Jesper Moes) was contacted on this Monday, and we will try to repeat the experiment before Thursday 15/10. Update 15/10: this week, we were not able to do the testing due to coronavirus measures and associated limited access to the labs. It might be possbile in the week of 19/10.
 - Below are our air flow measurements compared to the ones reported by the project owners. As mentioned, sometimes the details were not entirely clear, and one of the anemonitors was not present. As may be seen, results largely agree, with significant deviation at a handful of measurement spots. This may also be due to aforementioned confusion on the exact nature of the measurements
 
 |position|windspeed (m/s) provided by experiment group|windspeed (m/s) measured by peer reviewers|
