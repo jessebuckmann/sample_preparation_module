@@ -11,7 +11,9 @@ There are four options to use the program.
 
 See below on how to set up each one of the four options.
 
-Once you get the BIMBO up and running, you can navigate through the tabs and press the start/stop buttons to start measuring. When pressing scan on the Analog Discovery 2 tab, a window pops out which allows you to scan the data and save it over time. If you browse to save the file, it will save as a .nc. However, you can still change the extension before you save it to for example csv. Whatever extension is there, if you open it with notepad it will still be in the csv format. The is an example output file [here](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs/Example_Measurements/exampleMeasurementAD2.csv). If you have ticked the Store config box it will also save a file with your config that looks like [this](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs/Example_Measurements/exampleMeasurementAD2.yml). For scanning any data coming in via an arduino, e.g. temperature or pressure, press 'start scan' in the designated tab. This will start an invisible scan in the background. Pressing 'stop scan' will terminate the scanning procedure and create a .txt file in the source folder with the acquired data in the format: 
+Once you get the BIMBO up and running, you can navigate through the tabs and press the start/stop buttons to start measuring. When pressing scan on the Analog Discovery 2 tab, a window pops out which allows you to scan the data and save it over time. If you browse to save the file, it will save as a .nc. However, you can still change the extension before you save it to for example csv. You can also edit the file path by just typing in the textbar instead opening the browse window. Whatever extension is there, if you open it with notepad it will still be in the csv format. The is an example output file [here](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs/Example_Measurements/exampleMeasurementAD2.csv). If you have ticked the Store config box it will also save a file with your config that looks like [this](projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/Programs/Example_Measurements/exampleMeasurementAD2.yml).  
+
+For scanning any data coming in via an arduino, e.g. temperature or pressure, press 'start scan' in the designated tab. This will start an invisible scan in the background. Pressing 'stop scan' will terminate the scanning procedure and create a .txt file in the source folder with the acquired data in the format: 
 
 \[TemperatureArray]   
 \[TimeArray]
@@ -30,11 +32,13 @@ In preparation of any of the four following options, open your preferred Python 
 - [ ] Comment the import from line 17 where the simulated controller is imported.
 - [ ] Uncomment lines 71 and 72 where the tabs for the Arduino are added .
 - [ ] In order to start using the program, it is essential you plug in the Arduino measurement unit and make sure that it is outputting data in the required format.
-- [ ] Once you have done this you have to check which COM-port is used to communicate with the device.
-- [ ] This can be done (in Windows) by opening *Device Manager* and finding **Ports**. There it will say what COM-port is used.
-- [ ] Now go to the ArduinoWidget.py file and change the 'COMX' in line 17 to whatever COM is used by your device.
+- [ ] Once you have done this you have to check which COM-port is used to communicate with the device. This can be done in Windows by opening *Device Manager* and finding **Ports**. There it will say what COM-port is used. For Mac type ls /dev/* in the terminal to find the com port in the form /dev/tty.usbmodem* where * is the number. 
+- [ ] FOR WINDOWS: Now go to the ArduinoWidget.py file and change the 'COMX' in line 17 to whatever COM is used by your device.
+- [ ] FOR Mac: Change line 17 to: arduinoData = serial.Serial(port='/dev/tty.usbmodem14201', baudrate=9600)
+.
+arduinoData = serial.Serial(port='/dev/tty.usbmodem14201', baudrate=9600)
 
-You are all set to go, just run the BIMBO_Interface.py!
+You are all set to go, just run the BIMBO_Interface.py with a Python interpreter in for example Spyder!
 
 **2. Arduino + simulated Analog Discovery 2**
 - [ ] In the BIMBO_Interface.py add the ArduinoWidget import to line 1 if it is not there.
@@ -42,11 +46,11 @@ You are all set to go, just run the BIMBO_Interface.py!
 - [ ] Uncomment the import from line 17 where the simulated controller is imported.
 - [ ] Uncomment lines 71 and 72 where the tabs for the Arduino are added.
 - [ ] In order to start using the program, it is essential you plug in the Arduino measurement unit.
-- [ ] Once you have done this you have to check which COM-port is used to communicate with the device.
-- [ ] This can be done (in Windows) by opening *Device Manager* and finding **Ports**. There it will say what COM-port is used.
-- [ ] Now go to the ArduinoWidget.py file and change the 'COMX' in line 17 to whatever COM is used by your device.
+- [ ] Once you have done this you have to check which COM-port is used to communicate with the device. This can be done in Windows by opening *Device Manager* and finding **Ports**. There it will say what COM-port is used. For Mac type ls /dev/* in the terminal to find the com port in the form /dev/tty.usbmodem* where * is the number. 
+- [ ] FOR WINDOWS: Now go to the ArduinoWidget.py file and change the 'COMX' in line 17 to whatever COM is used by your device.
+- [ ] FOR Mac: Change line 17 to: arduinoData = serial.Serial(port='/dev/tty.usbmodem14201', baudrate=9600)
 
-You are all set to go, just run the BIMBO_Interface.py!
+You are all set to go, just run the BIMBO_Interface.py with a Python interpreter in for example Spyder!
 
 **3. Only real Analog Discovery 2**
 - [ ] In the BIMBO_Interface.py remove the ArduinoWidget import from line 1.
@@ -55,7 +59,7 @@ You are all set to go, just run the BIMBO_Interface.py!
 - [ ] Comment lines 71 and 72 where the tabs for the Arduino are added.
 
 
-You are all set to go, just run the BIMBO_Interface.py!
+You are all set to go, just run the BIMBO_Interface.py with a Python interpreter in for example Spyder!
 
 **4. Only simulated Analog Discovery 2**
 - [ ] In the BIMBO_Interface.py remove the ArduinoWidget import from line 1.
@@ -63,4 +67,4 @@ You are all set to go, just run the BIMBO_Interface.py!
 - [ ] Uncomment the import from line 17 where the simulated controller is imported.
 - [ ] Comment lines 71 and 72 where the tabs for the Arduino are added.
 
-You are all set to go, just run the BIMBO_Interface.py!
+You are all set to go, just run the BIMBO_Interface.py with a Python interpreter in for example Spyder!
