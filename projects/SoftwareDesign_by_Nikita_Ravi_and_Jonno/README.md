@@ -8,7 +8,7 @@ Welcome! 🎊 😍 😄 :kissing_heart:
 
 #### Short description
 
-Our plans are to write one simple rule-them-all program, which consists of different components which interact with each other. The inspiration of our program is the [labphew](https://labphew.readthedocs.io/en/latest/) package. The plan for now is to follow short-period development lifecycle when during one iteration we realize a small number of features and changes, then ask all the other groups how this corresponds to their needs, collect feedback, adjust the specifications, and start the next iteration. The contents of this directory may drastically change as we continue to specify the requirements from the other teams. [How to reach us](#How to reach us).
+Our plans are to write one simple rule-them-all program called ***Beautiful Interface of Magic Box Operations (BIMBO)***, which consists of different components which interact with each other. The inspiration of our program is the [labphew](https://labphew.readthedocs.io/en/latest/) package. The plan for now is to follow short-period development lifecycle when during one iteration we realize a small number of features and changes, then ask all the other groups how this corresponds to their needs, collect feedback, adjust the specifications, and start the next iteration. The contents of this directory may drastically change as we continue to specify the requirements from the other teams. [How to reach us](#How to reach us).
 
 #### Long description
 
