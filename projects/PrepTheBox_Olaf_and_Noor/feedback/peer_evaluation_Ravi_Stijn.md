@@ -63,3 +63,17 @@ Stijn and Ravi
     Implement what people asked for a bit better. For example, there need to be holes for cables and such to the outside of the box. Also implement handles on the front for better handling of the box.
 
 
+## Reaction from the Prep The Box team
+
+Hi Ravi and Stijn! First of all thanks a lot for the provided feedback. 
+
+It is true that some of the elements from the design are not yet implemented in the box. It still is a work in progress of course (for example the holes in the bottom are still on our to-do list but there has not yet been time to implement this). The idea on handles on the front panel is a good one. This will surely be added to the overal design. 
+
+We also understand better thanks to your feedback that the instructions were a bit unclear on some parts. We will address this problem by adding some lines of instructions on the spots where you encountered some issues.
+    
+The idea of asking the other groups what they needed was not to check a list of demands, but to check our design (and not the not-finished product). We wanted you to read through and get a feeling on the design of the box and then see if based on the demands of the other groups, you would get to the same or a similar design as ours or perhaps to an entirely different design. This was an "experiment" entirely separate from the temperature measurment, which was an experiment to quantitatively check one specific part of the design. We will naturaly make this more clear in our improved version of the instructions.
+
+Thank you again for taking the time to perform this experiment and provide this feedback. It helps us a lot to improve the project and it makes clear how to proceed.
+
+Kind regards, Olaf and Noor
+
