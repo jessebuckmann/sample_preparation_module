@@ -78,6 +78,7 @@ While working with acids you have to dispose your waste in the acids container, 
 
 In addition to these step-by-step procedures you can find our test results and steps in the [coating testing file](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SamplePreparationModule_by_Roos_and_Jesse/Testing/testing_coating.md)
 
+Directly after having performed these tests one can see which chemicals cause any visual damage to the coating. Since the chemicals may have dissolved slightly into the coating we stress that you do not touch any of these areas yet, since this may still be harmful. Therefore there will be a second test that is done, which is not an exact measure. After 24 hours feel each area to see if there is any none visible damage. Sometimes it might be very difficult to feel that is why these results are not exact. 
 
 ### Airflow testing
 
