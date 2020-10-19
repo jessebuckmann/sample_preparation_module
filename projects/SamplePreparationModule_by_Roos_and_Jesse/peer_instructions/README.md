@@ -81,5 +81,21 @@ In addition to these step-by-step procedures you can find our test results and s
 Directly after having performed these tests one can see which chemicals cause any visual damage to the coating. Since the chemicals may have dissolved slightly into the coating we stress that you do not touch any of these areas yet, since this may still be harmful. Therefore there will be a second test that is done, which is not an exact measure. After 24 hours feel each area to see if there is any none visible damage. Sometimes it might be very difficult to feel that is why these results are not exact. 
 
 ### Airflow testing
+In order to do the airflow testing you have to contact Pascal Koopman (p.koopman@uu.nl) he has the anemometers. Ask for one from [travel&co](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SamplePreparationModule_by_Roos_and_Jesse/Photos/Travel_co_anemometer.jpeg), one from [testo](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SamplePreparationModule_by_Roos_and_Jesse/Photos/testo_anemometer.jpeg) and a [kaindl windmaster 2](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SamplePreparationModule_by_Roos_and_Jesse/Photos/kaindl_anemometer.jpeg). 
+In our measurements we found the testo anemometer to be the most accurate, you can see if you obtain the same result.
+Attach the fan to the battery as you have read in the [instructions](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SamplePreparationModule_by_Roos_and_Jesse/peer_instructions/instructions.md).
+There are several locations of the fumehood that you will have to measure:
+- To find if there is any 'background' you first measure the room. (Here we found the highest accuracy with the Testo anemometer)
+- The sides of the top window and the front window.
+- The end of the PVC pipe at the top of the box. This is measured with the sash open to enable a good airflow.
+- In front of the sash window while it is fully opened. Keep the anemometer in the middle.
+- In front of the sash window when it is almost fully closed. Leave approximately 0.5 mm. Hold the anemometer in the middle again.
+- In the middle of the box, around 24 cm from each side and 13 cm elevated. (this is with the sash window open)
+- In the right middle of the box, around 12 cm from the right side of the box and 13 cm elevated. (Sash is open.)
+- In the left middle of the box, around 12 cm from the left side of the box and 13 cm elevated. (Sash is open.)
+- Right below the fan inside the box. This is measured with the sash open.
+- At the side of the fan inside the box, same height as the fan but now located 2cm from the side of the fan without changing the height. This is measured with the sash open.
 
-Good luck!
+Comparing the results can be done by opening the [airflow testing file](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/SamplePreparationModule_by_Roos_and_Jesse/Testing/testing_airflow.md). This also contains a comparison with professional fumehood wind speeds.
+
+#### Good luck!
