@@ -57,7 +57,15 @@ ________________________________________________________________________________
 
 - Meet at 13:45/14:00 in person and get the skripts done
 - Setup appointments for meetings and distribute the rules for schedules etc. via Microsoft Teams
+__________________________________________________________________________________________________
 
-*Thursday*
-- (...)
+**Week 7**
+
+*Friday*
+
+- discussing the feedback
+- including (or distribute who does what) the feedback/update the documentation
+- splitting the group
+- set schedule and ideas for the following week
+
 
