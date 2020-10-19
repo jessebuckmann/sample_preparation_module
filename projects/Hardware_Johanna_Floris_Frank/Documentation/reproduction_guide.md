@@ -2,13 +2,18 @@
 
 - Since this projects is basically just connecting some Arduino's with some wires and running sketches on there, there are no special safety concerns inherent to the set-up
 - Necesarry items are all found in our project box (along with a few redundant items you can leave in peace).
-- Here you can also find the ![Arduino Uno layout](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/Documentation/Inkedarduino_LI.jpg)
 
 **Hardware required**
 
 - Two Arduino UNO (other Arduino types would work, but the connection pins will be different than described here) with USB connecting cables
+
+<img src="projects/Hardware_Johanna_Floris_Frank/Documentation/images/Inkedarduino_LI.jpg"  width="450">
+
 - Breadboard (For absolute certainty: to connect two wires, they must be placed in the same row of the breadboard)
 - GybMep BME/BMP280 sensor
+
+<img src="projects/Hardware_Johanna_Floris_Frank/Documentation/images/bme.PNG"  width="250">
+
 - Connecting wires
 - PC with USB port (preferably 2, but one is also possible)
 - Multimeter
@@ -39,16 +44,26 @@
 - Open the [master sketch](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/Arduino_code/master_reader.io.ino) and the [slave sketch](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/Arduino_code/slave_reader.ino)
 - Feel free to change around the delay in the master sketch or the print message in the slave sketch. After updating, the altered sketch (naturally) has to be verified and uploaded to the corresponding Arduino again.
 - If you only have a single USB port, connect the 5V power output pin on your master Arduino with the Vin pin on the slave Arduino. Use the one USB port to first upload the slave sketch, and then connect the master to the USB port to power it, upload the master sketch and read out the master output.
+- Once per loop, the master output should write the string "hello".  
+- If this works, proceed to the next experiment.
+
+<img src="projects/Hardware_Johanna_Floris_Frank/Documentation/images/Capture2.PNG"  width="750"> 
 
 *Read out the BME/BMP280 Sensor*
 - Connect the *BME sensor* VIN and GND to the corresponding analog Arduino pins (5V, Ground)
-- Connect the SCL and SDA from the sensor to the pins from the Aurduino
-- Open the [BME sketch](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/Arduino_code/BME.ino),
+- Connect the SCL and SDA from the sensor to the corresponding pins from the Aurduino
+- Open the [BME sketch](https://git.science.uu.nl/experiment-design-2020/-/tree/master/projects/Hardware_Johanna_Floris_Frank/Arduino_code/BME.ino)
+- As before, read the Arduino output, which once per loop should give normal values for temperature, pressure, approximate altitude and humidity.
+- If this works, proceed to the next experiment.
+
+<img src="projects/Hardware_Johanna_Floris_Frank/Documentation/images/Capture.PNG"  width="450">
 
 *Multi-slave single-master set-up for receiving seperate text-based messages and sensor data*
 - Using the breadboard: connect Vin and GND (ground) of the BME/BMP280 sensor directly to the 5V and GND pins on the slave Arduino.
 - Using the breadboard: connect the  SDA, SCL from the sensor with the slave and further with the master SDA, SCL in one line.
 - Ground the slave to the master via the ground next to the SCL/SDA pins
 - Open the [master sketch](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/Arduino_code/Hybrid_Master.ino) and the [slave sketch](https://git.science.uu.nl/ued2020/experiment-design-2020/-/blob/master/projects/Hardware_Johanna_Floris_Frank/Arduino_code/Hybrid_Slave.ino)
-
+- Read the master output, once per loop this should print out the sensor value and a normal value for the temperature.
+- If this works, well done. You can now perform your celebration art piece.
+<img src="projects/Hardware_Johanna_Floris_Frank/Documentation/images/Capture3.PNG"  width="750">
 

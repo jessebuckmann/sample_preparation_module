@@ -70,4 +70,11 @@ The master arduino does send output when wiring incorrectly (SCL-A4 slave-A4 mas
 It would be nice to create a wiring diagram/pictures of the final setup.
 It would be nice to include some documentation for people who did not yet work with an Arduino yet.
 
-
+## Respone from project group: 
+Thank you for the documentation.
+It was indeed a bit vague how to connect the wires based purely on text. Wiring diagrams for the different set-ups are now included, as an overview diagram of an Arduino UNO board and the sensor. 
+Hopefully this also solves probles regarding the recognision of the sensor component.
+ 
+In our experience, the desired output was somewhat clear from the description of the set-up itself. 
+However, since your experiences were different, a have added this more explicitly to the reproduction guide.
+In addition, a mre detailed description on what the COM port output should read if the set-up is repeated.
