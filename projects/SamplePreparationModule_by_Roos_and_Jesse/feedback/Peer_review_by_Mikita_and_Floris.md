@@ -102,3 +102,8 @@ Mikita, Floris
 - Alter the readme file of your folder so one is more guided towards reproducing the experiment.
 - Within the instructions, also mention the building process and link to it. Even though it will be a bit far-fetched to repeat the entire building process, it is good to have an idea on e.g. what materials you used in the production of your box.
 - Make sure all the relevant details of your measurements, particularly the airflow measurments, are well-documented.
+
+## Reaction
+Thanks for the feedback! First of all, we don't think we should buy a seperate battery. When the sample preperation module is eventually added to the experiment box, there should be enough power to supply all the projects. We do agree that there should be more links between files and that we should have been more detailed in describing the measurement processes. We incorporated your feedback and hopefully you can agree that it improved our documentation.
+
+
