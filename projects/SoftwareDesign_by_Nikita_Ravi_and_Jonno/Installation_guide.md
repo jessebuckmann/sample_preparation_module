@@ -55,7 +55,11 @@ ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(myappid)
 
 ### MacOS installation
 
-Well, you is going to be the first person who try to run this on mac. This [guide](https://reference.digilentinc.com/learn/instrumentation/tutorials/analog-discovery-2-getting-started) will show you how to install the Waveforms software, other steps are the same as in Windows.
+Well, you is going to be the second person who try to run this on mac. This [guide](https://reference.digilentinc.com/learn/instrumentation/tutorials/analog-discovery-2-getting-started) will show you how to install the Waveforms software, other steps are the same as in Windows. Just deleted the following lines in BIMBO_Interface.py
+```
+myappid = 'BIMBO'
+ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(myappid)
+```
 
 ### Android and IOS
 

@@ -63,7 +63,7 @@ During the first measurement the box will be completely sealed off. First, all s
 2. Remove the front panel.
 3. Seal of the edges of the panels with dukttape, except for the bottom edges.
 4. Start boiling 1.5 liters of water in the watercooker. While this is warming up start do step 5.
-5. Place the two beakers on the bottom plate of the box and place EasyLogger on the middle plate of the box. Make sure everything is stable since the middle plate has holes in it.
+5. Place the two beakers on the bottom plate of the box and place EasyLogger on the middle plate of the box. Position of the EasyLogger does not really matter, as long as you make sure it is not directly above the beakers (we do not want it in the middle of the steam coming from the boiling water, as this would make our data unreliable). Make sure everything is stable since the middle plate has holes in it.
 6. Once the water has cooked pour 750 mL of water in each beaker and start the temperature measurment.
 7. After 30 seconds or so (to let most of the initial steam escape the box) put the front panel in place and seal its edges using the tape.
 8. Let the setup stand for **25 minutes**. Do **NOT** move the box during the experiment.
@@ -76,12 +76,12 @@ During the first measurement the box will be completely sealed off. First, all s
 The second measurement has two opposite panels of The Box slightly ajar (The left and the right panel), and thus has a passive ventilation channel.
 
 12. Remove the tape from the left and right hand side panels
-13. Lower the **left** panel untill there is a gap of around 20 centimeters at the top of the panel.
-14. Raise the right panel maximally. There will be a gap of around 15 centimeters at the bottom.
+13. Lower the **left** panel untill there is a gap of around 20 centimeters at the top of the panel. The panel can be lowered by clicking the magnets on the panel on the lower ones than their original counterparts on the frame of the box.
+14. Raise the right panel maximally. There will be a gap of around 15 centimeters at the bottom. You can raise the panel by screwing it loose and placing it on bolts that stick out. Tape it extra tightly to keep it in place.
 15. Seal the edges of the side panels.
 16. Repeat step **4** up untill step **11**
 
-Below, a few images can be seen. The first one shows the completely sealed off Box, the second one shows the passive ventilation setup, and the third one shows the insides of The Box. These can give some indication of what the set-up looks like
+Below, a few images can be seen. The first one shows the completely sealed off Box, the second one shows the passive ventilation setup, and the third one shows the insides of The Box. These can give some indication of what the set-up looks like. Note that we did not use the EasyLogger when carrying out the experiment, but rather the entire Arduino setup from the temperature control group. This is why we have enclosed our laptop in the box as well, this can be seen in the second picture.
 
 ![The sealed off Box](./images/BoxSeal.jpeg)
 

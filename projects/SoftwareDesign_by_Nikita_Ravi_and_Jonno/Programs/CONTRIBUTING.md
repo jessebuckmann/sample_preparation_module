@@ -1,4 +1,4 @@
-Dear Contributor, we appreciate you showing your willingness to contribute! If you want to report a bug or suggest a change please adhere to the steps in this [README](https://git.science.uu.nl/r.deberg/experiment-design-2020/-/tree/master/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno#how-to-report-issuesbugscomplimentscomplaints)
+Dear Contributor, we appreciate you showing your willingness to contribute! If you want to report a bug or suggest a change please adhere to the steps in this [README](/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno#how-to-report-issuesbugscomplimentscomplaints). If you have any questions or want to learn more, you can also shoot us a message on teams. See the how to reach us in the [README](/projects/SoftwareDesign_by_Nikita_Ravi_and_Jonno/README.md) for the link.
 
 ### Adding your own tab!
 

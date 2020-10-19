@@ -20,3 +20,4 @@ STUDENT NAME:
 
 ## Final review of goals (fill at the end of the course)
 * Review the course from your personal point of view and whether it met your expectations. State how you could have done better and suggest changes that can make the course better.* 
+
