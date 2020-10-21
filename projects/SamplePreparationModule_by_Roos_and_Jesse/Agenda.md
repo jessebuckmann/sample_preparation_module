@@ -39,7 +39,7 @@
 ## Week 42 
 - Review work from another group.
 - If feedback has already been provided start working on improving the sample preparation module.
-- Start working on poster.
+- ~~Start working on poster.~~
 
 
 ## Week 43
@@ -47,6 +47,9 @@
 - Continue working on poster.
 - Project advertisement.
 - Make the presentation goals.
+- *Finished feedback processing.*
+- *Wrote story-telling.*
+- *Made general script for video.*
 
 
 ## Week 44 
