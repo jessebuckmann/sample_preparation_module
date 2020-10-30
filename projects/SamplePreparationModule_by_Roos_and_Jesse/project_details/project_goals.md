@@ -41,4 +41,13 @@ Revised goals:
 
 
 ## Final review of goals (fill at the end of the course)
-*Evaluate the project performance according to your mid-course goals. State what changes are necessary and which goals had to be adjusted.* 
+Now that the project has come to an end it is time to view back on some of the goals we have set for ourselves during the mid-course review.
+- We made the sides, top and back of the module airtight
+- We added ventilation and tested the airflow.
+- Workspace coated with polyurethane managed to resist most of the acids and solvents we used on it. Only the strongest acids caused visible damage which is a pretty good result. We are very pleased with this.
+- We also added an additional window on the top to allow for more light in the box and you can now see what your doing in the box when it is placed on a relatively low surface. This was a great improvement in hindsight.
+
+Additionally we also integrated with the temperature group. Their elements are to weak to control the temperature of the entire box so now they are controlling the temperature in our box instead. Since these adjustments were made at the very end and came as a surprise for us. As far as we have seen the progress it looked pretty impressive, eventhough it caused some delay for the integration into the big box. 
+
+We did have to add that not all chemicals will be suitable for use in the box as it damages the coating which means that it is not safe to work with in large quantities. 
+Compared to a real fumehood our airflow is also lower, but for the size of our box it is strong enough.
